@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T19:25:42+08:00",
-  "updated_at_display": "2026-07-01 19:25:42",
+  "updated_at": "2026-07-01T21:52:28+08:00",
+  "updated_at_display": "2026-07-01 21:52:28",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,41 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260701T190020",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500212005",
+          "sna": "石碇高中",
+          "sarea": "石碇區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 18,
+          "last_mday": "20260701T182203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234018",
+          "sna": "二橋虹橋公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260701T182115",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
