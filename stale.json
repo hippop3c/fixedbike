@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T07:43:54+08:00",
-  "updated_at_display": "2026-07-02 07:43:54",
+  "updated_at": "2026-07-02T09:51:39+08:00",
+  "updated_at_display": "2026-07-02 09:51:39",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,7 +10,8 @@
     },
     "2h": {
       "stations": [],
-      "sample_count": 2
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
       "stations": [],
