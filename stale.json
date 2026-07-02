@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T00:19:58+08:00",
-  "updated_at_display": "2026-07-03 00:19:58",
+  "updated_at": "2026-07-03T02:14:15+08:00",
+  "updated_at_display": "2026-07-03 02:14:15",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,12 +9,18 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500203138",
+          "sna": "新北大道二段139巷",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 11,
+          "last_mday": "20260702T231204",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500227072",
           "sna": "寶橋路235巷",
@@ -27,36 +33,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218144",
-          "sna": "板樹體育館",
-          "sarea": "板橋區",
+          "sno": "NTPC-500227113",
+          "sna": "新北捷運環狀線南機廠",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260702T214803",
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260702T231302",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500210041",
-          "sna": "永成市民活動中心",
-          "sarea": "永和區",
+          "sno": "NTPC-500229071",
+          "sna": "國家電影及視聽文化中心",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260702T201502",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223058",
-          "sna": "衛教公園",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260702T215903",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260702T230216",
           "sample_count": 2
         },
         {
@@ -72,6 +67,33 @@
         }
       ],
       "sample_count": 2
+    },
+    "4h": {
+      "stations": [
+        {
+          "sno": "NTPC-500227072",
+          "sna": "寶橋路235巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "20260702T211516",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234028",
+          "sna": "礫間停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260702T175918",
+          "sample_count": 3
+        }
+      ],
+      "sample_count": 3
     }
   }
 }
