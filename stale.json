@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T22:18:46+08:00",
-  "updated_at_display": "2026-07-02 22:18:46",
+  "updated_at": "2026-07-03T00:19:58+08:00",
+  "updated_at_display": "2026-07-03 00:19:58",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,14 +16,47 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500229010",
-          "sna": "瓊林公園",
-          "sarea": "新莊區",
+          "sno": "NTPC-500227072",
+          "sna": "寶橋路235巷",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260702T184503",
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "20260702T211516",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218144",
+          "sna": "板樹體育館",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260702T214803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260702T201502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223058",
+          "sna": "衛教公園",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260702T215903",
           "sample_count": 2
         },
         {
