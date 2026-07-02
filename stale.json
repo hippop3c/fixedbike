@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T19:56:58+08:00",
-  "updated_at_display": "2026-07-02 19:56:58",
+  "updated_at": "2026-07-02T22:18:46+08:00",
+  "updated_at_display": "2026-07-02 22:18:46",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,30 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500229010",
+          "sna": "瓊林公園",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260702T184503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234028",
+          "sna": "礫間停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260702T175918",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
