@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T06:29:04+08:00",
-  "updated_at_display": "2026-07-03 06:29:04",
+  "updated_at": "2026-07-03T07:40:57+08:00",
+  "updated_at_display": "2026-07-03 07:40:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,89 +11,22 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
+          "sno": "NTPC-500217003",
+          "sna": "坪林旅遊服務中心",
+          "sarea": "坪林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260703T005116",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260703T004316",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229138",
-          "sna": "新樹路258巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260703T045103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234028",
-          "sna": "礫間停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260702T175918",
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260703T060115",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260703T005116",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260703T004316",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234028",
-          "sna": "礫間停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260702T175918",
-          "sample_count": 3
-        }
-      ],
-      "sample_count": 3
+      "stations": [],
+      "sample_count": 4
     }
   }
 }
