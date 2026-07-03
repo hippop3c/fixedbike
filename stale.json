@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T16:37:02+08:00",
-  "updated_at_display": "2026-07-03 16:37:02",
+  "updated_at": "2026-07-03T19:17:27+08:00",
+  "updated_at_display": "2026-07-03 19:17:27",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,19 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500206031",
+          "sna": "青雲路451巷口(紐約艾美社區)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 40,
+          "tot": 41,
+          "last_mday": "20260703T135005",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
