@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-03T09:18:26+08:00",
-  "updated_at_display": "2026-07-03 09:18:26",
+  "updated_at": "2026-07-03T13:28:07+08:00",
+  "updated_at_display": "2026-07-03 13:28:07",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,80 +9,14 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500217003",
-          "sna": "坪林旅遊服務中心",
-          "sarea": "坪林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260703T060115",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218229",
-          "sna": "望月公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260703T065503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223059",
-          "sna": "新市一路一段256巷口",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 21,
-          "last_mday": "20260703T072904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223056",
-          "sna": "淡金路38巷尾",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260703T072503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234008",
-          "sna": "永吉國小",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260703T072503",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500217003",
-          "sna": "坪林旅遊服務中心",
-          "sarea": "坪林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260703T060115",
-          "sample_count": 3
-        }
-      ],
-      "sample_count": 3
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     }
   }
 }
