@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T01:47:18+08:00",
-  "updated_at_display": "2026-07-05 01:47:18",
+  "updated_at": "2026-07-05T03:16:39+08:00",
+  "updated_at_display": "2026-07-05 03:16:39",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -19,17 +19,6 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260704T230916",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203051",
-          "sna": "藍天大樓",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 30,
-          "last_mday": "20260705T000603",
           "sample_count": 2
         },
         {
@@ -55,17 +44,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206099",
-          "sna": "捷運頂埔站(3號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 63,
-          "tot": 64,
-          "last_mday": "20260704T234803",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500227119",
           "sna": "中央陸橋(中央一街)",
           "sarea": "新店區",
@@ -74,17 +52,6 @@
           "bemp": 13,
           "tot": 16,
           "last_mday": "20260705T001004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227001",
-          "sna": "天山公園(永安街)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 30,
-          "last_mday": "20260704T235003",
           "sample_count": 2
         },
         {
@@ -110,14 +77,47 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216008",
-          "sna": "三井Outlet",
-          "sarea": "林口區",
+          "sno": "NTPC-500229094",
+          "sna": "台北醫院(民樂街)",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 61,
-          "tot": 63,
-          "last_mday": "20260705T002202",
+          "bemp": 8,
+          "tot": 11,
+          "last_mday": "20260705T013003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229065",
+          "sna": "宏匯思源廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 30,
+          "last_mday": "20260705T010804",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229022",
+          "sna": "捷運頭前庄站(1號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 87,
+          "tot": 90,
+          "last_mday": "20260705T012903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218126",
+          "sna": "新府區運路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260705T012202",
           "sample_count": 2
         },
         {
@@ -132,17 +132,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216014",
-          "sna": "林口國民運動中心",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260704T224804",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500216049",
           "sna": "西林簡易籃球場",
           "sarea": "林口區",
@@ -151,6 +140,17 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260705T002116",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214017",
+          "sna": "汐止火車站",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 53,
+          "tot": 56,
+          "last_mday": "20260705T013702",
           "sample_count": 2
         },
         {
@@ -214,6 +214,17 @@
     "4h": {
       "stations": [
         {
+          "sno": "NTPC-500203111",
+          "sna": "光復路一段99巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260704T230916",
+          "sample_count": 4
+        },
+        {
           "sno": "NTPC-500209027",
           "sna": "五工二五工一路口(泰博科技)",
           "sarea": "五股區",
@@ -222,6 +233,17 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260704T203703",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500227024",
+          "sna": "綠湖公園",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 42,
+          "tot": 44,
+          "last_mday": "20260704T222303",
           "sample_count": 4
         },
         {
@@ -244,6 +266,39 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260704T210304",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500223028",
+          "sna": "淡水國民運動中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 34,
+          "tot": 36,
+          "last_mday": "20260704T231603",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500234023",
+          "sna": "建國中正一路口(北鶯社區)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260704T230603",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500234058",
+          "sna": "鳳三龍七路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260704T230216",
           "sample_count": 4
         }
       ],
