@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T19:01:36+08:00",
-  "updated_at_display": "2026-07-04 19:01:36",
+  "updated_at": "2026-07-04T20:18:44+08:00",
+  "updated_at_display": "2026-07-04 20:18:44",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,34 +11,44 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203116",
-          "sna": "三和路四段73號旁",
-          "sarea": "三重區",
+          "sno": "NTPC-500205065",
+          "sna": "三峽中山公園",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260704T160503",
+          "last_mday": "20260704T175503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227072",
+          "sna": "寶橋路235巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "20260704T185603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260704T172802",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203116",
-          "sna": "三和路四段73號旁",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260704T160503",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 3
     }
   }
 }
