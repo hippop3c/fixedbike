@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T07:46:02+08:00",
-  "updated_at_display": "2026-07-04 07:46:02",
+  "updated_at": "2026-07-04T11:20:22+08:00",
+  "updated_at_display": "2026-07-04 11:20:22",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,53 +9,9 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500227113",
-          "sna": "新北捷運環狀線南機廠",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260704T013003",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229104",
-          "sna": "五工路68巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260704T063203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500226006",
-          "sna": "瑞芳運動公園",
-          "sarea": "瑞芳區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 12,
-          "last_mday": "20260704T063717",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234018",
-          "sna": "二橋虹橋公園",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260704T055203",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
       "stations": [
@@ -68,10 +24,10 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260704T013003",
-          "sample_count": 4
+          "sample_count": 2
         }
       ],
-      "sample_count": 4
+      "sample_count": 2
     }
   }
 }
