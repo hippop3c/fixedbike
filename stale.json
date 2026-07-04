@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T06:40:31+08:00",
-  "updated_at_display": "2026-07-05 06:40:31",
+  "updated_at": "2026-07-05T07:44:35+08:00",
+  "updated_at_display": "2026-07-05 07:44:35",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -19,28 +19,6 @@
           "bemp": 33,
           "tot": 35,
           "last_mday": "20260705T044602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227070",
-          "sna": "寶中路97巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260705T034503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227067",
-          "sna": "寶強文化路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 11,
-          "last_mday": "20260705T023702",
           "sample_count": 2
         },
         {
@@ -64,23 +42,34 @@
           "tot": 30,
           "last_mday": "20260705T010804",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214067",
+          "sna": "汐萬抽水站",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 7,
+          "tot": 9,
+          "last_mday": "20260705T060302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234029",
+          "sna": "北鶯停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260705T060216",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500227067",
-          "sna": "寶強文化路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 11,
-          "last_mday": "20260705T023702",
-          "sample_count": 4
-        },
         {
           "sno": "NTPC-500229065",
           "sna": "宏匯思源廣場",
