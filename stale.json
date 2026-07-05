@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T07:44:35+08:00",
-  "updated_at_display": "2026-07-05 07:44:35",
+  "updated_at": "2026-07-05T09:27:06+08:00",
+  "updated_at_display": "2026-07-05 09:27:06",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,79 +9,11 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 35,
-          "last_mday": "20260705T044602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227113",
-          "sna": "新北捷運環狀線南機廠",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260705T050603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 30,
-          "last_mday": "20260705T010804",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214067",
-          "sna": "汐萬抽水站",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 7,
-          "tot": 9,
-          "last_mday": "20260705T060302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234029",
-          "sna": "北鶯停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260705T060216",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 30,
-          "last_mday": "20260705T010804",
-          "sample_count": 4
-        }
-      ],
+      "stations": [],
       "sample_count": 4
     }
   }
