@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T22:16:38+08:00",
-  "updated_at_display": "2026-07-05 22:16:38",
+  "updated_at": "2026-07-05T23:47:34+08:00",
+  "updated_at_display": "2026-07-05 23:47:34",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,36 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500216068",
-          "sna": "師大林口校區正樓後",
-          "sarea": "林口區",
+          "sno": "NTPC-500218139",
+          "sna": "浮洲運動公園",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260705T185302",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260705T211803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223018",
+          "sna": "輕軌淡江大學站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260705T220503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500226006",
+          "sna": "瑞芳運動公園",
+          "sarea": "瑞芳區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260705T211503",
           "sample_count": 2
         }
       ],
