@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T06:13:58+08:00",
-  "updated_at_display": "2026-07-06 06:13:58",
+  "updated_at": "2026-07-06T07:30:30+08:00",
+  "updated_at_display": "2026-07-06 07:30:30",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,61 +11,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203138",
-          "sna": "新北大道二段139巷",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260705T235104",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206074",
-          "sna": "明德平面停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 7,
-          "tot": 10,
-          "last_mday": "20260706T010203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229104",
-          "sna": "五工路68巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260706T010303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218139",
-          "sna": "浮洲運動公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260706T034715",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218219",
-          "sna": "生態南公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260706T032903",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500218107",
           "sna": "香社一藝文街口(歡喜市社區)",
           "sarea": "板橋區",
@@ -77,14 +22,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223038",
-          "sna": "崁頂林子福德宮",
-          "sarea": "淡水區",
+          "sno": "NTPC-500210038",
+          "sna": "永和勵行街口",
+          "sarea": "永和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 15,
-          "last_mday": "20260705T232517",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260706T060915",
           "sample_count": 2
         }
       ],
@@ -93,39 +38,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500203138",
-          "sna": "新北大道二段139巷",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260705T235104",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500206074",
-          "sna": "明德平面停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 7,
-          "tot": 10,
-          "last_mday": "20260706T010203",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229104",
-          "sna": "五工路68巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260706T010303",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500218107",
           "sna": "香社一藝文街口(歡喜市社區)",
           "sarea": "板橋區",
@@ -134,17 +46,6 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260705T224604",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500223038",
-          "sna": "崁頂林子福德宮",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 15,
-          "last_mday": "20260705T232517",
           "sample_count": 4
         }
       ],
