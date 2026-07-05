@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T20:18:07+08:00",
-  "updated_at_display": "2026-07-05 20:18:07",
+  "updated_at": "2026-07-05T22:16:38+08:00",
+  "updated_at_display": "2026-07-05 22:16:38",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,66 +11,21 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205043",
-          "sna": "光明路69巷口",
-          "sarea": "三峽區",
+          "sno": "NTPC-500216068",
+          "sna": "師大林口校區正樓後",
+          "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260705T180504",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500205061",
-          "sna": "臺北大學懷德居木師基地",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260705T175416",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260705T122003",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227088",
-          "sna": "輕軌玫瑰中國城站",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 30,
-          "last_mday": "20260705T175505",
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260705T185302",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260705T122003",
-          "sample_count": 3
-        }
-      ],
+      "stations": [],
       "sample_count": 3
     }
   }
