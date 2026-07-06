@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T22:31:28+08:00",
-  "updated_at_display": "2026-07-06 22:31:28",
+  "updated_at": "2026-07-07T01:29:02+08:00",
+  "updated_at_display": "2026-07-07 01:29:02",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,6 +16,17 @@
     "4h": {
       "stations": [
         {
+          "sno": "NTPC-500203091",
+          "sna": "群光公園",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260706T212004",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500206031",
           "sna": "青雲路451巷口(紐約艾美社區)",
           "sarea": "土城區",
@@ -24,6 +35,28 @@
           "bemp": 40,
           "tot": 41,
           "last_mday": "20260706T182203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227072",
+          "sna": "寶橋路235巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "20260706T220903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227026",
+          "sna": "青潭河濱公園",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260706T221602",
           "sample_count": 2
         }
       ],
