@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T07:30:30+08:00",
-  "updated_at_display": "2026-07-06 07:30:30",
+  "updated_at": "2026-07-06T09:24:59+08:00",
+  "updated_at_display": "2026-07-06 09:24:59",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,47 +9,12 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500218107",
-          "sna": "香社一藝文街口(歡喜市社區)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260705T224604",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210038",
-          "sna": "永和勵行街口",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260706T060915",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500218107",
-          "sna": "香社一藝文街口(歡喜市社區)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260705T224604",
-          "sample_count": 4
-        }
-      ],
-      "sample_count": 4
+      "stations": [],
+      "sample_count": 3
     }
   }
 }
