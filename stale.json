@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T21:34:40+08:00",
-  "updated_at_display": "2026-07-07 21:34:40",
+  "updated_at": "2026-07-08T00:12:15+08:00",
+  "updated_at_display": "2026-07-08 00:12:15",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,19 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500227026",
+          "sna": "青潭河濱公園",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260707T203103",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
