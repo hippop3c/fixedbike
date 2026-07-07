@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T05:54:35+08:00",
-  "updated_at_display": "2026-07-08 05:54:35",
+  "updated_at": "2026-07-08T07:03:57+08:00",
+  "updated_at_display": "2026-07-08 07:03:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,242 +11,21 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203114",
-          "sna": "光復中興北街175巷口(西北側)",
-          "sarea": "三重區",
+          "sno": "NTPC-500206058",
+          "sna": "和平路105號",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 40,
-          "tot": 41,
-          "last_mday": "20260708T034102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260708T000603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209023",
-          "sna": "五工五五權路口",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 18,
-          "last_mday": "20260708T013503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 35,
-          "last_mday": "20260708T010039",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227056",
-          "sna": "十四張央北二路口(波爾多社區)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260708T012517",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227052",
-          "sna": "台北慈濟醫院",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260708T032902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227011",
-          "sna": "寶橋路78巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260708T000502",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227010",
-          "sna": "崇光女中",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260708T041603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227034",
-          "sna": "捷運新店區公所站(1號出口)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 41,
-          "tot": 42,
-          "last_mday": "20260708T022202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227113",
-          "sna": "新北捷運環狀線南機廠",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260707T231002",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218068",
-          "sna": "板橋中山公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260708T034017",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218218",
-          "sna": "生態北公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260708T005203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214067",
-          "sna": "汐萬抽水站",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 7,
-          "tot": 9,
-          "last_mday": "20260708T004702",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260708T052503",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260708T000603",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500209023",
-          "sna": "五工五五權路口",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 18,
-          "last_mday": "20260708T013503",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 35,
-          "last_mday": "20260708T010039",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227056",
-          "sna": "十四張央北二路口(波爾多社區)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260708T012517",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227011",
-          "sna": "寶橋路78巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260708T000502",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227113",
-          "sna": "新北捷運環狀線南機廠",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260707T231002",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218218",
-          "sna": "生態北公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260708T005203",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500214067",
-          "sna": "汐萬抽水站",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 7,
-          "tot": 9,
-          "last_mday": "20260708T004702",
-          "sample_count": 3
-        }
-      ],
+      "stations": [],
       "sample_count": 3
     }
   }
