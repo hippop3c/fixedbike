@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T02:22:16+08:00",
-  "updated_at_display": "2026-07-08 02:22:16",
+  "updated_at": "2026-07-08T04:25:50+08:00",
+  "updated_at_display": "2026-07-08 04:25:50",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -27,6 +27,50 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500203078",
+          "sna": "捷運三和國中站(2號出口)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 17,
+          "last_mday": "20260708T020003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203104",
+          "sna": "重新路五段(心天匯社區)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260708T003517",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209023",
+          "sna": "五工五五權路口",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 18,
+          "last_mday": "20260708T013503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 35,
+          "last_mday": "20260708T010039",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500206051",
           "sna": "土城國小(興城路)",
           "sarea": "土城區",
@@ -38,25 +82,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227002",
-          "sna": "國家人權博物館",
-          "sarea": "新店區",
+          "sno": "NTPC-500206035",
+          "sna": "金城裕民路口(中正國中)",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260707T233204",
+          "bemp": 50,
+          "tot": 51,
+          "last_mday": "20260708T015403",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227070",
-          "sna": "寶中路97巷口",
+          "sno": "NTPC-500227056",
+          "sna": "十四張央北二路口(波爾多社區)",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260707T231204",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260708T012517",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227067",
+          "sna": "寶強文化路口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260708T012603",
           "sample_count": 2
         },
         {
@@ -71,6 +126,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500227053",
+          "sna": "捷運七張站(1號出口)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 41,
+          "tot": 42,
+          "last_mday": "20260708T010802",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500227113",
           "sna": "新北捷運環狀線南機廠",
           "sarea": "新店區",
@@ -79,17 +145,6 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260707T231002",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227094",
-          "sna": "輕軌新和國小站",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 22,
-          "tot": 23,
-          "last_mday": "20260707T233603",
           "sample_count": 2
         },
         {
@@ -115,14 +170,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229119",
-          "sna": "福慧新知八路口",
-          "sarea": "新莊區",
+          "sno": "NTPC-500218217",
+          "sna": "亞東醫院",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260708T000404",
+          "bemp": 60,
+          "tot": 61,
+          "last_mday": "20260708T012315",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218046",
+          "sna": "捷運板橋站(1號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 85,
+          "tot": 86,
+          "last_mday": "20260708T010618",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218061",
+          "sna": "文化路二段182巷1弄",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 48,
+          "tot": 49,
+          "last_mday": "20260708T021601",
           "sample_count": 2
         },
         {
@@ -137,6 +214,28 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500218218",
+          "sna": "生態北公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260708T005203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214027",
+          "sna": "汐止火車站停車場",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 98,
+          "tot": 99,
+          "last_mday": "20260708T014004",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500214006",
           "sna": "汐科火車站(南)",
           "sarea": "汐止區",
@@ -145,6 +244,28 @@
           "bemp": 76,
           "tot": 77,
           "last_mday": "20260707T233902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214067",
+          "sna": "汐萬抽水站",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 7,
+          "tot": 9,
+          "last_mday": "20260708T004702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220015",
+          "sna": "捷運泰山站(4號出口)",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260708T004515",
           "sample_count": 2
         }
       ],
