@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T21:05:39+08:00",
-  "updated_at_display": "2026-07-08 21:05:39",
+  "updated_at": "2026-07-08T23:35:30+08:00",
+  "updated_at_display": "2026-07-08 23:35:30",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,6 +9,11 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
         {
           "sno": "NTPC-500202003",
@@ -22,22 +27,29 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500210041",
-          "sna": "永成市民活動中心",
-          "sarea": "永和區",
+          "sno": "NTPC-500206058",
+          "sna": "和平路105號",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260708T183416",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260708T210404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218159",
+          "sna": "新海抽水站停車場",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260708T194021",
           "sample_count": 2
         }
       ],
       "sample_count": 2
-    },
-    "4h": {
-      "stations": [],
-      "sample_count": 3
     }
   }
 }
