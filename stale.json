@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T07:03:57+08:00",
-  "updated_at_display": "2026-07-08 07:03:57",
+  "updated_at": "2026-07-08T08:11:57+08:00",
+  "updated_at_display": "2026-07-08 08:11:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,24 +9,12 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260708T052503",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     },
     "4h": {
       "stations": [],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
