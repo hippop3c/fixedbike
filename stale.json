@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T01:10:22+08:00",
-  "updated_at_display": "2026-07-09 01:10:22",
+  "updated_at": "2026-07-09T02:46:33+08:00",
+  "updated_at_display": "2026-07-09 02:46:33",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,6 +10,17 @@
     },
     "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500205016",
+          "sna": "中華愛國路口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 10,
+          "last_mday": "20260709T003603",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500202003",
           "sna": "櫻花水車公園",
@@ -33,6 +44,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500207058",
+          "sna": "板南路492號",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260709T005403",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500206058",
           "sna": "和平路105號",
           "sarea": "土城區",
@@ -44,25 +66,47 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227072",
-          "sna": "寶橋路235巷",
-          "sarea": "新店區",
+          "sno": "NTPC-500206063",
+          "sna": "捷運永寧站(3號出口)",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260708T223816",
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260709T002003",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229021",
-          "sna": "中港大排願景館",
+          "sno": "NTPC-500227075",
+          "sna": "北新新生街口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260709T002903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229099",
+          "sna": "廣停一機車停車場",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 56,
-          "tot": 57,
-          "last_mday": "20260708T231503",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260709T001202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229119",
+          "sna": "福慧新知八路口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260708T234216",
           "sample_count": 2
         },
         {
@@ -77,6 +121,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500218145",
+          "sna": "三民永豐街口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 13,
+          "last_mday": "20260709T005003",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500218161",
           "sna": "八德公園",
           "sarea": "板橋區",
@@ -85,17 +140,6 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260708T220603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218211",
-          "sna": "捷運江子翠站(5號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 30,
-          "tot": 31,
-          "last_mday": "20260708T231516",
           "sample_count": 2
         },
         {
@@ -121,14 +165,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500214009",
-          "sna": "汐科火車站(北)",
+          "sno": "NTPC-500214034",
+          "sna": "五堵火車站",
           "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 74,
-          "tot": 76,
-          "last_mday": "20260708T223803",
+          "bemp": 65,
+          "tot": 66,
+          "last_mday": "20260709T004504",
           "sample_count": 2
         }
       ],
@@ -145,7 +189,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260708T180818",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500207002",
@@ -156,7 +200,7 @@
           "bemp": 68,
           "tot": 70,
           "last_mday": "20260708T233216",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500206058",
@@ -167,29 +211,7 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260708T210404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227072",
-          "sna": "寶橋路235巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260708T223816",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229021",
-          "sna": "中港大排願景館",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 56,
-          "tot": 57,
-          "last_mday": "20260708T231503",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229117",
@@ -200,7 +222,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260708T232303",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218161",
@@ -211,18 +233,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260708T220603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218211",
-          "sna": "捷運江子翠站(5號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 30,
-          "tot": 31,
-          "last_mday": "20260708T231516",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218156",
@@ -233,7 +244,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260708T230803",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500214051",
@@ -244,21 +255,10 @@
           "bemp": 16,
           "tot": 20,
           "last_mday": "20260708T232718",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214009",
-          "sna": "汐科火車站(北)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 74,
-          "tot": 76,
-          "last_mday": "20260708T223803",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     }
   }
 }
