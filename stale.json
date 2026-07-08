@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T05:42:30+08:00",
-  "updated_at_display": "2026-07-09 05:42:30",
+  "updated_at": "2026-07-09T06:45:42+08:00",
+  "updated_at_display": "2026-07-09 06:45:42",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,28 +11,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500202003",
-          "sna": "櫻花水車公園",
-          "sarea": "三芝區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260708T180818",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209003",
-          "sna": "五股工商立體停車場",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 22,
-          "last_mday": "20260709T011003",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500206058",
           "sna": "和平路105號",
           "sarea": "土城區",
@@ -44,47 +22,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227075",
-          "sna": "北新新生街口",
+          "sno": "NTPC-500227007",
+          "sna": "捷運小碧潭站(1號出口)",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 10,
-          "tot": 12,
-          "last_mday": "20260709T034818",
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260709T050302",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229099",
-          "sna": "廣停一機車停車場",
+          "sno": "NTPC-500229125",
+          "sna": "台水新莊服務所",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260709T001202",
+          "bemp": 34,
+          "tot": 36,
+          "last_mday": "20260709T051902",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218156",
-          "sna": "湳仔二橋",
-          "sarea": "板橋區",
+          "sno": "NTPC-500231032",
+          "sna": "俊英街219巷口",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260708T230803",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218160",
-          "sna": "縣民大道三段270巷口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260709T035904",
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260709T053404",
           "sample_count": 2
         }
       ],
@@ -93,28 +60,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500202003",
-          "sna": "櫻花水車公園",
-          "sarea": "三芝區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260708T180818",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500209003",
-          "sna": "五股工商立體停車場",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 22,
-          "last_mday": "20260709T011003",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500206058",
           "sna": "和平路105號",
           "sarea": "土城區",
@@ -123,32 +68,10 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260708T210404",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229099",
-          "sna": "廣停一機車停車場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260709T001202",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218156",
-          "sna": "湳仔二橋",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260708T230803",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
