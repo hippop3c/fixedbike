@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T08:12:34+08:00",
-  "updated_at_display": "2026-07-09 08:12:34",
+  "updated_at": "2026-07-09T12:20:43+08:00",
+  "updated_at_display": "2026-07-09 12:20:43",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,47 +9,14 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260708T210404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214075",
-          "sna": "水蓮山莊",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 22,
-          "last_mday": "20260709T062703",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260708T210404",
-          "sample_count": 4
-        }
-      ],
-      "sample_count": 4
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     }
   }
 }
