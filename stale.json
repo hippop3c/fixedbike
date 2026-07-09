@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T06:45:42+08:00",
-  "updated_at_display": "2026-07-09 06:45:42",
+  "updated_at": "2026-07-09T08:12:34+08:00",
+  "updated_at_display": "2026-07-09 08:12:34",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -22,36 +22,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227007",
-          "sna": "捷運小碧潭站(1號出口)",
-          "sarea": "新店區",
+          "sno": "NTPC-500214075",
+          "sna": "水蓮山莊",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260709T050302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229125",
-          "sna": "台水新莊服務所",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 36,
-          "last_mday": "20260709T051902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231032",
-          "sna": "俊英街219巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260709T053404",
+          "bemp": 20,
+          "tot": 22,
+          "last_mday": "20260709T062703",
           "sample_count": 2
         }
       ],
