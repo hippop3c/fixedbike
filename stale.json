@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T18:14:56+08:00",
-  "updated_at_display": "2026-07-12 18:14:56",
+  "updated_at": "2026-07-12T19:33:53+08:00",
+  "updated_at_display": "2026-07-12 19:33:53",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,7 +9,41 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500202002",
+          "sna": "三芝國中",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 14,
+          "last_mday": "20260712T171802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207076",
+          "sna": "嘉穗公園",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260712T180803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227044",
+          "sna": "安居公教住宅",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260712T175503",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     },
     "4h": {
