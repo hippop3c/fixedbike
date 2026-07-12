@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T20:39:15+08:00",
-  "updated_at_display": "2026-07-12 20:39:15",
+  "updated_at": "2026-07-12T22:15:36+08:00",
+  "updated_at_display": "2026-07-12 22:15:36",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -22,47 +22,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500203138",
-          "sna": "新北大道二段139巷",
-          "sarea": "三重區",
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 11,
-          "last_mday": "20260712T192816",
+          "bemp": 33,
+          "tot": 35,
+          "last_mday": "20260712T200303",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227044",
-          "sna": "安居公教住宅",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260712T175503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218219",
-          "sna": "生態南公園",
+          "sno": "NTPC-500218159",
+          "sna": "新海抽水站停車場",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260712T185604",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210043",
-          "sna": "中正橋(環河西路一段)",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260712T192103",
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260712T200603",
           "sample_count": 2
         },
         {
@@ -74,17 +52,6 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260712T184304",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233048",
-          "sna": "國道路二段88號",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260712T190802",
           "sample_count": 2
         },
         {
@@ -115,14 +82,25 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500227044",
-          "sna": "安居公教住宅",
-          "sarea": "新店區",
+          "sno": "NTPC-500226006",
+          "sna": "瑞芳運動公園",
+          "sarea": "瑞芳區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260712T175503",
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260712T184304",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234042",
+          "sna": "鳳七鶯歌路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260712T192203",
           "sample_count": 3
         }
       ],
