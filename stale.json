@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T14:19:57+08:00",
-  "updated_at_display": "2026-07-12 14:19:57",
+  "updated_at": "2026-07-12T16:38:49+08:00",
+  "updated_at_display": "2026-07-12 16:38:49",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,30 +14,7 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500211001",
-          "sna": "白沙灣",
-          "sarea": "石門區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 55,
-          "tot": 56,
-          "last_mday": "20260712T081209",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500211003",
-          "sna": "草里",
-          "sarea": "石門區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260712T081304",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     }
   }
