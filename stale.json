@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T23:35:45+08:00",
-  "updated_at_display": "2026-07-13 23:35:45",
+  "updated_at": "2026-07-14T01:42:07+08:00",
+  "updated_at_display": "2026-07-14 01:42:07",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -15,6 +15,39 @@
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500209027",
+          "sna": "五工二五工一路口(泰博科技)",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260713T230703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 35,
+          "last_mday": "20260713T222102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227131",
+          "sna": "博愛中正路口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 31,
+          "last_mday": "20260713T231304",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500227117",
           "sna": "新安永安街94巷口",
@@ -35,6 +68,61 @@
           "bemp": 26,
           "tot": 27,
           "last_mday": "20260713T115202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218144",
+          "sna": "板樹體育館",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260713T214004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231048",
+          "sna": "東興街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260713T215816",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214076",
+          "sna": "江北二橋",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "20260713T231903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214081",
+          "sna": "湖光市民活動中心",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260713T224003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220015",
+          "sna": "捷運泰山站(4號出口)",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 26,
+          "last_mday": "20260713T231203",
           "sample_count": 2
         },
         {
