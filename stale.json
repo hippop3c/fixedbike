@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T02:39:33+08:00",
-  "updated_at_display": "2026-07-15 02:39:33",
+  "updated_at": "2026-07-15T03:56:20+08:00",
+  "updated_at_display": "2026-07-15 03:56:20",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,17 +10,6 @@
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203114",
-          "sna": "光復中興北街175巷口(西北側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 41,
-          "last_mday": "20260715T010302",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500203112",
           "sna": "光復興德路口(東南側)",
@@ -52,17 +41,6 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260714T220503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209003",
-          "sna": "五股工商立體停車場",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 22,
-          "last_mday": "20260715T005117",
           "sample_count": 2
         },
         {
@@ -132,17 +110,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227123",
-          "sna": "碧潭大橋(溪洲路6巷)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260715T011202",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500227089",
           "sna": "輕軌台北小城站(南側)",
           "sarea": "新店區",
@@ -165,25 +132,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229015",
-          "sna": "捷運新北產業園區站",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 67,
-          "tot": 70,
-          "last_mday": "20260715T003302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218097",
-          "sna": "捷運府中站(3號出口)",
+          "sno": "NTPC-500218154",
+          "sna": "板橋車站(新站路)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 67,
-          "tot": 69,
-          "last_mday": "20260715T010902",
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20260715T013004",
           "sample_count": 2
         },
         {
@@ -198,14 +154,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500210024",
-          "sna": "捷運頂溪站(2號出口)",
-          "sarea": "永和區",
+          "sno": "NTPC-500231002",
+          "sna": "俊興三龍街口",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260715T011202",
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260715T013203",
           "sample_count": 2
         },
         {
@@ -253,28 +209,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223041",
-          "sna": "捷運淡水站(中正鼻頭街口)",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260715T003315",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500215001",
-          "sna": "臺大醫院金山分院",
-          "sarea": "金山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260714T205304",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500234058",
           "sna": "鳳三龍七路口",
           "sarea": "鶯歌區",
@@ -283,6 +217,17 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260715T004617",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234001",
+          "sna": "鶯歌火車站(仁愛路)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 68,
+          "tot": 69,
+          "last_mday": "20260715T022714",
           "sample_count": 2
         }
       ],
@@ -299,7 +244,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260714T220602",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500209027",
@@ -310,7 +255,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260714T220503",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227012",
@@ -321,7 +266,7 @@
           "bemp": 43,
           "tot": 44,
           "last_mday": "20260714T205603",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227113",
@@ -332,7 +277,7 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260714T234104",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500214081",
@@ -343,7 +288,7 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260714T214202",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500220007",
@@ -354,21 +299,10 @@
           "bemp": 36,
           "tot": 37,
           "last_mday": "20260714T234020",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500215001",
-          "sna": "臺大醫院金山分院",
-          "sarea": "金山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260714T205304",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
