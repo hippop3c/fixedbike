@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T05:04:13+08:00",
-  "updated_at_display": "2026-07-15 05:04:13",
+  "updated_at": "2026-07-15T06:12:49+08:00",
+  "updated_at_display": "2026-07-15 06:12:49",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -44,17 +44,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 35,
-          "last_mday": "20260715T011017",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500206083",
           "sna": "捷運土城站(3號出口)",
           "sarea": "土城區",
@@ -74,17 +63,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260715T002202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227073",
-          "sna": "寶橋路29巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260715T003603",
           "sample_count": 2
         },
         {
@@ -110,17 +88,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229021",
-          "sna": "中港大排願景館",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 55,
-          "tot": 57,
-          "last_mday": "20260715T010802",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500229011",
           "sna": "宏匯廣場",
           "sarea": "新莊區",
@@ -129,83 +96,6 @@
           "bemp": 48,
           "tot": 51,
           "last_mday": "20260715T023502",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218158",
-          "sna": "萬板高架橋下停車場",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260715T003903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214048",
-          "sna": "中興福德三路口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260715T011103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214076",
-          "sna": "江北二橋",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260715T033903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214081",
-          "sna": "湖光市民活動中心",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260714T214202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500220007",
-          "sna": "捷運泰山站",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 36,
-          "tot": 37,
-          "last_mday": "20260714T234020",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223041",
-          "sna": "捷運淡水站(中正鼻頭街口)",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260715T033417",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234058",
-          "sna": "鳳三龍七路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260715T004617",
           "sample_count": 2
         }
       ],
@@ -247,17 +137,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 35,
-          "last_mday": "20260715T011017",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500206083",
           "sna": "捷運土城站(3號出口)",
           "sarea": "土城區",
@@ -280,17 +159,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500227073",
-          "sna": "寶橋路29巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260715T003603",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500227113",
           "sna": "新北捷運環狀線南機廠",
           "sarea": "新店區",
@@ -310,72 +178,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260715T010403",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229021",
-          "sna": "中港大排願景館",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 55,
-          "tot": 57,
-          "last_mday": "20260715T010802",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500218158",
-          "sna": "萬板高架橋下停車場",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260715T003903",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500214048",
-          "sna": "中興福德三路口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260715T011103",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500214081",
-          "sna": "湖光市民活動中心",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260714T214202",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500220007",
-          "sna": "捷運泰山站",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 36,
-          "tot": 37,
-          "last_mday": "20260714T234020",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500234058",
-          "sna": "鳳三龍七路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260715T004617",
           "sample_count": 4
         }
       ],
