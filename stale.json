@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T14:34:56+08:00",
-  "updated_at_display": "2026-07-14 14:34:56",
+  "updated_at": "2026-07-14T16:55:27+08:00",
+  "updated_at_display": "2026-07-14 16:55:27",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,19 +14,7 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500223083",
-          "sna": "大庄福德宮",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260714T111803",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     }
   }
