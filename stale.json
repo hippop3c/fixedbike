@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T22:10:30+08:00",
-  "updated_at_display": "2026-07-15 22:10:30",
+  "updated_at": "2026-07-15T23:51:24+08:00",
+  "updated_at_display": "2026-07-15 23:51:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,23 +9,166 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "4h": {
       "stations": [
         {
-          "sno": "NTPC-500210041",
-          "sna": "永成市民活動中心",
-          "sarea": "永和區",
+          "sno": "NTPC-500205024",
+          "sna": "大智中山路口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260715T215117",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209027",
+          "sna": "五工二五工一路口(泰博科技)",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260715T204402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209007",
+          "sna": "新北市工商展覽中心",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 38,
+          "tot": 40,
+          "last_mday": "20260715T214902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260715T215602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206058",
+          "sna": "和平路105號",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260715T210903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227056",
+          "sna": "十四張央北二路口(波爾多社區)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260715T214003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227059",
+          "sna": "台灣科技總部",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260715T215903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227073",
+          "sna": "寶橋路29巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260715T215217",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227005",
+          "sna": "捷運十四張站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 94,
+          "tot": 95,
+          "last_mday": "20260715T220403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227123",
+          "sna": "碧潭大橋(溪洲路6巷)",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 11,
           "tot": 12,
-          "last_mday": "20260715T180503",
-          "sample_count": 3
+          "last_mday": "20260715T200803",
+          "sample_count": 2
         },
+        {
+          "sno": "NTPC-500227095",
+          "sna": "輕軌台北小城站(北側)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260715T200903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231067",
+          "sna": "東豐街85巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260715T203303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214043",
+          "sna": "秀峰高中(忠孝東路)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260715T213004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234022",
+          "sna": "鶯歌老街第二停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260715T172904",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
+    },
+    "4h": {
+      "stations": [
         {
           "sno": "NTPC-500234022",
           "sna": "鶯歌老街第二停車場",
