@@ -1,31 +1,33 @@
 {
-  "updated_at": "2026-07-15T08:07:28+08:00",
-  "updated_at_display": "2026-07-15 08:07:28",
+  "updated_at": "2026-07-15T11:35:18+08:00",
+  "updated_at_display": "2026-07-15 11:35:18",
   "target_sbi": 1,
   "windows": {
     "1h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
         {
-          "sno": "NTPC-500229034",
-          "sna": "光華東帝士",
-          "sarea": "新莊區",
+          "sno": "NTPC-500234023",
+          "sna": "建國中正一路口(北鶯社區)",
+          "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260715T065904",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260715T072403",
           "sample_count": 2
         }
       ],
       "sample_count": 2
-    },
-    "2h": {
-      "stations": [],
-      "sample_count": 3
-    },
-    "4h": {
-      "stations": [],
-      "sample_count": 4
     }
   }
 }
