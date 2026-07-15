@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T20:03:12+08:00",
-  "updated_at_display": "2026-07-15 20:03:12",
+  "updated_at": "2026-07-15T22:10:30+08:00",
+  "updated_at_display": "2026-07-15 22:10:30",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,18 +9,12 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500231058",
-          "sna": "俊興俊安街口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260715T173504",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500210041",
           "sna": "永成市民活動中心",
@@ -30,7 +24,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260715T180503",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234022",
@@ -41,13 +35,9 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260715T172904",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
-    },
-    "4h": {
-      "stations": [],
       "sample_count": 3
     }
   }
