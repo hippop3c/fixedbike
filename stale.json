@@ -1,26 +1,10 @@
 {
-  "updated_at": "2026-07-16T07:14:46+08:00",
-  "updated_at_display": "2026-07-16 07:14:46",
+  "updated_at": "2026-07-16T08:12:55+08:00",
+  "updated_at_display": "2026-07-16 08:12:55",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500209027",
-          "sna": "五工二五工一路口(泰博科技)",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260715T204402",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500206058",
           "sna": "和平路105號",
@@ -33,25 +17,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227095",
-          "sna": "輕軌台北小城站(北側)",
+          "sno": "NTPC-500227091",
+          "sna": "輕軌景文科大站",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260715T200903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260715T235315",
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260716T065302",
           "sample_count": 2
         },
         {
@@ -66,64 +39,31 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218042",
-          "sna": "馥華公園",
-          "sarea": "板橋區",
+          "sno": "NTPC-500220018",
+          "sna": "山腳停車場",
+          "sarea": "泰山區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 52,
-          "tot": 53,
-          "last_mday": "20260716T060603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231067",
-          "sna": "東豐街85巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260715T203303",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260716T070902",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
-    "4h": {
+    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500209027",
-          "sna": "五工二五工一路口(泰博科技)",
-          "sarea": "五股區",
+          "sno": "NTPC-500206058",
+          "sna": "和平路105號",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260715T204402",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500227095",
-          "sna": "輕軌台北小城站(北側)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260715T200903",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260715T235315",
-          "sample_count": 4
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260716T054716",
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218168",
@@ -134,17 +74,22 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260716T032503",
-          "sample_count": 4
-        },
+          "sample_count": 3
+        }
+      ],
+      "sample_count": 3
+    },
+    "4h": {
+      "stations": [
         {
-          "sno": "NTPC-500231067",
-          "sna": "東豐街85巷口",
-          "sarea": "樹林區",
+          "sno": "NTPC-500218168",
+          "sna": "板橋435藝文特區(環河西路)",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 11,
           "tot": 12,
-          "last_mday": "20260715T203303",
+          "last_mday": "20260716T032503",
           "sample_count": 4
         }
       ],
