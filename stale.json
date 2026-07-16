@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T11:41:36+08:00",
-  "updated_at_display": "2026-07-16 11:41:36",
+  "updated_at": "2026-07-16T14:05:28+08:00",
+  "updated_at_display": "2026-07-16 14:05:28",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -15,6 +15,17 @@
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500201031",
+          "sna": "海世界觀景臺",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260716T094102",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500227091",
           "sna": "輕軌景文科大站",
