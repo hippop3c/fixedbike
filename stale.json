@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T02:41:11+08:00",
-  "updated_at_display": "2026-07-17 02:41:11",
+  "updated_at": "2026-07-17T03:47:24+08:00",
+  "updated_at_display": "2026-07-17 03:47:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,17 +10,6 @@
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203104",
-          "sna": "重新路五段(心天匯社區)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 40,
-          "last_mday": "20260716T235517",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500203136",
           "sna": "集賢三信路口(南側)",
@@ -77,6 +66,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500206063",
+          "sna": "捷運永寧站(3號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260717T013004",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500206064",
           "sna": "捷運永寧站(4號出口)",
           "sarea": "土城區",
@@ -85,6 +85,17 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260717T003603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206098",
+          "sna": "捷運頂埔站(2號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 62,
+          "tot": 63,
+          "last_mday": "20260717T012302",
           "sample_count": 2
         },
         {
@@ -143,6 +154,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500229126",
+          "sna": "中正思源路口(西南側)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 46,
+          "last_mday": "20260717T012302",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500229113",
           "sna": "思源路192巷口",
           "sarea": "新莊區",
@@ -151,17 +173,6 @@
           "bemp": 22,
           "tot": 23,
           "last_mday": "20260717T000303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229003",
-          "sna": "新莊國民運動中心",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 51,
-          "tot": 52,
-          "last_mday": "20260717T011702",
           "sample_count": 2
         },
         {
@@ -198,14 +209,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218021",
-          "sna": "捷運新埔站(1號出口)",
+          "sno": "NTPC-500218145",
+          "sna": "三民永豐街口",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 98,
-          "tot": 99,
-          "last_mday": "20260717T004916",
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260717T015903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218097",
+          "sna": "捷運府中站(3號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 68,
+          "tot": 69,
+          "last_mday": "20260717T021902",
           "sample_count": 2
         },
         {
@@ -228,6 +250,28 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260716T220603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218196",
+          "sna": "板橋國小",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260717T015815",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218096",
+          "sna": "板橋車站",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 94,
+          "tot": 95,
+          "last_mday": "20260717T023403",
           "sample_count": 2
         },
         {
@@ -272,6 +316,17 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260717T003404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231032",
+          "sna": "俊英街219巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260717T022502",
           "sample_count": 2
         },
         {
@@ -321,7 +376,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260716T220404",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227119",
@@ -332,7 +387,7 @@
           "bemp": 14,
           "tot": 16,
           "last_mday": "20260716T234902",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227113",
@@ -343,7 +398,7 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260716T224003",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227061",
@@ -354,7 +409,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260716T162502",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500229111",
@@ -365,7 +420,7 @@
           "bemp": 12,
           "tot": 17,
           "last_mday": "20260716T232803",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500218143",
@@ -376,7 +431,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260716T220603",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500218218",
@@ -387,7 +442,7 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260716T223502",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500231067",
@@ -398,7 +453,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260716T221403",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500214048",
@@ -409,10 +464,10 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260716T231615",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
