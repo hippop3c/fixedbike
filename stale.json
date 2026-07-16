@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T23:56:32+08:00",
-  "updated_at_display": "2026-07-16 23:56:32",
+  "updated_at": "2026-07-17T01:24:25+08:00",
+  "updated_at_display": "2026-07-17 01:24:25",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,17 +10,6 @@
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203114",
-          "sna": "光復中興北街175巷口(西北側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 41,
-          "last_mday": "20260716T221004",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500209027",
           "sna": "五工二五工一路口(泰博科技)",
@@ -33,6 +22,28 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500227119",
+          "sna": "中央陸橋(中央一街)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 16,
+          "last_mday": "20260716T234902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227113",
+          "sna": "新北捷運環狀線南機廠",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260716T224003",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500227061",
           "sna": "直潭淨水廠(直潭二街)",
           "sarea": "新店區",
@@ -41,6 +52,28 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260716T162502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229111",
+          "sna": "民安國小(東側)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 17,
+          "last_mday": "20260716T232803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218006",
+          "sna": "四川遠東路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 59,
+          "tot": 60,
+          "last_mday": "20260716T233018",
           "sample_count": 2
         },
         {
@@ -55,25 +88,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218184",
-          "sna": "華江橋自行車牽引道",
+          "sno": "NTPC-500218139",
+          "sna": "浮洲運動公園",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260716T221902",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260716T232602",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216065",
-          "sna": "師大林口校區行政大樓",
-          "sarea": "林口區",
+          "sno": "NTPC-500218218",
+          "sna": "生態北公園",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 17,
           "tot": 18,
-          "last_mday": "20260716T205003",
+          "last_mday": "20260716T223502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216044",
+          "sna": "八德文化三路口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 26,
+          "last_mday": "20260716T224603",
           "sample_count": 2
         },
         {
@@ -88,14 +132,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223048",
-          "sna": "輕軌竿蓁林站",
-          "sarea": "淡水區",
+          "sno": "NTPC-500214048",
+          "sna": "中興福德三路口",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 9,
           "tot": 10,
-          "last_mday": "20260716T201902",
+          "last_mday": "20260716T231615",
           "sample_count": 2
         }
       ],
@@ -103,6 +147,17 @@
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500209027",
+          "sna": "五工二五工一路口(泰博科技)",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260716T220404",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500227061",
           "sna": "直潭淨水廠(直潭二街)",
@@ -112,6 +167,28 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260716T162502",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500218143",
+          "sna": "文丘公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260716T220603",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500231067",
+          "sna": "東豐街85巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260716T221403",
           "sample_count": 3
         }
       ],
