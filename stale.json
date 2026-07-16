@@ -1,21 +1,20 @@
 {
-  "updated_at": "2026-07-16T08:12:55+08:00",
-  "updated_at_display": "2026-07-16 08:12:55",
+  "updated_at": "2026-07-16T11:41:36+08:00",
+  "updated_at_display": "2026-07-16 11:41:36",
   "target_sbi": 1,
   "windows": {
     "1h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260716T054716",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500227091",
           "sna": "輕軌景文科大站",
@@ -26,74 +25,9 @@
           "tot": 27,
           "last_mday": "20260716T065302",
           "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218168",
-          "sna": "板橋435藝文特區(環河西路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260716T032503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500220018",
-          "sna": "山腳停車場",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260716T070902",
-          "sample_count": 2
         }
       ],
       "sample_count": 2
-    },
-    "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260716T054716",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218168",
-          "sna": "板橋435藝文特區(環河西路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260716T032503",
-          "sample_count": 3
-        }
-      ],
-      "sample_count": 3
-    },
-    "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500218168",
-          "sna": "板橋435藝文特區(環河西路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260716T032503",
-          "sample_count": 4
-        }
-      ],
-      "sample_count": 4
     }
   }
 }
