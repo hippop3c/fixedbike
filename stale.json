@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T14:05:28+08:00",
-  "updated_at_display": "2026-07-16 14:05:28",
+  "updated_at": "2026-07-16T16:35:05+08:00",
+  "updated_at_display": "2026-07-16 16:35:05",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -24,17 +24,6 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260716T094102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227091",
-          "sna": "輕軌景文科大站",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260716T065302",
           "sample_count": 2
         }
       ],
