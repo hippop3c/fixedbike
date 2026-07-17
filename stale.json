@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T18:55:34+08:00",
-  "updated_at_display": "2026-07-17 18:55:34",
+  "updated_at": "2026-07-17T20:11:22+08:00",
+  "updated_at_display": "2026-07-17 20:11:22",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,6 +10,39 @@
     },
     "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500207053",
+          "sna": "烘爐地山下籃球場",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260717T184203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201029",
+          "sna": "商港一十三行路口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260717T181719",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201025",
+          "sna": "商港六商港三路口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260717T183203",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500227117",
           "sna": "新安永安街94巷口",
@@ -30,6 +63,39 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260716T162502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218143",
+          "sna": "文丘公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260717T172902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216066",
+          "sna": "師大林口校區體育館前",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260717T175104",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500233028",
+          "sna": "中山二永安南路口",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260717T183503",
           "sample_count": 2
         }
       ],
@@ -46,7 +112,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260717T145603",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500227061",
@@ -57,10 +123,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260716T162502",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     }
   }
 }
