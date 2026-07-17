@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T04:34:00+08:00",
-  "updated_at_display": "2026-07-18 04:34:00",
+  "updated_at": "2026-07-18T05:34:48+08:00",
+  "updated_at_display": "2026-07-18 05:34:48",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,7 +9,118 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500203050",
+          "sna": "捷運先嗇宮站(2號出口)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 63,
+          "tot": 64,
+          "last_mday": "20260718T041902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209027",
+          "sna": "五工二五工一路口(泰博科技)",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "20260718T011802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227072",
+          "sna": "寶橋路235巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 32,
+          "last_mday": "20260717T231902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227061",
+          "sna": "直潭淨水廠(直潭二街)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260716T162502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229071",
+          "sna": "國家電影及視聽文化中心",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260718T000503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229099",
+          "sna": "廣停一機車停車場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260718T005415",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229113",
+          "sna": "思源路192巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260718T042017",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229059",
+          "sna": "頭前國小",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 45,
+          "tot": 46,
+          "last_mday": "20260717T234702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218218",
+          "sna": "生態北公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "20260718T011815",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218219",
+          "sna": "生態南公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260718T010915",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     },
     "4h": {
