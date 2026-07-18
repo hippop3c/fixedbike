@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T07:35:39+08:00",
-  "updated_at_display": "2026-07-18 07:35:39",
+  "updated_at": "2026-07-18T09:06:46+08:00",
+  "updated_at_display": "2026-07-18 09:06:46",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -22,14 +22,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218008",
-          "sna": "中華電信學院",
+          "sno": "NTPC-500218169",
+          "sna": "大觀段平面停車場",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 8,
-          "tot": 9,
-          "last_mday": "20260718T062902",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260718T073003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234018",
+          "sna": "二橋虹橋公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260718T071203",
           "sample_count": 2
         }
       ],
