@@ -1,85 +1,24 @@
 {
-  "updated_at": "2026-07-19T06:26:15+08:00",
-  "updated_at_display": "2026-07-19 06:26:15",
+  "updated_at": "2026-07-19T07:28:15+08:00",
+  "updated_at_display": "2026-07-19 07:28:15",
   "target_sbi": 1,
   "windows": {
     "1h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205040",
-          "sna": "薇多綠雅社區(警衛亭)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500207057",
+          "sna": "圓通綠廊",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260719T021614",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203111",
-          "sna": "光復路一段99巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260719T042302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203104",
-          "sna": "重新路五段(心天匯社區)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 40,
-          "last_mday": "20260719T004016",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209027",
-          "sna": "五工二五工一路口(泰博科技)",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260719T042904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229011",
-          "sna": "宏匯廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260718T223802",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229099",
-          "sna": "廣停一機車停車場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260718T231617",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218118",
-          "sna": "新民民族路口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260719T005202",
+          "bemp": 9,
+          "tot": 13,
+          "last_mday": "20260719T062403",
           "sample_count": 2
         },
         {
@@ -94,170 +33,22 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216050",
-          "sna": "林口夜市(中山路)",
+          "sno": "NTPC-500216029",
+          "sna": "崇林國中",
           "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260719T012603",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260719T053502",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
-    "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500205040",
-          "sna": "薇多綠雅社區(警衛亭)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260719T021614",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500203111",
-          "sna": "光復路一段99巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260719T042302",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500203104",
-          "sna": "重新路五段(心天匯社區)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 40,
-          "last_mday": "20260719T004016",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229011",
-          "sna": "宏匯廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260718T223802",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229099",
-          "sna": "廣停一機車停車場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260718T231617",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218118",
-          "sna": "新民民族路口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260719T005202",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216036",
-          "sna": "四維文化一路口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 16,
-          "last_mday": "20260719T030003",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216050",
-          "sna": "林口夜市(中山路)",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260719T012603",
-          "sample_count": 3
-        }
-      ],
-      "sample_count": 3
-    },
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205040",
-          "sna": "薇多綠雅社區(警衛亭)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260719T021614",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500203104",
-          "sna": "重新路五段(心天匯社區)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 40,
-          "last_mday": "20260719T004016",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229011",
-          "sna": "宏匯廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260718T223802",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229099",
-          "sna": "廣停一機車停車場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260718T231617",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500218118",
-          "sna": "新民民族路口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260719T005202",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500216036",
           "sna": "四維文化一路口",
           "sarea": "林口區",
@@ -266,21 +57,10 @@
           "bemp": 14,
           "tot": 16,
           "last_mday": "20260719T030003",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500216050",
-          "sna": "林口夜市(中山路)",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260719T012603",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     }
   }
 }
