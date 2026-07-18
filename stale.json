@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T17:57:35+08:00",
-  "updated_at_display": "2026-07-18 17:57:35",
+  "updated_at": "2026-07-18T19:11:35+08:00",
+  "updated_at_display": "2026-07-18 19:11:35",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,36 +11,25 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205021",
-          "sna": "新北市客家文化園區",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260718T161202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227061",
-          "sna": "直潭淨水廠(直潭二街)",
-          "sarea": "新店區",
+          "sno": "NTPC-500201026",
+          "sna": "訊庄埔公園",
+          "sarea": "八里區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260716T162502",
+          "last_mday": "20260718T172304",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229125",
-          "sna": "台水新莊服務所",
-          "sarea": "新莊區",
+          "sno": "NTPC-500206071",
+          "sna": "中央公園地下停車場",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260718T161703",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260718T174415",
           "sample_count": 2
         },
         {
@@ -55,14 +44,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223042",
-          "sna": "鄧公路30巷",
-          "sarea": "淡水區",
+          "sno": "NTPC-500216088",
+          "sna": "樂活公園(文化一路)",
+          "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260718T133703",
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260718T173802",
           "sample_count": 2
         },
         {
@@ -82,25 +71,25 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500227061",
-          "sna": "直潭淨水廠(直潭二街)",
-          "sarea": "新店區",
+          "sno": "NTPC-500218225",
+          "sna": "華中公園",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260716T162502",
+          "last_mday": "20260718T151403",
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500223042",
-          "sna": "鄧公路30巷",
-          "sarea": "淡水區",
+          "sno": "NTPC-500225003",
+          "sna": "萬里區行政中心",
+          "sarea": "萬里區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260718T133703",
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260718T150216",
           "sample_count": 3
         }
       ],
