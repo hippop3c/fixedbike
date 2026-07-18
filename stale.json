@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T14:24:22+08:00",
-  "updated_at_display": "2026-07-18 14:24:22",
+  "updated_at": "2026-07-18T16:20:46+08:00",
+  "updated_at_display": "2026-07-18 16:20:46",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,21 +9,16 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205060",
-          "sna": "臺北大學隆恩哨(忘憂路)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500207053",
+          "sna": "烘爐地山下籃球場",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260718T112005",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260718T141302",
           "sample_count": 2
         },
         {
@@ -46,6 +41,77 @@
           "bemp": 25,
           "tot": 26,
           "last_mday": "20260718T112802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223042",
+          "sna": "鄧公路30巷",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260718T133703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500233034",
+          "sna": "永安南路二段16巷口",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260718T120004",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
+    },
+    "4h": {
+      "stations": [
+        {
+          "sno": "NTPC-500207053",
+          "sna": "烘爐地山下籃球場",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260718T141302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227061",
+          "sna": "直潭淨水廠(直潭二街)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260716T162502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216088",
+          "sna": "樂活公園(文化一路)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260718T112802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223042",
+          "sna": "鄧公路30巷",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260718T133703",
           "sample_count": 2
         },
         {
