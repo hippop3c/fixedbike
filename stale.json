@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T16:20:46+08:00",
-  "updated_at_display": "2026-07-18 16:20:46",
+  "updated_at": "2026-07-18T17:57:35+08:00",
+  "updated_at_display": "2026-07-18 17:57:35",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500207053",
-          "sna": "烘爐地山下籃球場",
-          "sarea": "中和區",
+          "sno": "NTPC-500205021",
+          "sna": "新北市客家文化園區",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260718T141302",
+          "bemp": 38,
+          "tot": 39,
+          "last_mday": "20260718T161202",
           "sample_count": 2
         },
         {
@@ -33,14 +33,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216088",
-          "sna": "樂活公園(文化一路)",
-          "sarea": "林口區",
+          "sno": "NTPC-500229125",
+          "sna": "台水新莊服務所",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260718T112802",
+          "bemp": 35,
+          "tot": 36,
+          "last_mday": "20260718T161703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218225",
+          "sna": "華中公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260718T151403",
           "sample_count": 2
         },
         {
@@ -55,14 +66,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500233034",
-          "sna": "永安南路二段16巷口",
-          "sarea": "蘆洲區",
+          "sno": "NTPC-500225003",
+          "sna": "萬里區行政中心",
+          "sarea": "萬里區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260718T120004",
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260718T150216",
           "sample_count": 2
         }
       ],
@@ -71,17 +82,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500207053",
-          "sna": "烘爐地山下籃球場",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260718T141302",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500227061",
           "sna": "直潭淨水廠(直潭二街)",
           "sarea": "新店區",
@@ -90,18 +90,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260716T162502",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216088",
-          "sna": "樂活公園(文化一路)",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260718T112802",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223042",
@@ -112,21 +101,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260718T133703",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233034",
-          "sna": "永安南路二段16巷口",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260718T120004",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     }
   }
 }
