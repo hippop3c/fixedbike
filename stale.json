@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T01:07:05+08:00",
-  "updated_at_display": "2026-07-19 01:07:05",
+  "updated_at": "2026-07-19T02:07:55+08:00",
+  "updated_at_display": "2026-07-19 02:07:55",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205040",
-          "sna": "薇多綠雅社區(警衛亭)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500203122",
+          "sna": "三重重陽公園",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260718T212119",
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260718T235702",
           "sample_count": 2
         },
         {
@@ -33,14 +33,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500209024",
-          "sna": "成州停車場",
-          "sarea": "五股區",
+          "sno": "NTPC-500203034",
+          "sna": "捷運三重國小站",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260718T215703",
+          "bemp": 51,
+          "tot": 52,
+          "last_mday": "20260719T004601",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203104",
+          "sna": "重新路五段(心天匯社區)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 38,
+          "tot": 40,
+          "last_mday": "20260719T004016",
           "sample_count": 2
         },
         {
@@ -55,39 +66,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206232",
-          "sna": "土城中正路151巷口(西南側)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 35,
-          "last_mday": "20260718T234804",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206083",
-          "sna": "捷運土城站(3號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260718T231404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206085",
-          "sna": "永豐路157巷口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260718T233402",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500227039",
           "sna": "新店新和國小",
           "sarea": "新店區",
@@ -96,6 +74,28 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260718T233903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229126",
+          "sna": "中正思源路口(西南側)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 46,
+          "last_mday": "20260719T005703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229104",
+          "sna": "五工路68巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260719T010004",
           "sample_count": 2
         },
         {
@@ -121,6 +121,61 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500229001",
+          "sna": "捷運幸福站",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 57,
+          "tot": 58,
+          "last_mday": "20260719T005517",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229012",
+          "sna": "捷運新莊副都心站",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 42,
+          "tot": 43,
+          "last_mday": "20260719T000616",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218006",
+          "sna": "四川遠東路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 59,
+          "tot": 60,
+          "last_mday": "20260719T001603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218118",
+          "sna": "新民民族路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260719T005202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216001",
+          "sna": "捷運林口站(1號出口)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 96,
+          "tot": 97,
+          "last_mday": "20260719T001503",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500216088",
           "sna": "樂活公園(文化一路)",
           "sarea": "林口區",
@@ -129,6 +184,17 @@
           "bemp": 25,
           "tot": 26,
           "last_mday": "20260718T205303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231044",
+          "sna": "大安文化街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260719T005902",
           "sample_count": 2
         },
         {
@@ -143,14 +209,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223002",
-          "sna": "輕軌濱海沙崙站",
+          "sno": "NTPC-500214043",
+          "sna": "秀峰高中(忠孝東路)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260719T002303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220015",
+          "sna": "捷運泰山站(4號出口)",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260719T001215",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223070",
+          "sna": "輕軌濱海義山站(西南側)",
           "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 33,
-          "tot": 35,
-          "last_mday": "20260718T235202",
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260719T003202",
           "sample_count": 2
         },
         {
@@ -192,14 +280,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205040",
-          "sna": "薇多綠雅社區(警衛亭)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500229011",
+          "sna": "宏匯廣場",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260718T212119",
+          "bemp": 50,
+          "tot": 51,
+          "last_mday": "20260718T223802",
           "sample_count": 4
         },
         {
@@ -222,6 +310,17 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260718T201617",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500234018",
+          "sna": "二橋虹橋公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260718T224115",
           "sample_count": 4
         }
       ],
