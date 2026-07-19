@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T22:57:29+08:00",
-  "updated_at_display": "2026-07-19 22:57:29",
+  "updated_at": "2026-07-20T00:02:26+08:00",
+  "updated_at_display": "2026-07-20 00:02:26",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,58 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500218218",
-          "sna": "生態北公園",
-          "sarea": "板橋區",
+          "sno": "NTPC-500205016",
+          "sna": "中華愛國路口",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 15,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260719T224702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207058",
+          "sna": "板南路492號",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260719T225201",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207053",
+          "sna": "烘爐地山下籃球場",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260719T224403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201031",
+          "sna": "海世界觀景臺",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
           "tot": 18,
-          "last_mday": "20260719T213103",
+          "last_mday": "20260719T222503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216008",
+          "sna": "三井Outlet",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 62,
+          "tot": 63,
+          "last_mday": "20260719T224204",
           "sample_count": 2
         },
         {
@@ -44,21 +88,44 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223046",
-          "sna": "水管公園",
+          "sno": "NTPC-500223088",
+          "sna": "新市二路三段36巷口",
           "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260719T203403",
+          "bemp": 19,
+          "tot": 22,
+          "last_mday": "20260719T223005",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500220025",
+          "sna": "泰山體育館",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260719T201502",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500223038",
+          "sna": "崁頂林子福德宮",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260719T210504",
+          "sample_count": 3
+        }
+      ],
       "sample_count": 3
     }
   }
