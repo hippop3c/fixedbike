@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T07:28:15+08:00",
-  "updated_at_display": "2026-07-19 07:28:15",
+  "updated_at": "2026-07-19T09:04:23+08:00",
+  "updated_at_display": "2026-07-19 09:04:23",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,58 +9,12 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500207057",
-          "sna": "圓通綠廊",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 13,
-          "last_mday": "20260719T062403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216036",
-          "sna": "四維文化一路口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 16,
-          "last_mday": "20260719T030003",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216029",
-          "sna": "崇林國中",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260719T053502",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500216036",
-          "sna": "四維文化一路口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 16,
-          "last_mday": "20260719T030003",
-          "sample_count": 5
-        }
-      ],
-      "sample_count": 5
+      "stations": [],
+      "sample_count": 4
     }
   }
 }
