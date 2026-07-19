@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T00:02:26+08:00",
-  "updated_at_display": "2026-07-20 00:02:26",
+  "updated_at": "2026-07-20T01:16:26+08:00",
+  "updated_at_display": "2026-07-20 01:16:26",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205016",
-          "sna": "中華愛國路口",
-          "sarea": "三峽區",
+          "sno": "NTPC-500207076",
+          "sna": "嘉穗公園",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 9,
           "tot": 10,
-          "last_mday": "20260719T224702",
+          "last_mday": "20260719T233715",
           "sample_count": 2
         },
         {
@@ -55,14 +55,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216008",
-          "sna": "三井Outlet",
+          "sno": "NTPC-500229090",
+          "sna": "思賢公園(北側)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260719T235102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216014",
+          "sna": "林口國民運動中心",
           "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 62,
-          "tot": 63,
-          "last_mday": "20260719T224204",
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "20260719T233804",
           "sample_count": 2
         },
         {
@@ -97,6 +108,39 @@
           "tot": 22,
           "last_mday": "20260719T223005",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223034",
+          "sna": "滬尾藝文休閒園區",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 28,
+          "last_mday": "20260719T233602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223065",
+          "sna": "濱海路一段306巷9弄",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 15,
+          "last_mday": "20260719T225902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223070",
+          "sna": "輕軌濱海義山站(西南側)",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 30,
+          "last_mday": "20260719T234203",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
@@ -112,7 +156,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260719T201502",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500223038",
@@ -123,10 +167,10 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260719T210504",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
