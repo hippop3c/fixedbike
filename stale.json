@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T19:59:55+08:00",
-  "updated_at_display": "2026-07-19 19:59:55",
+  "updated_at": "2026-07-19T21:45:22+08:00",
+  "updated_at_display": "2026-07-19 21:45:22",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -22,58 +22,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500209013",
-          "sna": "成州國小",
-          "sarea": "五股區",
+          "sno": "NTPC-500231044",
+          "sna": "大安文化街口",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 20,
-          "last_mday": "20260719T184403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209021",
-          "sna": "民義公園",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260719T183304",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206071",
-          "sna": "中央公園地下停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260719T174315",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218212",
-          "sna": "浮洲合宜住宅(合宜一合宜路口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260719T135004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216062",
-          "sna": "湖北市民活動中心",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260719T165804",
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260719T185302",
           "sample_count": 2
         }
       ],
@@ -82,25 +38,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500218212",
-          "sna": "浮洲合宜住宅(合宜一合宜路口)",
-          "sarea": "板橋區",
+          "sno": "NTPC-500203037",
+          "sna": "先嗇宮",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260719T135004",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216062",
-          "sna": "湖北市民活動中心",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260719T165804",
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260719T182603",
           "sample_count": 3
         }
       ],
