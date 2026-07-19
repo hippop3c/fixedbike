@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T21:45:22+08:00",
-  "updated_at_display": "2026-07-19 21:45:22",
+  "updated_at": "2026-07-19T22:57:29+08:00",
+  "updated_at_display": "2026-07-19 22:57:29",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,44 +11,54 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203037",
-          "sna": "先嗇宮",
-          "sarea": "三重區",
+          "sno": "NTPC-500218218",
+          "sna": "生態北公園",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260719T182603",
+          "bemp": 15,
+          "tot": 18,
+          "last_mday": "20260719T213103",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231044",
-          "sna": "大安文化街口",
-          "sarea": "樹林區",
+          "sno": "NTPC-500220025",
+          "sna": "泰山體育館",
+          "sarea": "泰山區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260719T185302",
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260719T201502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223038",
+          "sna": "崁頂林子福德宮",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260719T210504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223046",
+          "sna": "水管公園",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260719T203403",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203037",
-          "sna": "先嗇宮",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260719T182603",
-          "sample_count": 3
-        }
-      ],
+      "stations": [],
       "sample_count": 3
     }
   }
