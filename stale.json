@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T17:27:31+08:00",
-  "updated_at_display": "2026-07-19 17:27:31",
+  "updated_at": "2026-07-19T18:55:05+08:00",
+  "updated_at_display": "2026-07-19 18:55:05",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,9 +9,163 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500201023",
+          "sna": "狀元公園",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260719T162303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206076",
+          "sna": "中山三民路口(土城工業區)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260719T172303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206230",
+          "sna": "雲溪廣場(青雲路183巷)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260719T165216",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206023",
+          "sna": "頂埔國小",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260719T160603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227064",
+          "sna": "十四張歷史公園(南側)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260719T162616",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227044",
+          "sna": "安居公教住宅",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260719T164003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218207",
+          "sna": "南雅東路(画世代社區)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260719T172004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218212",
+          "sna": "浮洲合宜住宅(合宜一合宜路口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260719T135004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218222",
+          "sna": "縣民板城路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260719T164716",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218175",
+          "sna": "重慶路89巷",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260719T165202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216062",
+          "sna": "湖北市民活動中心",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260719T165804",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231067",
+          "sna": "東豐街85巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260719T165116",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214005",
+          "sna": "雍和科學園區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260719T170715",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223066",
+          "sna": "民權路3巷12弄口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 21,
+          "last_mday": "20260719T160404",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
       "stations": [
@@ -24,10 +178,10 @@
           "bemp": 21,
           "tot": 22,
           "last_mday": "20260719T135004",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     }
   }
 }
