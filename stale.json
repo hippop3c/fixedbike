@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T05:35:18+08:00",
-  "updated_at_display": "2026-07-20 05:35:18",
+  "updated_at": "2026-07-20T06:35:16+08:00",
+  "updated_at_display": "2026-07-20 06:35:16",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,28 +11,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203064",
-          "sna": "力行地下停車場",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260720T010403",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500203081",
-          "sna": "力行路二段91巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260720T015302",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500207076",
           "sna": "嘉穗公園",
           "sarea": "中和區",
@@ -41,29 +19,7 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260719T233715",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227100",
-          "sna": "安德停車場",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260720T025415",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 42,
-          "tot": 44,
-          "last_mday": "20260720T010002",
-          "sample_count": 3
+          "sample_count": 2
         },
         {
           "sno": "NTPC-500227061",
@@ -74,102 +30,25 @@
           "bemp": 12,
           "tot": 15,
           "last_mday": "20260720T013403",
-          "sample_count": 3
+          "sample_count": 2
         },
         {
-          "sno": "NTPC-500229011",
-          "sna": "宏匯廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 47,
-          "tot": 51,
-          "last_mday": "20260720T020503",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229054",
-          "sna": "臺北醫院",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 37,
-          "tot": 39,
-          "last_mday": "20260720T021803",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216014",
-          "sna": "林口國民運動中心",
+          "sno": "NTPC-500216012",
+          "sna": "竹林山觀音寺",
           "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260719T233804",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500214043",
-          "sna": "秀峰高中(忠孝東路)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260720T021402",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223038",
-          "sna": "崁頂林子福德宮",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260720T032004",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223004",
-          "sna": "輕軌淡海新市鎮站",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260720T025815",
-          "sample_count": 3
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260720T045603",
+          "sample_count": 2
         }
       ],
-      "sample_count": 3
+      "sample_count": 2
     },
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500203064",
-          "sna": "力行地下停車場",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260720T010403",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500203081",
-          "sna": "力行路二段91巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260720T015302",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500207076",
           "sna": "嘉穗公園",
           "sarea": "中和區",
@@ -181,17 +60,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 42,
-          "tot": 44,
-          "last_mday": "20260720T010002",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500227061",
           "sna": "直潭淨水廠(直潭二街)",
           "sarea": "新店區",
@@ -200,50 +68,6 @@
           "bemp": 12,
           "tot": 15,
           "last_mday": "20260720T013403",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229011",
-          "sna": "宏匯廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 47,
-          "tot": 51,
-          "last_mday": "20260720T020503",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229054",
-          "sna": "臺北醫院",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 37,
-          "tot": 39,
-          "last_mday": "20260720T021803",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500216014",
-          "sna": "林口國民運動中心",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260719T233804",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500214043",
-          "sna": "秀峰高中(忠孝東路)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260720T021402",
           "sample_count": 4
         }
       ],
