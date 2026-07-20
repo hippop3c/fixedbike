@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T19:13:37+08:00",
-  "updated_at_display": "2026-07-20 19:13:37",
+  "updated_at": "2026-07-20T21:19:09+08:00",
+  "updated_at_display": "2026-07-20 21:19:09",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,14 +16,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500229144",
-          "sna": "福樂街33巷口",
-          "sarea": "新莊區",
+          "sno": "NTPC-500207053",
+          "sna": "烘爐地山下籃球場",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260720T142318",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260720T185602",
           "sample_count": 2
         },
         {
@@ -38,14 +38,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500233043",
-          "sna": "鴨母港停車場",
-          "sarea": "蘆洲區",
+          "sno": "NTPC-500214075",
+          "sna": "水蓮山莊",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260720T090303",
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260720T183004",
           "sample_count": 2
         }
       ],
