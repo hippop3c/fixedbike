@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T21:19:09+08:00",
-  "updated_at_display": "2026-07-20 21:19:09",
+  "updated_at": "2026-07-20T23:28:52+08:00",
+  "updated_at_display": "2026-07-20 23:28:52",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -27,6 +27,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500229144",
+          "sna": "福樂街33巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260720T202216",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500210041",
           "sna": "永成市民活動中心",
           "sarea": "永和區",
@@ -35,17 +46,6 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260720T160003",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214075",
-          "sna": "水蓮山莊",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260720T183004",
           "sample_count": 2
         }
       ],
