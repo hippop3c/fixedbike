@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T05:49:22+08:00",
-  "updated_at_display": "2026-07-21 05:49:22",
+  "updated_at": "2026-07-21T07:02:20+08:00",
+  "updated_at_display": "2026-07-21 07:02:20",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -22,17 +22,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500207077",
-          "sna": "中山橋安街口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 12,
-          "last_mday": "20260721T004602",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500227064",
           "sna": "十四張歷史公園(南側)",
           "sarea": "新店區",
@@ -41,17 +30,6 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260721T024802",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227131",
-          "sna": "博愛中正路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 31,
-          "last_mday": "20260721T020402",
           "sample_count": 2
         },
         {
@@ -77,36 +55,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231009",
-          "sna": "俊英俊保路口",
+          "sno": "NTPC-500231032",
+          "sna": "俊英街219巷口",
           "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260721T043702",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231003",
-          "sna": "全球傳動科技公司",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260720T213602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210038",
-          "sna": "永和勵行街口",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260721T025315",
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260721T054302",
           "sample_count": 2
         }
       ],
@@ -123,18 +79,7 @@
           "bemp": 28,
           "tot": 29,
           "last_mday": "20260720T225902",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500207077",
-          "sna": "中山橋安街口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 12,
-          "last_mday": "20260721T004602",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227064",
@@ -145,18 +90,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260721T024802",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227131",
-          "sna": "博愛中正路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 31,
-          "last_mday": "20260721T020402",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227077",
@@ -167,7 +101,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260721T014915",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500229144",
@@ -178,32 +112,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260720T202216",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231003",
-          "sna": "全球傳動科技公司",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260720T213602",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500210038",
-          "sna": "永和勵行街口",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260721T025315",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
