@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T09:14:25+08:00",
-  "updated_at_display": "2026-07-20 09:14:25",
+  "updated_at": "2026-07-20T12:55:57+08:00",
+  "updated_at_display": "2026-07-20 12:55:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,42 +9,9 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500205017",
-          "sna": "中山科學研究院",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260720T065302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227061",
-          "sna": "直潭淨水廠(直潭二街)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 15,
-          "last_mday": "20260720T013403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231043",
-          "sna": "中正保安街三段口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260720T071803",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
       "stations": [
@@ -57,10 +24,21 @@
           "bemp": 12,
           "tot": 15,
           "last_mday": "20260720T013403",
-          "sample_count": 4
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500233043",
+          "sna": "鴨母港停車場",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260720T090303",
+          "sample_count": 2
         }
       ],
-      "sample_count": 4
+      "sample_count": 2
     }
   }
 }
