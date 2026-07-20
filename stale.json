@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T16:07:16+08:00",
-  "updated_at_display": "2026-07-20 16:07:16",
+  "updated_at": "2026-07-20T19:13:37+08:00",
+  "updated_at_display": "2026-07-20 19:13:37",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,25 +16,25 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500201023",
-          "sna": "狀元公園",
-          "sarea": "八里區",
+          "sno": "NTPC-500229144",
+          "sna": "福樂街33巷口",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260720T111804",
+          "last_mday": "20260720T142318",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231002",
-          "sna": "俊興三龍街口",
-          "sarea": "樹林區",
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260720T122516",
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260720T160003",
           "sample_count": 2
         },
         {
