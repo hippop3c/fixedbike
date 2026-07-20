@@ -659,7 +659,7 @@ async function fetchYouBike() {
         const sno = d.sno;
         if (!sno) return;
         const key = src.prefix + sno;
-        const sna = (d.sna || "").replace(/^YouBike2\.0_?/, "");
+        const sna = String(d.sna ?? d.station_name ?? "").replace(/^YouBike2\.0_?/, "");
         if (!merged[key]) {
           merged[key] = {
             sno: key,                 // 帶前綴的唯一 ID
@@ -672,10 +672,16 @@ async function fetchYouBike() {
             mday: "",
           };
         }
-        merged[key].sbi  += Number(d.sbi  || 0);
-        merged[key].bemp = Math.max(merged[key].bemp, Number(d.bemp || 0));
-        merged[key].tot  = Math.max(merged[key].tot,  Number(d.tot  || 0));
-        const t = d.mday || d.srcUpdateTime || "";
+        // 欄位相容：台北官方 blob 端點已把 sbi / bemp / tot 改名為
+        // available_rent_bikes / available_return_bikes / total（新北經 Worker 代理仍是舊欄名）。
+        // 兩種欄名都嘗試讀取，避免台北站數值全部變 0。
+        const _sbi  = Number(d.sbi  ?? d.available_rent_bikes   ?? d.availableRentBikes   ?? 0);
+        const _bemp = Number(d.bemp ?? d.available_return_bikes ?? d.availableReturnBikes ?? 0);
+        const _tot  = Number(d.tot  ?? d.total ?? d.totalDocks ?? 0);
+        merged[key].sbi  += _sbi;
+        merged[key].bemp  = Math.max(merged[key].bemp, _bemp);
+        merged[key].tot   = Math.max(merged[key].tot,  _tot);
+        const t = d.mday || d.srcUpdateTime || d.updateTime || d.infoTime || "";
         if (t > merged[key].mday) merged[key].mday = t;
       });
     } catch (err) {
@@ -938,6 +944,9 @@ function renderProject(p) {
     <div class="project-header">
       <div class="project-title">${escapeHtml(p.name)}</div>
       <div class="project-tools">
+        <button class="ghost icon-only" data-action="top" title="移到最上面">⤒ 置頂</button>
+        <button class="ghost icon-only" data-action="up" title="上移一格">↑</button>
+        <button class="ghost icon-only" data-action="down" title="下移一格">↓</button>
         <button class="ghost icon-only" data-action="add-station">＋ 加站點</button>
         <button class="ghost icon-only" data-action="rename">✏ 改名</button>
         <button class="danger icon-only" data-action="delete">刪除</button>
@@ -961,6 +970,9 @@ function renderProject(p) {
   }
 
   // 事件
+  div.querySelector('[data-action="top"]').onclick  = () => moveProjectToTop(p.id);
+  div.querySelector('[data-action="up"]').onclick    = () => moveProject(p.id, -1);
+  div.querySelector('[data-action="down"]').onclick  = () => moveProject(p.id, 1);
   div.querySelector('[data-action="add-station"]').onclick = () => openStationModal(p.id);
   div.querySelector('[data-action="rename"]').onclick = () => openProjectModal(p);
   div.querySelector('[data-action="delete"]').onclick = () => deleteProject(p.id);
@@ -1047,6 +1059,27 @@ function deleteProject(id) {
   if (!p) return;
   if (!confirm(`確定要刪除專案「${p.name}」嗎？`)) return;
   projects = projects.filter(p => p.id !== id);
+  saveProjects();
+  renderAll();
+}
+
+// =========================================================
+//  專案排序：置頂 / 上移 / 下移（順序會一併同步到雲端，同事重整即同步）
+// =========================================================
+function moveProjectToTop(id) {
+  const i = projects.findIndex(p => p.id === id);
+  if (i <= 0) return;                 // 找不到或已在最上面
+  const [p] = projects.splice(i, 1);
+  projects.unshift(p);
+  saveProjects();
+  renderAll();
+}
+function moveProject(id, dir) {        // dir = -1 上移；+1 下移
+  const i = projects.findIndex(p => p.id === id);
+  if (i < 0) return;
+  const j = i + dir;
+  if (j < 0 || j >= projects.length) return;
+  [projects[i], projects[j]] = [projects[j], projects[i]];
   saveProjects();
   renderAll();
 }
