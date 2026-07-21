@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T08:09:43+08:00",
-  "updated_at_display": "2026-07-21 08:09:43",
+  "updated_at": "2026-07-21T11:45:48+08:00",
+  "updated_at_display": "2026-07-21 11:45:48",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,6 +9,11 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
         {
           "sno": "NTPC-500227077",
@@ -23,22 +28,6 @@
         }
       ],
       "sample_count": 2
-    },
-    "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500227077",
-          "sna": "雙城國小",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260721T014915",
-          "sample_count": 4
-        }
-      ],
-      "sample_count": 4
     }
   }
 }
