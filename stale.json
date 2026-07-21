@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T14:29:49+08:00",
-  "updated_at_display": "2026-07-21 14:29:49",
+  "updated_at": "2026-07-21T17:13:25+08:00",
+  "updated_at_display": "2026-07-21 17:13:25",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,14 +16,25 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500227077",
-          "sna": "雙城國小",
-          "sarea": "新店區",
+          "sno": "NTPC-500206050",
+          "sna": "中央中華路口(金城)",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260721T014915",
+          "tot": 16,
+          "last_mday": "20260721T133603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227091",
+          "sna": "輕軌景文科大站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260721T131720",
           "sample_count": 2
         },
         {
@@ -35,6 +46,39 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260721T083504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218230",
+          "sna": "永豐街120巷2弄懷仁街口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260721T141616",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214072",
+          "sna": "濱湖大第(康寧街)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260721T133403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500233028",
+          "sna": "中山二永安南路口",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260721T140903",
           "sample_count": 2
         }
       ],
