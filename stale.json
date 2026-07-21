@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T06:13:00+08:00",
-  "updated_at_display": "2026-07-22 06:13:00",
+  "updated_at": "2026-07-22T07:14:02+08:00",
+  "updated_at_display": "2026-07-22 07:14:02",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,28 +11,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500206046",
-          "sna": "中華日新街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260722T000603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206083",
-          "sna": "捷運土城站(3號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260721T233202",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500227132",
           "sna": "北新路三段171巷",
           "sarea": "新店區",
@@ -44,94 +22,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260721T224903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227122",
-          "sna": "民權二十張路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260722T020302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229124",
-          "sna": "中正思源路口(東北側)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 44,
-          "tot": 45,
-          "last_mday": "20260722T040103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260721T224903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229096",
-          "sna": "捷運迴龍站(2號出口)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260722T011803",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229052",
-          "sna": "西盛館",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260722T044216",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218219",
-          "sna": "生態南公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 18,
-          "last_mday": "20260722T044715",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218077",
-          "sna": "臺灣藝術大學",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 64,
-          "tot": 65,
-          "last_mday": "20260721T234203",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500214058",
           "sna": "建成段平面停車場",
           "sarea": "汐止區",
@@ -140,28 +30,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260722T034802",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234042",
-          "sna": "鳳七鶯歌路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 11,
-          "last_mday": "20260722T043316",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234022",
-          "sna": "鶯歌老街第二停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260721T221916",
           "sample_count": 2
         }
       ],
@@ -170,28 +38,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500206046",
-          "sna": "中華日新街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260722T000603",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500206083",
-          "sna": "捷運土城站(3號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260721T233202",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500227132",
           "sna": "北新路三段171巷",
           "sarea": "新店區",
@@ -200,62 +46,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260721T222204",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260721T224903",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227122",
-          "sna": "民權二十張路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260722T020302",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260721T224903",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229096",
-          "sna": "捷運迴龍站(2號出口)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260722T011803",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218077",
-          "sna": "臺灣藝術大學",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 64,
-          "tot": 65,
-          "last_mday": "20260721T234203",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500214058",
@@ -266,21 +57,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260722T034802",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234022",
-          "sna": "鶯歌老街第二停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260721T221916",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
