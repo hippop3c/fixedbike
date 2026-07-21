@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T23:04:54+08:00",
-  "updated_at_display": "2026-07-21 23:04:54",
+  "updated_at": "2026-07-22T00:42:17+08:00",
+  "updated_at_display": "2026-07-22 00:42:17",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,12 +9,134 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500202002",
+          "sna": "三芝國中",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 14,
+          "last_mday": "20260721T195303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201013",
+          "sna": "水興公",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260721T211803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227132",
+          "sna": "北新路三段171巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260721T222204",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227002",
+          "sna": "國家人權博物館",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260721T222516",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227012",
+          "sna": "寶橋路235巷口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 43,
+          "tot": 44,
+          "last_mday": "20260721T224903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229065",
+          "sna": "宏匯思源廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260721T224903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231077",
+          "sna": "臺鐵樹林車站(後站停車場)",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 62,
+          "tot": 64,
+          "last_mday": "20260721T222204",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234046",
+          "sna": "鶯歌火車站(仁愛路62號)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 42,
+          "last_mday": "20260721T223803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234022",
+          "sna": "鶯歌老街第二停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260721T221916",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234026",
+          "sna": "鶯歌陶瓷博物館",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 22,
+          "last_mday": "20260721T221415",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500202002",
+          "sna": "三芝國中",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 14,
+          "last_mday": "20260721T195303",
+          "sample_count": 3
+        }
+      ],
       "sample_count": 3
     }
   }
