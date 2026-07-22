@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T19:25:25+08:00",
-  "updated_at_display": "2026-07-22 19:25:25",
+  "updated_at": "2026-07-22T20:58:56+08:00",
+  "updated_at_display": "2026-07-22 20:58:56",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,13 +9,24 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500206083",
+          "sna": "捷運土城站(3號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260722T191003",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
       "stations": [],
-      "sample_count": 2
+      "sample_count": 3
     }
   }
 }
