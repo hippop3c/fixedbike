@@ -1,65 +1,18 @@
 {
-  "updated_at": "2026-07-22T07:14:02+08:00",
-  "updated_at_display": "2026-07-22 07:14:02",
+  "updated_at": "2026-07-22T08:10:20+08:00",
+  "updated_at_display": "2026-07-22 08:10:20",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260721T222204",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214058",
-          "sna": "建成段平面停車場",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260722T034802",
-          "sample_count": 2
-        }
-      ],
       "sample_count": 2
     },
+    "2h": {
+      "stations": [],
+      "sample_count": 3
+    },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260721T222204",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500214058",
-          "sna": "建成段平面停車場",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260722T034802",
-          "sample_count": 4
-        }
-      ],
+      "stations": [],
       "sample_count": 4
     }
   }
