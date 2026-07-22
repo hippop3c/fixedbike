@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T23:09:43+08:00",
-  "updated_at_display": "2026-07-22 23:09:43",
+  "updated_at": "2026-07-23T00:46:56+08:00",
+  "updated_at_display": "2026-07-23 00:46:56",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,12 +9,112 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500207076",
+          "sna": "嘉穗公園",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260722T203616",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209013",
+          "sna": "成州國小",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260722T224103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 35,
+          "last_mday": "20260722T211602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227007",
+          "sna": "捷運小碧潭站(1號出口)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260722T230417",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229013",
+          "sna": "行政院新莊聯合辦公大樓",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 50,
+          "tot": 51,
+          "last_mday": "20260722T222302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216044",
+          "sna": "八德文化三路口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260722T224803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214075",
+          "sna": "水蓮山莊",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 22,
+          "last_mday": "20260722T230417",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234003",
+          "sna": "文化館前路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 42,
+          "tot": 44,
+          "last_mday": "20260722T222602",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500207076",
+          "sna": "嘉穗公園",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260722T203616",
+          "sample_count": 3
+        }
+      ],
       "sample_count": 3
     }
   }
