@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T12:34:58+08:00",
-  "updated_at_display": "2026-07-23 12:34:58",
+  "updated_at": "2026-07-23T15:19:51+08:00",
+  "updated_at_display": "2026-07-23 15:19:51",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,17 +16,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205017",
-          "sna": "中山科學研究院",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260723T071803",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500213005",
           "sna": "十分遊客中心",
           "sarea": "平溪區",
@@ -35,6 +24,28 @@
           "bemp": 39,
           "tot": 42,
           "last_mday": "20260723T060117",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227079",
+          "sna": "中華郵政玫瑰城郵局",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260723T115402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218159",
+          "sna": "新海抽水站停車場",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260723T121020",
           "sample_count": 2
         },
         {
