@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T15:19:51+08:00",
-  "updated_at_display": "2026-07-23 15:19:51",
+  "updated_at": "2026-07-23T17:59:07+08:00",
+  "updated_at_display": "2026-07-23 17:59:07",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -38,25 +38,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218159",
-          "sna": "新海抽水站停車場",
-          "sarea": "板橋區",
+          "sno": "NTPC-500233056",
+          "sna": "蘆洲環河公園",
+          "sarea": "蘆洲區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260723T121020",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218156",
-          "sna": "湳仔二橋",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260723T083603",
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260723T144803",
           "sample_count": 2
         }
       ],
