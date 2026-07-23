@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T07:15:54+08:00",
-  "updated_at_display": "2026-07-23 07:15:54",
+  "updated_at": "2026-07-23T09:02:00+08:00",
+  "updated_at_display": "2026-07-23 09:02:00",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500227095",
-          "sna": "輕軌台北小城站(北側)",
-          "sarea": "新店區",
+          "sno": "NTPC-500213005",
+          "sna": "十分遊客中心",
+          "sarea": "平溪區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260723T050903",
+          "bemp": 39,
+          "tot": 42,
+          "last_mday": "20260723T060117",
           "sample_count": 2
         }
       ],
@@ -26,7 +26,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 4
+      "sample_count": 3
     }
   }
 }
