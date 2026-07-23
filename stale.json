@@ -1,153 +1,19 @@
 {
-  "updated_at": "2026-07-24T06:40:26+08:00",
-  "updated_at_display": "2026-07-24 06:40:26",
+  "updated_at": "2026-07-24T07:40:32+08:00",
+  "updated_at_display": "2026-07-24 07:40:32",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206088",
-          "sna": "學府中正路口(A+社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260724T053603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206075",
-          "sna": "惜福公園",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260724T000403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260724T013103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229013",
-          "sna": "行政院新莊聯合辦公大樓",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260724T051503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231053",
-          "sna": "中正路248巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260724T053603",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206088",
-          "sna": "學府中正路口(A+社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260724T053603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206075",
-          "sna": "惜福公園",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260724T000403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260724T013103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229013",
-          "sna": "行政院新莊聯合辦公大樓",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260724T051503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231053",
-          "sna": "中正路248巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260724T053603",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 3
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206075",
-          "sna": "惜福公園",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260724T000403",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260724T013103",
-          "sample_count": 4
-        }
-      ],
+      "stations": [],
       "sample_count": 4
     }
   }
