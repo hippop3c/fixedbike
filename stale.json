@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T15:18:29+08:00",
-  "updated_at_display": "2026-07-24 15:18:29",
+  "updated_at": "2026-07-24T17:55:57+08:00",
+  "updated_at_display": "2026-07-24 17:55:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,30 +14,7 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500227064",
-          "sna": "十四張歷史公園(南側)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260724T122203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500212004",
-          "sna": "靜安碇南路口",
-          "sarea": "石碇區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260724T082603",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     }
   }
