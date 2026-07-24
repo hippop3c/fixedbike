@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T17:55:57+08:00",
-  "updated_at_display": "2026-07-24 17:55:57",
+  "updated_at": "2026-07-24T19:44:09+08:00",
+  "updated_at_display": "2026-07-24 19:44:09",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,12 +9,35 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260724T172304",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260724T172304",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
