@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T06:18:43+08:00",
-  "updated_at_display": "2026-07-25 06:18:43",
+  "updated_at": "2026-07-25T07:33:24+08:00",
+  "updated_at_display": "2026-07-25 07:33:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,47 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
+          "sno": "NTPC-500203081",
+          "sna": "力行路二段91巷口",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 34,
-          "tot": 35,
-          "last_mday": "20260725T044102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206083",
-          "sna": "捷運土城站(3號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260725T003402",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260724T220118",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227024",
-          "sna": "綠湖公園",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 42,
-          "tot": 44,
-          "last_mday": "20260725T020304",
+          "bemp": 11,
+          "tot": 13,
+          "last_mday": "20260725T060902",
           "sample_count": 2
         },
         {
@@ -66,88 +33,32 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
+          "sno": "NTPC-500231067",
+          "sna": "東豐街85巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260725T054202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500226008",
+          "sna": "三貂嶺隧道(金字橋)",
+          "sarea": "瑞芳區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 29,
           "tot": 30,
-          "last_mday": "20260725T031017",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229119",
-          "sna": "福慧新知八路口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260725T045816",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500220025",
-          "sna": "泰山體育館",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260724T221416",
+          "last_mday": "20260725T060116",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206083",
-          "sna": "捷運土城站(3號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260725T003402",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260724T220118",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500227024",
-          "sna": "綠湖公園",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 42,
-          "tot": 44,
-          "last_mday": "20260725T020304",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500220025",
-          "sna": "泰山體育館",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260724T221416",
-          "sample_count": 4
-        }
-      ],
+      "stations": [],
       "sample_count": 4
     }
   }
