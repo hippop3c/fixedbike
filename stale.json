@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T23:07:05+08:00",
-  "updated_at_display": "2026-07-24 23:07:05",
+  "updated_at": "2026-07-25T00:58:16+08:00",
+  "updated_at_display": "2026-07-25 00:58:16",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -22,14 +22,69 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223029",
-          "sna": "輕軌崁頂站",
-          "sarea": "淡水區",
+          "sno": "NTPC-500227132",
+          "sna": "北新路三段171巷",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260724T203304",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260724T220118",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229065",
+          "sna": "宏匯思源廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260724T223104",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229119",
+          "sna": "福慧新知八路口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260724T225916",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218037",
+          "sna": "板橋福德公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 46,
+          "tot": 47,
+          "last_mday": "20260724T222603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231048",
+          "sna": "東興街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260724T222603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220025",
+          "sna": "泰山體育館",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260724T221416",
           "sample_count": 2
         },
         {
@@ -57,6 +112,17 @@
           "bemp": 41,
           "tot": 42,
           "last_mday": "20260724T180704",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500223016",
+          "sna": "輕軌沙崙站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 35,
+          "tot": 36,
+          "last_mday": "20260724T203718",
           "sample_count": 3
         }
       ],
