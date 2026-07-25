@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T09:11:16+08:00",
-  "updated_at_display": "2026-07-25 09:11:16",
+  "updated_at": "2026-07-25T12:29:33+08:00",
+  "updated_at_display": "2026-07-25 12:29:33",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,11 +10,24 @@
     },
     "2h": {
       "stations": [],
-      "sample_count": 2
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 3
+      "stations": [
+        {
+          "sno": "NTPC-500234023",
+          "sna": "建國中正一路口(北鶯社區)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260725T083504",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
