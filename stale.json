@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T17:05:58+08:00",
-  "updated_at_display": "2026-07-25 17:05:58",
+  "updated_at": "2026-07-25T18:44:29+08:00",
+  "updated_at_display": "2026-07-25 18:44:29",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,25 +9,24 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "4h": {
       "stations": [
         {
-          "sno": "NTPC-500231051",
-          "sna": "中華路379巷口",
-          "sarea": "樹林區",
+          "sno": "NTPC-500218156",
+          "sna": "湳仔二橋",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260725T121402",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260725T164902",
           "sample_count": 2
         }
       ],
       "sample_count": 2
+    },
+    "4h": {
+      "stations": [],
+      "sample_count": 3
     }
   }
 }
