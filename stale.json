@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T19:52:04+08:00",
-  "updated_at_display": "2026-07-25 19:52:04",
+  "updated_at": "2026-07-25T21:37:25+08:00",
+  "updated_at_display": "2026-07-25 21:37:25",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,47 +11,36 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500209008",
-          "sna": "公五公園",
-          "sarea": "五股區",
+          "sno": "NTPC-500203112",
+          "sna": "光復興德路口(東南側)",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260725T183915",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260725T190403",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500201021",
-          "sna": "八里停五平面停車場",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260725T181302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227078",
-          "sna": "北城生活廣場(富貴街)",
+          "sno": "NTPC-500227110",
+          "sna": "十四張啓文路口",
           "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260725T172204",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218156",
-          "sna": "湳仔二橋",
-          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260725T164902",
+          "last_mday": "20260725T193903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231067",
+          "sna": "東豐街85巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260725T194415",
           "sample_count": 2
         },
         {
@@ -71,14 +60,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500218156",
-          "sna": "湳仔二橋",
-          "sarea": "板橋區",
+          "sno": "NTPC-500214066",
+          "sna": "大同路三段148號",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260725T164902",
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "20260725T180802",
           "sample_count": 3
         }
       ],
