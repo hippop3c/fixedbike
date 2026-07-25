@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T12:29:33+08:00",
-  "updated_at_display": "2026-07-25 12:29:33",
+  "updated_at": "2026-07-25T14:57:48+08:00",
+  "updated_at_display": "2026-07-25 14:57:48",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,14 +16,36 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500234023",
-          "sna": "建國中正一路口(北鶯社區)",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500216062",
+          "sna": "湖北市民活動中心",
+          "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260725T083504",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260725T115402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231051",
+          "sna": "中華路379巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260725T121402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214076",
+          "sna": "江北二橋",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "20260725T093804",
           "sample_count": 2
         }
       ],
