@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T21:37:25+08:00",
-  "updated_at_display": "2026-07-25 21:37:25",
+  "updated_at": "2026-07-25T22:49:22+08:00",
+  "updated_at_display": "2026-07-25 22:49:22",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,36 +11,80 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
+          "sno": "NTPC-500202002",
+          "sna": "三芝國中",
+          "sarea": "三芝區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260725T190403",
+          "bemp": 8,
+          "tot": 14,
+          "last_mday": "20260725T211617",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227110",
-          "sna": "十四張啓文路口",
+          "sno": "NTPC-500207058",
+          "sna": "板南路492號",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260725T212017",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227109",
+          "sna": "胡璉故居紀念館",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260725T193903",
+          "bemp": 8,
+          "tot": 10,
+          "last_mday": "20260725T203602",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231067",
-          "sna": "東豐街85巷口",
-          "sarea": "樹林區",
+          "sno": "NTPC-500227090",
+          "sna": "輕軌耕莘安康院區站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260725T205303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227085",
+          "sna": "雙城公園(安康路)",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260725T194415",
+          "tot": 13,
+          "last_mday": "20260725T203103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216083",
+          "sna": "國家檔案館",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260725T202004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231039",
+          "sna": "新北市立圖書館樹林東昇分館",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260725T205502",
           "sample_count": 2
         },
         {
@@ -52,6 +96,28 @@
           "bemp": 18,
           "tot": 19,
           "last_mday": "20260725T180802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214008",
+          "sna": "東方科學園區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 61,
+          "tot": 63,
+          "last_mday": "20260725T212003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223038",
+          "sna": "崁頂林子福德宮",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260725T212304",
           "sample_count": 2
         }
       ],
