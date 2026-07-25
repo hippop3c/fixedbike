@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T07:33:24+08:00",
-  "updated_at_display": "2026-07-25 07:33:24",
+  "updated_at": "2026-07-25T09:11:16+08:00",
+  "updated_at_display": "2026-07-25 09:11:16",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,57 +9,12 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203081",
-          "sna": "力行路二段91巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 13,
-          "last_mday": "20260725T060902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229125",
-          "sna": "台水新莊服務所",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260725T050104",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231067",
-          "sna": "東豐街85巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260725T054202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500226008",
-          "sna": "三貂嶺隧道(金字橋)",
-          "sarea": "瑞芳區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260725T060116",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     },
     "4h": {
       "stations": [],
-      "sample_count": 4
+      "sample_count": 3
     }
   }
 }
