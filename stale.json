@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T08:14:01+08:00",
-  "updated_at_display": "2026-07-26 08:14:01",
+  "updated_at": "2026-07-26T11:59:58+08:00",
+  "updated_at_display": "2026-07-26 11:59:58",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,18 +9,12 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500209031",
-          "sna": "五股環保藝術公園(芳洲路)",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260726T065802",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500206083",
           "sna": "捷運土城站(3號出口)",
@@ -30,39 +24,6 @@
           "bemp": 32,
           "tot": 33,
           "last_mday": "20260725T230603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500213001",
-          "sna": "菁桐老街",
-          "sarea": "平溪區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260726T060131",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260726T065404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233028",
-          "sna": "中山二永安南路口",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260726T065603",
           "sample_count": 2
         },
         {
@@ -78,22 +39,6 @@
         }
       ],
       "sample_count": 2
-    },
-    "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206083",
-          "sna": "捷運土城站(3號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260725T230603",
-          "sample_count": 4
-        }
-      ],
-      "sample_count": 4
     }
   }
 }
