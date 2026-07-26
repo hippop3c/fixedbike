@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T17:03:34+08:00",
-  "updated_at_display": "2026-07-26 17:03:34",
+  "updated_at": "2026-07-26T18:53:45+08:00",
+  "updated_at_display": "2026-07-26 18:53:45",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,32 +9,32 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500215007",
+          "sna": "金山立體停車場(中興路)",
+          "sarea": "金山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 15,
+          "last_mday": "20260726T144403",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500218198",
-          "sna": "田單北街/懷德街201巷(一川社區)",
-          "sarea": "板橋區",
+          "sno": "NTPC-500215007",
+          "sna": "金山立體停車場(中興路)",
+          "sarea": "金山區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260726T113303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223056",
-          "sna": "淡金路38巷尾",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260726T135803",
+          "bemp": 12,
+          "tot": 15,
+          "last_mday": "20260726T144403",
           "sample_count": 2
         }
       ],
