@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T06:07:03+08:00",
-  "updated_at_display": "2026-07-27 06:07:03",
+  "updated_at": "2026-07-27T07:12:16+08:00",
+  "updated_at_display": "2026-07-27 07:12:16",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,47 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205053",
-          "sna": "臺北大學法學院(鳶飛大道)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500217002",
+          "sna": "坪林茶業博物館",
+          "sarea": "坪林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 27,
-          "tot": 29,
-          "last_mday": "20260727T012503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206055",
-          "sna": "裕民路55巷",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260727T044903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218070",
-          "sna": "崑崙公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260727T043803",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231051",
-          "sna": "中華路379巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260727T024517",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260727T060116",
           "sample_count": 2
         },
         {
@@ -69,19 +36,7 @@
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500205053",
-          "sna": "臺北大學法學院(鳶飛大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 29,
-          "last_mday": "20260727T012503",
-          "sample_count": 4
-        }
-      ],
+      "stations": [],
       "sample_count": 4
     }
   }
