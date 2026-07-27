@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T07:12:16+08:00",
-  "updated_at_display": "2026-07-27 07:12:16",
+  "updated_at": "2026-07-27T08:13:47+08:00",
+  "updated_at_display": "2026-07-27 08:13:47",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -19,17 +19,6 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260727T060116",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234023",
-          "sna": "建國中正一路口(北鶯社區)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260727T044703",
           "sample_count": 2
         }
       ],
