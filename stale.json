@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T06:28:39+08:00",
-  "updated_at_display": "2026-07-28 06:28:39",
+  "updated_at": "2026-07-28T07:37:18+08:00",
+  "updated_at_display": "2026-07-28 07:37:18",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203111",
-          "sna": "光復路一段99巷口",
-          "sarea": "三重區",
+          "sno": "NTPC-500206230",
+          "sna": "雲溪廣場(青雲路183巷)",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 18,
-          "last_mday": "20260728T001904",
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260728T053703",
           "sample_count": 2
         },
         {
@@ -33,28 +33,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229018",
-          "sna": "頭前國中",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260728T040704",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231049",
-          "sna": "東大街",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260728T043502",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500214058",
           "sna": "建成段平面停車場",
           "sarea": "汐止區",
@@ -63,6 +41,17 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260727T192103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234023",
+          "sna": "建國中正一路口(北鶯社區)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260728T054703",
           "sample_count": 2
         }
       ],
@@ -71,17 +60,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500203111",
-          "sna": "光復路一段99巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 18,
-          "last_mday": "20260728T001904",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500214058",
           "sna": "建成段平面停車場",
           "sarea": "汐止區",
@@ -90,10 +68,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260727T192103",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
