@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T19:25:02+08:00",
-  "updated_at_display": "2026-07-27 19:25:02",
+  "updated_at": "2026-07-27T21:54:10+08:00",
+  "updated_at_display": "2026-07-27 21:54:10",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,19 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500206096",
+          "sna": "土城綜合球場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260727T190025",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
