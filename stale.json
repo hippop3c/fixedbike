@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T00:22:04+08:00",
-  "updated_at_display": "2026-07-28 00:22:04",
+  "updated_at": "2026-07-28T02:06:01+08:00",
+  "updated_at_display": "2026-07-28 02:06:01",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,12 +9,29 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500203108",
+          "sna": "中正北重陽路口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260727T234702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203111",
+          "sna": "光復路一段99巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "20260728T001904",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500206096",
           "sna": "土城綜合球場",
@@ -27,14 +44,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206098",
-          "sna": "捷運頂埔站(2號出口)",
-          "sarea": "土城區",
+          "sno": "NTPC-500229011",
+          "sna": "宏匯廣場",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 62,
-          "tot": 63,
-          "last_mday": "20260727T213704",
+          "bemp": 49,
+          "tot": 51,
+          "last_mday": "20260727T233416",
           "sample_count": 2
         },
         {
@@ -49,6 +66,28 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500229013",
+          "sna": "行政院新莊聯合辦公大樓",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 49,
+          "tot": 51,
+          "last_mday": "20260727T230402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231006",
+          "sna": "樹林大安站",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 65,
+          "tot": 66,
+          "last_mday": "20260727T233702",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500214058",
           "sna": "建成段平面停車場",
           "sarea": "汐止區",
@@ -60,6 +99,39 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500214008",
+          "sna": "東方科學園區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 61,
+          "tot": 63,
+          "last_mday": "20260727T234302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214059",
+          "sna": "汐止國民運動中心游泳池(忠孝東路)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260727T215703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214006",
+          "sna": "汐科火車站(南)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 74,
+          "tot": 77,
+          "last_mday": "20260727T233603",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500214076",
           "sna": "江北二橋",
           "sarea": "汐止區",
@@ -68,6 +140,165 @@
           "bemp": 31,
           "tot": 32,
           "last_mday": "20260727T214004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220011",
+          "sna": "捷運泰山貴和站",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260728T000102",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
+    },
+    "4h": {
+      "stations": [
+        {
+          "sno": "NTPC-500203108",
+          "sna": "中正北重陽路口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260727T234702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203111",
+          "sna": "光復路一段99巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "20260728T001904",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206096",
+          "sna": "土城綜合球場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260727T190025",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229011",
+          "sna": "宏匯廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 49,
+          "tot": 51,
+          "last_mday": "20260727T233416",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229065",
+          "sna": "宏匯思源廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260727T211803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229013",
+          "sna": "行政院新莊聯合辦公大樓",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 49,
+          "tot": 51,
+          "last_mday": "20260727T230402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231006",
+          "sna": "樹林大安站",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 65,
+          "tot": 66,
+          "last_mday": "20260727T233702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214058",
+          "sna": "建成段平面停車場",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260727T192103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214008",
+          "sna": "東方科學園區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 61,
+          "tot": 63,
+          "last_mday": "20260727T234302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214059",
+          "sna": "汐止國民運動中心游泳池(忠孝東路)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260727T215703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214006",
+          "sna": "汐科火車站(南)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 74,
+          "tot": 77,
+          "last_mday": "20260727T233603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214076",
+          "sna": "江北二橋",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "20260727T214004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220011",
+          "sna": "捷運泰山貴和站",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260728T000102",
           "sample_count": 2
         }
       ],
