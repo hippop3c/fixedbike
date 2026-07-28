@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T06:05:19+08:00",
-  "updated_at_display": "2026-07-29 06:05:19",
+  "updated_at": "2026-07-29T07:16:10+08:00",
+  "updated_at_display": "2026-07-29 07:16:10",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,17 +11,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203088",
-          "sna": "光榮國中(秀江街)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260729T044004",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500203105",
           "sna": "興德路134號(前)",
           "sarea": "三重區",
@@ -30,17 +19,6 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260729T000404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260729T011203",
           "sample_count": 2
         },
         {
@@ -55,36 +33,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229104",
-          "sna": "五工路68巷口",
-          "sarea": "新莊區",
+          "sno": "NTPC-500234031",
+          "sna": "中正一仁愛路口",
+          "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260729T031204",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216008",
-          "sna": "三井Outlet",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 62,
-          "tot": 63,
-          "last_mday": "20260729T020602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231067",
-          "sna": "東豐街85巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260728T203304",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260729T052003",
           "sample_count": 2
         }
       ],
@@ -101,18 +57,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260729T000404",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227012",
-          "sna": "寶橋路235巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260729T011203",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227061",
@@ -123,43 +68,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260728T045202",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229104",
-          "sna": "五工路68巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260729T031204",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216008",
-          "sna": "三井Outlet",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 62,
-          "tot": 63,
-          "last_mday": "20260729T020602",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231067",
-          "sna": "東豐街85巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260728T203304",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
