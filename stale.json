@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T22:42:52+08:00",
-  "updated_at_display": "2026-07-28 22:42:52",
+  "updated_at": "2026-07-29T00:25:00+08:00",
+  "updated_at_display": "2026-07-29 00:25:00",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,23 +9,7 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500206071",
-          "sna": "中央公園地下停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260728T195202",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500227117",
           "sna": "新安永安街94巷口",
@@ -60,6 +44,28 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500231049",
+          "sna": "東大街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260728T205619",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231067",
+          "sna": "東豐街85巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260728T203304",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500210041",
           "sna": "永成市民活動中心",
           "sarea": "永和區",
@@ -68,6 +74,143 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260728T171803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220017",
+          "sna": "台貿三村停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260728T223617",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500222003",
+          "sna": "貢寮區公所",
+          "sarea": "貢寮區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 20,
+          "last_mday": "20260728T213303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500222002",
+          "sna": "龍門運動公園",
+          "sarea": "貢寮區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260728T205404",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
+    },
+    "4h": {
+      "stations": [
+        {
+          "sno": "NTPC-500227117",
+          "sna": "新安永安街94巷口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260728T190618",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227061",
+          "sna": "直潭淨水廠(直潭二街)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260728T045202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216088",
+          "sna": "樂活公園(文化一路)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260728T184003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231049",
+          "sna": "東大街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260728T205619",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231067",
+          "sna": "東豐街85巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260728T203304",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260728T171803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220017",
+          "sna": "台貿三村停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260728T223617",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500222003",
+          "sna": "貢寮區公所",
+          "sarea": "貢寮區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 20,
+          "last_mday": "20260728T213303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500222002",
+          "sna": "龍門運動公園",
+          "sarea": "貢寮區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260728T205404",
           "sample_count": 2
         }
       ],
