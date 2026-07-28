@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T18:07:36+08:00",
-  "updated_at_display": "2026-07-28 18:07:36",
+  "updated_at": "2026-07-28T20:14:21+08:00",
+  "updated_at_display": "2026-07-28 20:14:21",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,6 +16,17 @@
     "4h": {
       "stations": [
         {
+          "sno": "NTPC-500201029",
+          "sna": "商港一十三行路口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260728T174902",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500227061",
           "sna": "直潭淨水廠(直潭二街)",
           "sarea": "新店區",
@@ -24,6 +35,17 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260728T045202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260728T171803",
           "sample_count": 2
         }
       ],
