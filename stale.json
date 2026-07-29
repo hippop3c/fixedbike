@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T20:21:33+08:00",
-  "updated_at_display": "2026-07-29 20:21:33",
+  "updated_at": "2026-07-29T22:42:44+08:00",
+  "updated_at_display": "2026-07-29 22:42:44",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -15,6 +15,28 @@
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500209024",
+          "sna": "成州停車場",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260729T185802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206096",
+          "sna": "土城綜合球場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260729T192523",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500227061",
           "sna": "直潭淨水廠(直潭二街)",
