@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T19:42:05+08:00",
-  "updated_at_display": "2026-07-30 19:42:05",
+  "updated_at": "2026-07-30T21:16:02+08:00",
+  "updated_at_display": "2026-07-30 21:16:02",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -35,10 +35,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260728T045202",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     }
   }
 }
