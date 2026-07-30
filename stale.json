@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T09:02:41+08:00",
-  "updated_at_display": "2026-07-30 09:02:41",
+  "updated_at": "2026-07-30T12:21:55+08:00",
+  "updated_at_display": "2026-07-30 12:21:55",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,6 +9,11 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
         {
           "sno": "NTPC-500227061",
@@ -22,22 +27,18 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500214075",
-          "sna": "水蓮山莊",
-          "sarea": "汐止區",
+          "sno": "NTPC-500234056",
+          "sna": "建國永昌街口",
+          "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260730T072103",
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260730T082303",
           "sample_count": 2
         }
       ],
       "sample_count": 2
-    },
-    "4h": {
-      "stations": [],
-      "sample_count": 4
     }
   }
 }
