@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T05:43:16+08:00",
-  "updated_at_display": "2026-07-31 05:43:16",
+  "updated_at": "2026-07-31T06:47:47+08:00",
+  "updated_at_display": "2026-07-31 06:47:47",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,36 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
+          "sno": "NTPC-500203007",
+          "sna": "環河福德南路口",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260731T032303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207077",
-          "sna": "中山橋安街口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260731T010403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209023",
-          "sna": "五工五五權路口",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260731T023103",
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20260731T043803",
           "sample_count": 2
         },
         {
@@ -88,17 +66,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229071",
-          "sna": "國家電影及視聽文化中心",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260730T232916",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500229065",
           "sna": "宏匯思源廣場",
           "sarea": "新莊區",
@@ -107,28 +74,6 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260730T211003",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218019",
-          "sna": "捷運新埔民生站",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 40,
-          "last_mday": "20260731T003802",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218129",
-          "sna": "民生路二段/文化路一段286巷口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260731T004403",
           "sample_count": 2
         },
         {
@@ -152,56 +97,12 @@
           "tot": 15,
           "last_mday": "20260730T225904",
           "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233048",
-          "sna": "國道路二段88號",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260731T030202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233055",
-          "sna": "捷運蘆洲站(蘆洲捷運公園)",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260731T023403",
-          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500207077",
-          "sna": "中山橋安街口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260731T010403",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500209023",
-          "sna": "五工五五權路口",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260731T023103",
-          "sample_count": 3
-        },
         {
           "sno": "NTPC-500227072",
           "sna": "寶橋路235巷",
@@ -225,6 +126,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500229023",
+          "sna": "中平國中",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 49,
+          "tot": 50,
+          "last_mday": "20260731T040402",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500229104",
           "sna": "五工路68巷口",
           "sarea": "新莊區",
@@ -236,17 +148,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500229071",
-          "sna": "國家電影及視聽文化中心",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260730T232916",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500229065",
           "sna": "宏匯思源廣場",
           "sarea": "新莊區",
@@ -255,28 +156,6 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260730T211003",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218019",
-          "sna": "捷運新埔民生站",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 40,
-          "last_mday": "20260731T003802",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218129",
-          "sna": "民生路二段/文化路一段286巷口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260731T004403",
           "sample_count": 3
         },
         {
@@ -299,17 +178,6 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260730T225904",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500233055",
-          "sna": "捷運蘆洲站(蘆洲捷運公園)",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260731T023403",
           "sample_count": 3
         }
       ],
