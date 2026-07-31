@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T17:45:55+08:00",
-  "updated_at_display": "2026-07-31 17:45:55",
+  "updated_at": "2026-07-31T20:01:18+08:00",
+  "updated_at_display": "2026-07-31 20:01:18",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,19 +14,7 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500221002",
-          "sna": "烏來公車總站",
-          "sarea": "烏來區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260731T103702",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     }
   }
