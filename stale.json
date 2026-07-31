@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T22:35:47+08:00",
-  "updated_at_display": "2026-07-31 22:35:47",
+  "updated_at": "2026-08-01T00:24:36+08:00",
+  "updated_at_display": "2026-08-01 00:24:36",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,9 +9,42 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500203112",
+          "sna": "光復興德路口(東南側)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260731T191216",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206072",
+          "sna": "中華路一段70巷口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260731T202717",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234056",
+          "sna": "建國永昌街口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260731T203403",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
       "stations": [
@@ -24,6 +57,28 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260731T191216",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206072",
+          "sna": "中華路一段70巷口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260731T202717",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234056",
+          "sna": "建國永昌街口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260731T203403",
           "sample_count": 2
         }
       ],
