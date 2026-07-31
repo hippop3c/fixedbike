@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T20:01:18+08:00",
-  "updated_at_display": "2026-07-31 20:01:18",
+  "updated_at": "2026-07-31T22:35:47+08:00",
+  "updated_at_display": "2026-07-31 22:35:47",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,19 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500203112",
+          "sna": "光復興德路口(東南側)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260731T191216",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
