@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T07:30:51+08:00",
-  "updated_at_display": "2026-08-01 07:30:51",
+  "updated_at": "2026-08-01T09:15:00+08:00",
+  "updated_at_display": "2026-08-01 09:15:00",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,67 +11,33 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500209027",
-          "sna": "五工二五工一路口(泰博科技)",
-          "sarea": "五股區",
+          "sno": "NTPC-500218159",
+          "sna": "新海抽水站停車場",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260801T030903",
+          "bemp": 11,
+          "tot": 13,
+          "last_mday": "20260801T071904",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
+          "sno": "NTPC-500220018",
+          "sna": "山腳停車場",
+          "sarea": "泰山區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260801T014603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234023",
-          "sna": "建國中正一路口(北鶯社區)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260801T044703",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260801T063416",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500209027",
-          "sna": "五工二五工一路口(泰博科技)",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260801T030903",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260801T014603",
-          "sample_count": 4
-        }
-      ],
-      "sample_count": 4
+      "stations": [],
+      "sample_count": 3
     }
   }
 }
