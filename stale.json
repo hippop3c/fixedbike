@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T09:15:00+08:00",
-  "updated_at_display": "2026-08-01 09:15:00",
+  "updated_at": "2026-08-01T12:41:14+08:00",
+  "updated_at_display": "2026-08-01 12:41:14",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,35 +9,25 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
         {
-          "sno": "NTPC-500218159",
-          "sna": "新海抽水站停車場",
-          "sarea": "板橋區",
+          "sno": "NTPC-500227077",
+          "sna": "雙城國小",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 11,
-          "tot": 13,
-          "last_mday": "20260801T071904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500220018",
-          "sna": "山腳停車場",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
+          "bemp": 13,
           "tot": 15,
-          "last_mday": "20260801T063416",
+          "last_mday": "20260801T090302",
           "sample_count": 2
         }
       ],
       "sample_count": 2
-    },
-    "4h": {
-      "stations": [],
-      "sample_count": 3
     }
   }
 }
