@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T19:05:10+08:00",
-  "updated_at_display": "2026-08-01 19:05:10",
+  "updated_at": "2026-08-01T20:12:58+08:00",
+  "updated_at_display": "2026-08-01 20:12:58",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -48,6 +48,17 @@
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500209025",
+          "sna": "永安橋下停車場",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260801T160603",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500206229",
           "sna": "新洲擺接堡路口",
