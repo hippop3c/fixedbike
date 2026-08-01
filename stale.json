@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T20:12:58+08:00",
-  "updated_at_display": "2026-08-01 20:12:58",
+  "updated_at": "2026-08-01T21:58:22+08:00",
+  "updated_at_display": "2026-08-01 21:58:22",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -31,17 +31,6 @@
           "tot": 28,
           "last_mday": "20260801T124802",
           "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218156",
-          "sna": "湳仔二橋",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260801T150003",
-          "sample_count": 2
         }
       ],
       "sample_count": 2
@@ -68,17 +57,6 @@
           "bemp": 27,
           "tot": 28,
           "last_mday": "20260801T124802",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218156",
-          "sna": "湳仔二橋",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260801T150003",
           "sample_count": 3
         }
       ],
