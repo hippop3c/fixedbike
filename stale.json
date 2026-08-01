@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T12:41:14+08:00",
-  "updated_at_display": "2026-08-01 12:41:14",
+  "updated_at": "2026-08-01T15:15:57+08:00",
+  "updated_at_display": "2026-08-01 15:15:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,14 +16,25 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500227077",
-          "sna": "雙城國小",
-          "sarea": "新店區",
+          "sno": "NTPC-500205052",
+          "sna": "臺北大學行政大樓(法商大道)",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260801T090302",
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260801T122603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234022",
+          "sna": "鶯歌老街第二停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260801T094003",
           "sample_count": 2
         }
       ],
