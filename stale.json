@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T15:15:57+08:00",
-  "updated_at_display": "2026-08-01 15:15:57",
+  "updated_at": "2026-08-01T17:31:38+08:00",
+  "updated_at_display": "2026-08-01 17:31:38",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,25 +16,25 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205052",
-          "sna": "臺北大學行政大樓(法商大道)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500206229",
+          "sna": "新洲擺接堡路口",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260801T122603",
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20260801T124802",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500234022",
-          "sna": "鶯歌老街第二停車場",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500218156",
+          "sna": "湳仔二橋",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260801T094003",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260801T150003",
           "sample_count": 2
         }
       ],
