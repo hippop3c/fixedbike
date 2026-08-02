@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T23:03:25+08:00",
-  "updated_at_display": "2026-08-02 23:03:25",
+  "updated_at": "2026-08-03T00:12:49+08:00",
+  "updated_at_display": "2026-08-03 00:12:49",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,17 +10,6 @@
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500209013",
-          "sna": "成州國小",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260802T214203",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500206231",
           "sna": "金城明德路口(東北側)",
@@ -33,14 +22,47 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227022",
-          "sna": "安和市民活動中心",
-          "sarea": "新店區",
+          "sno": "NTPC-500229125",
+          "sna": "台水新莊服務所",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 23,
-          "tot": 25,
-          "last_mday": "20260802T212803",
+          "bemp": 35,
+          "tot": 36,
+          "last_mday": "20260802T225504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229114",
+          "sna": "頭前運動公園(頭前路)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260802T225417",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218205",
+          "sna": "松柏街50巷90弄口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260802T225602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214040",
+          "sna": "伯爵山莊第二期(康寧街)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260802T222704",
           "sample_count": 2
         },
         {
@@ -66,14 +88,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223023",
-          "sna": "輕軌淡水行政中心站",
+          "sno": "NTPC-500223024",
+          "sna": "淡水公23公園",
           "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 45,
-          "tot": 48,
-          "last_mday": "20260802T213803",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260802T223204",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223054",
+          "sna": "淡水新市鎮兒童公園",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260802T224815",
           "sample_count": 2
         },
         {
@@ -97,12 +130,34 @@
           "tot": 15,
           "last_mday": "20260802T182904",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234018",
+          "sna": "二橋虹橋公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260802T220805",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500206231",
+          "sna": "金城明德路口(東北側)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260802T213704",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500223081",
           "sna": "崁頂三後洲路一段路口",
@@ -112,6 +167,17 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260802T182415",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500223082",
+          "sna": "崁頂市民活動中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260802T200505",
           "sample_count": 3
         },
         {
