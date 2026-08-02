@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T18:46:52+08:00",
-  "updated_at_display": "2026-08-02 18:46:52",
+  "updated_at": "2026-08-02T20:03:40+08:00",
+  "updated_at_display": "2026-08-02 20:03:40",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,6 +11,39 @@
     "2h": {
       "stations": [
         {
+          "sno": "NTPC-500205143",
+          "sna": "新北市客家文化園區(側門)",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260802T173903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201002",
+          "sna": "八里行政中心",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "20260802T175504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201025",
+          "sna": "商港六商港三路口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260802T182302",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500206046",
           "sna": "中華日新街口",
           "sarea": "土城區",
@@ -19,6 +52,72 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260802T144103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229093",
+          "sna": "福祿1號公園",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260802T182102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218156",
+          "sna": "湳仔二橋",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260802T171802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231050",
+          "sna": "東順街36巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260802T182415",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223081",
+          "sna": "崁頂三後洲路一段路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260802T182415",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500212004",
+          "sna": "靜安碇南路口",
+          "sarea": "石碇區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260802T181305",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500215007",
+          "sna": "金山立體停車場(中興路)",
+          "sarea": "金山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260802T182904",
           "sample_count": 2
         }
       ],
@@ -35,10 +134,10 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260802T144103",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     }
   }
 }
