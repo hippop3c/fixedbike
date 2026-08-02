@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T14:35:20+08:00",
-  "updated_at_display": "2026-08-02 14:35:20",
+  "updated_at": "2026-08-02T16:59:46+08:00",
+  "updated_at_display": "2026-08-02 16:59:46",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,14 +16,25 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500225003",
-          "sna": "萬里區行政中心",
-          "sarea": "萬里區",
+          "sno": "NTPC-500218212",
+          "sna": "浮洲合宜住宅(合宜一合宜路口)",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260802T085717",
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260802T135104",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218225",
+          "sna": "華中公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260802T133303",
           "sample_count": 2
         }
       ],
