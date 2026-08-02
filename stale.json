@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T16:59:46+08:00",
-  "updated_at_display": "2026-08-02 16:59:46",
+  "updated_at": "2026-08-02T18:46:52+08:00",
+  "updated_at_display": "2026-08-02 18:46:52",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,32 +9,32 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260802T144103",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500218212",
-          "sna": "浮洲合宜住宅(合宜一合宜路口)",
-          "sarea": "板橋區",
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260802T135104",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218225",
-          "sna": "華中公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260802T133303",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260802T144103",
           "sample_count": 2
         }
       ],
