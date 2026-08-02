@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T08:12:36+08:00",
-  "updated_at_display": "2026-08-02 08:12:36",
+  "updated_at": "2026-08-02T11:55:44+08:00",
+  "updated_at_display": "2026-08-02 11:55:44",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,80 +9,13 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260802T065904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260802T050203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260802T021303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229138",
-          "sna": "新樹路258巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260802T065604",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223066",
-          "sna": "民權路3巷12弄口",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260802T060202",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260802T021303",
-          "sample_count": 4
-        }
-      ],
-      "sample_count": 4
+      "stations": [],
+      "sample_count": 2
     }
   }
 }
