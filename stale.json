@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T06:00:10+08:00",
-  "updated_at_display": "2026-08-03 06:00:10",
+  "updated_at": "2026-08-03T07:03:09+08:00",
+  "updated_at_display": "2026-08-03 07:03:09",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,146 +11,36 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500209021",
-          "sna": "民義公園",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 20,
-          "last_mday": "20260802T234303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206231",
-          "sna": "金城明德路口(東北側)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260802T213704",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206035",
-          "sna": "金城裕民路口(中正國中)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260803T040503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227068",
-          "sna": "北新路二段228巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 12,
-          "last_mday": "20260803T045303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227113",
-          "sna": "新北捷運環狀線南機廠",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260803T014603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227122",
-          "sna": "民權二十張路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260803T041403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216008",
-          "sna": "三井Outlet",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 60,
-          "tot": 63,
-          "last_mday": "20260802T233902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216065",
-          "sna": "師大林口校區行政大樓",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260802T235003",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216006",
-          "sna": "扶輪公園",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 46,
-          "tot": 48,
-          "last_mday": "20260803T010917",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216050",
-          "sna": "林口夜市(中山路)",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260803T023417",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231056",
-          "sna": "獇寮公園",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260803T031202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231013",
-          "sna": "長壽親子公園",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260803T022616",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214040",
-          "sna": "伯爵山莊第二期(康寧街)",
-          "sarea": "汐止區",
+          "sno": "NTPC-500205063",
+          "sna": "光明停車場",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260802T222704",
+          "last_mday": "20260803T055103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227132",
+          "sna": "北新路三段171巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260803T051205",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229124",
+          "sna": "中正思源路口(東北側)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260803T053101",
           "sample_count": 2
         },
         {
@@ -169,83 +59,6 @@
     },
     "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500209021",
-          "sna": "民義公園",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 20,
-          "last_mday": "20260802T234303",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500206231",
-          "sna": "金城明德路口(東北側)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260802T213704",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500227113",
-          "sna": "新北捷運環狀線南機廠",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260803T014603",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500216008",
-          "sna": "三井Outlet",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 60,
-          "tot": 63,
-          "last_mday": "20260802T233902",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500216065",
-          "sna": "師大林口校區行政大樓",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260802T235003",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500216006",
-          "sna": "扶輪公園",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 46,
-          "tot": 48,
-          "last_mday": "20260803T010917",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500214040",
-          "sna": "伯爵山莊第二期(康寧街)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260802T222704",
-          "sample_count": 4
-        },
         {
           "sno": "NTPC-500234018",
           "sna": "二橋虹橋公園",
