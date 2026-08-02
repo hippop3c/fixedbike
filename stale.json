@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T11:55:44+08:00",
-  "updated_at_display": "2026-08-02 11:55:44",
+  "updated_at": "2026-08-02T14:35:20+08:00",
+  "updated_at_display": "2026-08-02 14:35:20",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,19 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500225003",
+          "sna": "萬里區行政中心",
+          "sarea": "萬里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260802T085717",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
