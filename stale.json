@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T08:13:05+08:00",
-  "updated_at_display": "2026-08-03 08:13:05",
+  "updated_at": "2026-08-03T11:58:09+08:00",
+  "updated_at_display": "2026-08-03 11:58:09",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,11 +10,24 @@
     },
     "2h": {
       "stations": [],
-      "sample_count": 2
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 4
+      "stations": [
+        {
+          "sno": "NTPC-500234011",
+          "sna": "國際二國際一路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260803T071703",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
