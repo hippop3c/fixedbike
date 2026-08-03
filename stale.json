@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T05:31:35+08:00",
-  "updated_at_display": "2026-08-04 05:31:35",
+  "updated_at": "2026-08-04T06:41:27+08:00",
+  "updated_at_display": "2026-08-04 06:41:27",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205032",
-          "sna": "大義三樹路口",
-          "sarea": "三峽區",
+          "sno": "NTPC-500203111",
+          "sna": "光復路一段99巷口",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 14,
-          "last_mday": "20260804T014903",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260804T043703",
           "sample_count": 2
         },
         {
@@ -33,58 +33,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500207035",
-          "sna": "中和環球購物中心",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 37,
-          "tot": 38,
-          "last_mday": "20260804T011602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260804T022603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227072",
-          "sna": "寶橋路235巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260803T213103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227113",
-          "sna": "新北捷運環狀線南機廠",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260804T032402",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229011",
-          "sna": "宏匯廣場",
+          "sno": "NTPC-500229092",
+          "sna": "台電台北西區營業處",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 49,
-          "tot": 51,
-          "last_mday": "20260804T032904",
+          "bemp": 11,
+          "tot": 13,
+          "last_mday": "20260804T051003",
           "sample_count": 2
         },
         {
@@ -99,39 +55,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218135",
-          "sna": "捷運江子翠站(2號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260804T033818",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218188",
-          "sna": "捷運環狀線板橋站(5號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 98,
-          "tot": 99,
-          "last_mday": "20260803T234102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216006",
-          "sna": "扶輪公園",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 47,
-          "tot": 48,
-          "last_mday": "20260804T003802",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500231058",
           "sna": "俊興俊安街口",
           "sarea": "樹林區",
@@ -143,14 +66,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223034",
-          "sna": "滬尾藝文休閒園區",
-          "sarea": "淡水區",
+          "sno": "NTPC-500224003",
+          "sna": "東南科技大學",
+          "sarea": "深坑區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 25,
-          "tot": 28,
-          "last_mday": "20260804T002802",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260804T051704",
           "sample_count": 2
         }
       ],
@@ -159,36 +82,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205032",
-          "sna": "大義三樹路口",
-          "sarea": "三峽區",
+          "sno": "NTPC-500203105",
+          "sna": "興德路134號(前)",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 14,
-          "last_mday": "20260804T014903",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500207035",
-          "sna": "中和環球購物中心",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 37,
-          "tot": 38,
-          "last_mday": "20260804T011602",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227072",
-          "sna": "寶橋路235巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260803T213103",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260804T031902",
           "sample_count": 3
         },
         {
@@ -203,28 +104,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500218188",
-          "sna": "捷運環狀線板橋站(5號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 98,
-          "tot": 99,
-          "last_mday": "20260803T234102",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216006",
-          "sna": "扶輪公園",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 47,
-          "tot": 48,
-          "last_mday": "20260804T003802",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500231058",
           "sna": "俊興俊安街口",
           "sarea": "樹林區",
@@ -233,17 +112,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260803T221505",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223034",
-          "sna": "滬尾藝文休閒園區",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 28,
-          "last_mday": "20260804T002802",
           "sample_count": 3
         }
       ],
