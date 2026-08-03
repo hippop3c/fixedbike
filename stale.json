@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T06:41:27+08:00",
-  "updated_at_display": "2026-08-04 06:41:27",
+  "updated_at": "2026-08-04T07:49:22+08:00",
+  "updated_at_display": "2026-08-04 07:49:22",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,111 +11,22 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203111",
-          "sna": "光復路一段99巷口",
-          "sarea": "三重區",
+          "sno": "NTPC-500213001",
+          "sna": "菁桐老街",
+          "sarea": "平溪區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260804T043703",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260804T031902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229092",
-          "sna": "台電台北西區營業處",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 13,
-          "last_mday": "20260804T051003",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229139",
-          "sna": "思源路593巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260803T233803",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231058",
-          "sna": "俊興俊安街口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260803T221505",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500224003",
-          "sna": "東南科技大學",
-          "sarea": "深坑區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260804T051704",
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260804T060117",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260804T031902",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229139",
-          "sna": "思源路593巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260803T233803",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231058",
-          "sna": "俊興俊安街口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260803T221505",
-          "sample_count": 3
-        }
-      ],
-      "sample_count": 3
+      "stations": [],
+      "sample_count": 4
     }
   }
 }
