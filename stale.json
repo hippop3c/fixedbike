@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T23:35:40+08:00",
-  "updated_at_display": "2026-08-04 23:35:40",
+  "updated_at": "2026-08-05T01:22:00+08:00",
+  "updated_at_display": "2026-08-05 01:22:00",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,12 +9,277 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500229021",
+          "sna": "中港大排願景館",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 56,
+          "tot": 57,
+          "last_mday": "20260804T230003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229139",
+          "sna": "思源路593巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260804T225717",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229008",
+          "sna": "捷運輔大站(4號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 50,
+          "tot": 52,
+          "last_mday": "20260804T210702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218006",
+          "sna": "四川遠東路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 58,
+          "tot": 60,
+          "last_mday": "20260804T223302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216090",
+          "sna": "忠孝二文化二路口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260804T232003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216049",
+          "sna": "西林簡易籃球場",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260804T231815",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231053",
+          "sna": "中正路248巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260804T232303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500224006",
+          "sna": "深坑國中",
+          "sarea": "深坑區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260804T230603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500215001",
+          "sna": "臺大醫院金山分院",
+          "sarea": "金山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260804T213603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234024",
+          "sna": "三鶯水資源回收中心",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260804T213935",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234059",
+          "sna": "捷運國華站",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260804T202602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234001",
+          "sna": "鶯歌火車站(仁愛路)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 68,
+          "tot": 69,
+          "last_mday": "20260804T232202",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500229021",
+          "sna": "中港大排願景館",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 56,
+          "tot": 57,
+          "last_mday": "20260804T230003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229139",
+          "sna": "思源路593巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260804T225717",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229008",
+          "sna": "捷運輔大站(4號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 50,
+          "tot": 52,
+          "last_mday": "20260804T210702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218006",
+          "sna": "四川遠東路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 58,
+          "tot": 60,
+          "last_mday": "20260804T223302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216090",
+          "sna": "忠孝二文化二路口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260804T232003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216049",
+          "sna": "西林簡易籃球場",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260804T231815",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231053",
+          "sna": "中正路248巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260804T232303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500224006",
+          "sna": "深坑國中",
+          "sarea": "深坑區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260804T230603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500215001",
+          "sna": "臺大醫院金山分院",
+          "sarea": "金山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260804T213603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234024",
+          "sna": "三鶯水資源回收中心",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260804T213935",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234059",
+          "sna": "捷運國華站",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260804T202602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234001",
+          "sna": "鶯歌火車站(仁愛路)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 68,
+          "tot": 69,
+          "last_mday": "20260804T232202",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
