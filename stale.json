@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T07:49:22+08:00",
-  "updated_at_display": "2026-08-04 07:49:22",
+  "updated_at": "2026-08-04T10:40:39+08:00",
+  "updated_at_display": "2026-08-04 10:40:39",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,24 +9,13 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500213001",
-          "sna": "菁桐老街",
-          "sarea": "平溪區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260804T060117",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
       "stations": [],
-      "sample_count": 4
+      "sample_count": 3
     }
   }
 }
