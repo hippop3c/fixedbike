@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T13:34:19+08:00",
-  "updated_at_display": "2026-08-04 13:34:19",
+  "updated_at": "2026-08-04T16:09:14+08:00",
+  "updated_at_display": "2026-08-04 16:09:14",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,41 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500202002",
+          "sna": "三芝國中",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 14,
+          "last_mday": "20260804T132004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500224001",
+          "sna": "深坑松柏街",
+          "sarea": "深坑區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 34,
+          "last_mday": "20260804T114304",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234052",
+          "sna": "龍鳳夜市",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260804T130104",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
