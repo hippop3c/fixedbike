@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T07:11:41+08:00",
-  "updated_at_display": "2026-08-05 07:11:41",
+  "updated_at": "2026-08-05T08:15:49+08:00",
+  "updated_at_display": "2026-08-05 08:15:49",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500227095",
-          "sna": "輕軌台北小城站(北側)",
-          "sarea": "新店區",
+          "sno": "NTPC-500224005",
+          "sna": "埔新街61巷口",
+          "sarea": "深坑區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260805T051403",
+          "tot": 15,
+          "last_mday": "20260805T064918",
           "sample_count": 2
         },
         {
@@ -30,17 +30,6 @@
           "bemp": 32,
           "tot": 34,
           "last_mday": "20260805T031403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234024",
-          "sna": "三鶯水資源回收中心",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260804T213935",
           "sample_count": 2
         }
       ],
@@ -57,21 +46,10 @@
           "bemp": 32,
           "tot": 34,
           "last_mday": "20260805T031403",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234024",
-          "sna": "三鶯水資源回收中心",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260804T213935",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
