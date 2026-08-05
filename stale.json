@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T14:13:11+08:00",
-  "updated_at_display": "2026-08-05 14:13:11",
+  "updated_at": "2026-08-05T17:08:42+08:00",
+  "updated_at_display": "2026-08-05 17:08:42",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,14 +16,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500227026",
-          "sna": "青潭河濱公園",
-          "sarea": "新店區",
+          "sno": "NTPC-500224004",
+          "sna": "深坑雲鄉路",
+          "sarea": "深坑區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260805T091620",
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260805T134216",
           "sample_count": 2
         }
       ],
