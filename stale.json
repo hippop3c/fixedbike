@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T21:15:09+08:00",
-  "updated_at_display": "2026-08-05 21:15:09",
+  "updated_at": "2026-08-05T23:32:32+08:00",
+  "updated_at_display": "2026-08-05 23:32:32",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,7 +9,34 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500207080",
+          "sna": "建六中正路口",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260805T210404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218139",
+          "sna": "浮洲運動公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260805T194202",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500214058",
           "sna": "建成段平面停車場",
@@ -20,21 +47,16 @@
           "tot": 15,
           "last_mday": "20260805T172004",
           "sample_count": 2
-        }
-      ],
-      "sample_count": 2
-    },
-    "4h": {
-      "stations": [
+        },
         {
-          "sno": "NTPC-500214058",
-          "sna": "建成段平面停車場",
-          "sarea": "汐止區",
+          "sno": "NTPC-500223083",
+          "sna": "大庄福德宮",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260805T172004",
+          "last_mday": "20260805T205417",
           "sample_count": 2
         }
       ],
