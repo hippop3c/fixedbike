@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T11:38:50+08:00",
-  "updated_at_display": "2026-08-06 11:38:50",
+  "updated_at": "2026-08-06T14:15:41+08:00",
+  "updated_at_display": "2026-08-06 14:15:41",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,52 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500206071",
+          "sna": "中央公園地下停車場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260806T093403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223010",
+          "sna": "捷運紅樹林站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 43,
+          "tot": 44,
+          "last_mday": "20260806T104603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234035",
+          "sna": "國中高職東街口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260806T105304",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234005",
+          "sna": "尖山國中",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260806T085403",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
