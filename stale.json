@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T07:01:00+08:00",
-  "updated_at_display": "2026-08-06 07:01:00",
+  "updated_at": "2026-08-06T08:10:27+08:00",
+  "updated_at_display": "2026-08-06 08:10:27",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,17 +10,6 @@
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260806T044203",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500207117",
           "sna": "中和慈惠堂",
@@ -33,14 +22,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229106",
-          "sna": "復興化成路口",
-          "sarea": "新莊區",
+          "sno": "NTPC-500216062",
+          "sna": "湖北市民活動中心",
+          "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260806T054303",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260806T054703",
           "sample_count": 2
         },
         {
@@ -68,7 +57,7 @@
           "bemp": 11,
           "tot": 15,
           "last_mday": "20260805T224303",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500214058",
@@ -79,10 +68,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260805T172004",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
