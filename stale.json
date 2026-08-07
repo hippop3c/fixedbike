@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T22:54:05+08:00",
-  "updated_at_display": "2026-08-07 22:54:05",
+  "updated_at": "2026-08-07T23:57:16+08:00",
+  "updated_at_display": "2026-08-07 23:57:16",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -22,6 +22,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500203080",
+          "sna": "元信二仁愛街口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260807T224402",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500207079",
           "sna": "中原抽水站",
           "sarea": "中和區",
@@ -33,36 +44,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500207080",
-          "sna": "建六中正路口",
-          "sarea": "中和區",
+          "sno": "NTPC-500206072",
+          "sna": "中華路一段70巷口",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 11,
+          "bemp": 10,
           "tot": 12,
-          "last_mday": "20260807T214103",
+          "last_mday": "20260807T224217",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206083",
-          "sna": "捷運土城站(3號出口)",
+          "sno": "NTPC-500206082",
+          "sna": "土城區公所",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260807T214903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206074",
-          "sna": "明德平面停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260807T214505",
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20260807T224715",
           "sample_count": 2
         },
         {
@@ -77,25 +77,47 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229119",
-          "sna": "福慧新知八路口",
-          "sarea": "新莊區",
+          "sno": "NTPC-500227117",
+          "sna": "新安永安街94巷口",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260807T213504",
+          "last_mday": "20260807T215917",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231039",
-          "sna": "新北市立圖書館樹林東昇分館",
-          "sarea": "樹林區",
+          "sno": "NTPC-500229065",
+          "sna": "宏匯思源廣場",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260807T213804",
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260807T221417",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229118",
+          "sna": "文中三平面停車場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 41,
+          "tot": 42,
+          "last_mday": "20260807T220304",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216088",
+          "sna": "樂活公園(文化一路)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 26,
+          "last_mday": "20260807T221504",
           "sample_count": 2
         },
         {
@@ -107,6 +129,28 @@
           "bemp": 9,
           "tot": 11,
           "last_mday": "20260807T213903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214051",
+          "sna": "中興工建路口",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260807T223502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234031",
+          "sna": "中正一仁愛路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260807T220904",
           "sample_count": 2
         }
       ],
