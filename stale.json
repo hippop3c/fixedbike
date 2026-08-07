@@ -1,35 +1,19 @@
 {
-  "updated_at": "2026-08-07T18:34:26+08:00",
-  "updated_at_display": "2026-08-07 18:34:26",
+  "updated_at": "2026-08-07T19:31:40+08:00",
+  "updated_at_display": "2026-08-07 19:31:40",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205025",
-          "sna": "明德高中",
+          "sno": "NTPC-500205069",
+          "sna": "民族街78巷口",
           "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 51,
-          "tot": 52,
-          "last_mday": "20260807T171504",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203116",
-          "sna": "三和路四段73號旁",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260807T170502",
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260807T181817",
           "sample_count": 2
         },
         {
@@ -44,40 +28,78 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229119",
-          "sna": "福慧新知八路口",
+          "sno": "NTPC-500227109",
+          "sna": "胡璉故居紀念館",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260807T174717",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229125",
+          "sna": "台水新莊服務所",
           "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 35,
+          "tot": 36,
+          "last_mday": "20260807T175804",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229097",
+          "sna": "國泰國小",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260807T180202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218159",
+          "sna": "新海抽水站停車場",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260807T175304",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214079",
+          "sna": "福德一路392巷41弄口",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260807T171603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231044",
-          "sna": "大安文化街口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260807T171103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214040",
-          "sna": "伯爵山莊第二期(康寧街)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260807T170104",
+          "last_mday": "20260807T180603",
           "sample_count": 2
         }
       ],
       "sample_count": 2
+    },
+    "2h": {
+      "stations": [
+        {
+          "sno": "NTPC-500209015",
+          "sna": "陸光國宅",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260807T170802",
+          "sample_count": 3
+        }
+      ],
+      "sample_count": 3
     },
     "4h": {
       "stations": [],
