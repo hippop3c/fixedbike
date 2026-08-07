@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T16:15:21+08:00",
-  "updated_at_display": "2026-08-07 16:15:21",
+  "updated_at": "2026-08-07T17:32:17+08:00",
+  "updated_at_display": "2026-08-07 17:32:17",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,7 +9,19 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500202008",
+          "sna": "三芝兒三公園(三民街)",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 17,
+          "last_mday": "20260807T161104",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     },
     "4h": {
