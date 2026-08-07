@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T17:32:17+08:00",
-  "updated_at_display": "2026-08-07 17:32:17",
+  "updated_at": "2026-08-07T18:34:26+08:00",
+  "updated_at_display": "2026-08-07 18:34:26",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,14 +11,69 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500202008",
-          "sna": "三芝兒三公園(三民街)",
-          "sarea": "三芝區",
+          "sno": "NTPC-500205025",
+          "sna": "明德高中",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260807T161104",
+          "bemp": 51,
+          "tot": 52,
+          "last_mday": "20260807T171504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203116",
+          "sna": "三和路四段73號旁",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260807T170502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209015",
+          "sna": "陸光國宅",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260807T170802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229119",
+          "sna": "福慧新知八路口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260807T171603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231044",
+          "sna": "大安文化街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260807T171103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214040",
+          "sna": "伯爵山莊第二期(康寧街)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260807T170104",
           "sample_count": 2
         }
       ],
@@ -26,7 +81,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
