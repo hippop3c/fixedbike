@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-09T06:30:53+08:00",
-  "updated_at_display": "2026-08-09 06:30:53",
+  "updated_at": "2026-08-09T07:04:49+08:00",
+  "updated_at_display": "2026-08-09 07:04:49",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203078",
-          "sna": "捷運三和國中站(2號出口)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260809T042202",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500203051",
           "sna": "藍天大樓",
@@ -58,17 +47,6 @@
           "bemp": 46,
           "tot": 47,
           "last_mday": "20260809T005902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229125",
-          "sna": "台水新莊服務所",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260808T191405",
           "sample_count": 2
         },
         {
@@ -124,6 +102,17 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T204103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223044",
+          "sna": "新市二路三段/濱海路二段202巷口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260809T061903",
           "sample_count": 2
         },
         {
@@ -187,17 +176,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203078",
-          "sna": "捷運三和國中站(2號出口)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260809T042202",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500203051",
           "sna": "藍天大樓",
           "sarea": "三重區",
@@ -242,14 +220,14 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500229125",
-          "sna": "台水新莊服務所",
+          "sno": "NTPC-500229036",
+          "sna": "立泰里(中環路二段)",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260808T191405",
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260809T045703",
           "sample_count": 4
         },
         {
@@ -376,17 +354,6 @@
           "bemp": 46,
           "tot": 47,
           "last_mday": "20260809T005902",
-          "sample_count": 7
-        },
-        {
-          "sno": "NTPC-500229125",
-          "sna": "台水新莊服務所",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260808T191405",
           "sample_count": 7
         },
         {
