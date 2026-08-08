@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T02:39:12+08:00",
-  "updated_at_display": "2026-08-09 02:39:12",
+  "updated_at": "2026-08-09T03:16:40+08:00",
+  "updated_at_display": "2026-08-09 03:16:40",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -80,6 +80,17 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260808T191405",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229054",
+          "sna": "臺北醫院",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 38,
+          "tot": 39,
+          "last_mday": "20260809T021603",
           "sample_count": 2
         },
         {
@@ -341,6 +352,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500223053",
+          "sna": "淡水行政中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260809T011403",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500223065",
           "sna": "濱海路一段306巷9弄",
           "sarea": "淡水區",
@@ -475,6 +497,17 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T212602",
+          "sample_count": 6
+        },
+        {
+          "sno": "NTPC-500234007",
+          "sna": "鶯歌國中",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260808T230217",
           "sample_count": 6
         }
       ],
