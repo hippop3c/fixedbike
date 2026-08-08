@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T03:54:35+08:00",
-  "updated_at_display": "2026-08-09 03:54:35",
+  "updated_at": "2026-08-09T04:31:23+08:00",
+  "updated_at_display": "2026-08-09 04:31:23",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -206,7 +206,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260809T004218",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500207053",
@@ -217,7 +217,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T181402",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500207067",
@@ -228,7 +228,7 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260808T235004",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227002",
@@ -239,7 +239,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T211703",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227053",
@@ -250,7 +250,7 @@
           "bemp": 41,
           "tot": 42,
           "last_mday": "20260809T010402",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227054",
@@ -261,7 +261,7 @@
           "bemp": 46,
           "tot": 47,
           "last_mday": "20260809T005902",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500229125",
@@ -272,7 +272,7 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260808T191405",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500229054",
@@ -283,7 +283,7 @@
           "bemp": 38,
           "tot": 39,
           "last_mday": "20260809T021603",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500218045",
@@ -294,7 +294,7 @@
           "bemp": 87,
           "tot": 89,
           "last_mday": "20260809T005202",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500218159",
@@ -305,7 +305,7 @@
           "bemp": 12,
           "tot": 13,
           "last_mday": "20260808T181117",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500231055",
@@ -316,7 +316,7 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260808T212103",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500214042",
@@ -327,7 +327,7 @@
           "bemp": 11,
           "tot": 13,
           "last_mday": "20260808T223516",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500220025",
@@ -338,7 +338,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T204103",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500223053",
@@ -349,7 +349,7 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260809T011403",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500223065",
@@ -360,7 +360,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T210402",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500234037",
@@ -371,7 +371,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T212602",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500234007",
@@ -382,10 +382,10 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260808T230217",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     },
     "4h": {
       "stations": [
@@ -398,7 +398,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T181402",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500207067",
@@ -409,7 +409,7 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260808T235004",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500227002",
@@ -420,7 +420,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T211703",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500229125",
@@ -431,7 +431,7 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260808T191405",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500218159",
@@ -442,7 +442,7 @@
           "bemp": 12,
           "tot": 13,
           "last_mday": "20260808T181117",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500231055",
@@ -453,7 +453,7 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260808T212103",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500214042",
@@ -464,7 +464,7 @@
           "bemp": 11,
           "tot": 13,
           "last_mday": "20260808T223516",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500220025",
@@ -475,7 +475,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T204103",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500223065",
@@ -486,7 +486,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T210402",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500234037",
@@ -497,7 +497,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T212602",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500234007",
@@ -508,10 +508,10 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260808T230217",
-          "sample_count": 6
+          "sample_count": 7
         }
       ],
-      "sample_count": 6
+      "sample_count": 7
     }
   }
 }
