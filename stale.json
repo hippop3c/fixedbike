@@ -1,32 +1,10 @@
 {
-  "updated_at": "2026-08-08T15:59:45+08:00",
-  "updated_at_display": "2026-08-08 15:59:45",
+  "updated_at": "2026-08-08T16:53:15+08:00",
+  "updated_at_display": "2026-08-08 16:53:15",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203116",
-          "sna": "三和路四段73號旁",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260808T130903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203093",
-          "sna": "中正北路25巷(交響院社區)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260808T145404",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500203091",
           "sna": "群光公園",
@@ -47,28 +25,6 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T142519",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209001",
-          "sna": "新城一路(守讓堂)",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260808T144216",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500201018",
-          "sna": "商港公園(商港七商港一路口)",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260808T144904",
           "sample_count": 2
         },
         {
@@ -94,17 +50,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227014",
-          "sna": "五峰國中",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260808T134002",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500227088",
           "sna": "輕軌玫瑰中國城站",
           "sarea": "新店區",
@@ -127,14 +72,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218157",
-          "sna": "玫瑰公園",
+          "sno": "NTPC-500218212",
+          "sna": "浮洲合宜住宅(合宜一合宜路口)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260808T140218",
+          "bemp": 20,
+          "tot": 22,
+          "last_mday": "20260808T154003",
           "sample_count": 2
         },
         {
@@ -157,17 +102,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T130617",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210047",
-          "sna": "頂溪國小地下停車場",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 13,
-          "last_mday": "20260808T144904",
           "sample_count": 2
         },
         {
@@ -204,28 +138,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500233016",
-          "sna": "彩虹兒童公園",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260808T144920",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233005",
-          "sna": "永安南路九芎街71巷口",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260808T101803",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500233056",
           "sna": "蘆洲環河公園",
           "sarea": "蘆洲區",
@@ -248,14 +160,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500234012",
-          "sna": "鳳福公園",
+          "sno": "NTPC-500234010",
+          "sna": "鳳鳴國小",
           "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260808T145904",
+          "last_mday": "20260808T151103",
           "sample_count": 2
         }
       ],
@@ -264,28 +176,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203116",
-          "sna": "三和路四段73號旁",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260808T130903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203093",
-          "sna": "中正北路25巷(交響院社區)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260808T145404",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500203091",
           "sna": "群光公園",
           "sarea": "三重區",
@@ -294,7 +184,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T145503",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500207053",
@@ -305,29 +195,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T142519",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209001",
-          "sna": "新城一路(守讓堂)",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260808T144216",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500201018",
-          "sna": "商港公園(商港七商港一路口)",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260808T144904",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500201017",
@@ -338,7 +206,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T115802",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500201004",
@@ -349,18 +217,7 @@
           "bemp": 18,
           "tot": 20,
           "last_mday": "20260808T142418",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227014",
-          "sna": "五峰國中",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260808T134002",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500227088",
@@ -371,7 +228,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260808T110804",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229118",
@@ -382,18 +239,7 @@
           "bemp": 41,
           "tot": 42,
           "last_mday": "20260808T123803",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218157",
-          "sna": "玫瑰公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260808T140218",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231051",
@@ -404,7 +250,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T141504",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231048",
@@ -415,18 +261,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T130617",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210047",
-          "sna": "頂溪國小地下停車場",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 13,
-          "last_mday": "20260808T144904",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500214042",
@@ -437,7 +272,7 @@
           "bemp": 12,
           "tot": 13,
           "last_mday": "20260808T134002",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223062",
@@ -448,7 +283,7 @@
           "bemp": 28,
           "tot": 29,
           "last_mday": "20260808T143504",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223056",
@@ -459,29 +294,7 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260808T143304",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233016",
-          "sna": "彩虹兒童公園",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260808T144920",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233005",
-          "sna": "永安南路九芎街71巷口",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260808T101803",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500233056",
@@ -492,7 +305,7 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260808T120816",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234018",
@@ -503,21 +316,10 @@
           "bemp": 7,
           "tot": 10,
           "last_mday": "20260808T142603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234012",
-          "sna": "鳳福公園",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260808T145904",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "4h": {
       "stations": [
@@ -530,7 +332,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T115802",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500227088",
@@ -541,7 +343,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260808T110804",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500229118",
@@ -552,18 +354,7 @@
           "bemp": 41,
           "tot": 42,
           "last_mday": "20260808T123803",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500233005",
-          "sna": "永安南路九芎街71巷口",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260808T101803",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500233056",
@@ -574,10 +365,10 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260808T120816",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     }
   }
 }
