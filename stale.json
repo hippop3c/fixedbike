@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T01:48:16+08:00",
-  "updated_at_display": "2026-08-09 01:48:16",
+  "updated_at": "2026-08-09T02:39:12+08:00",
+  "updated_at_display": "2026-08-09 02:39:12",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -149,14 +149,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223040",
-          "sna": "新市二後洲路口",
+          "sno": "NTPC-500223053",
+          "sna": "淡水行政中心",
           "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 16,
-          "last_mday": "20260808T212602",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260809T011403",
           "sample_count": 2
         },
         {
@@ -168,17 +168,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T210402",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234031",
-          "sna": "中正一仁愛路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260808T210303",
           "sample_count": 2
         },
         {
@@ -208,6 +197,17 @@
     },
     "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500203051",
+          "sna": "藍天大樓",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260809T004218",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500207053",
           "sna": "烘爐地山下籃球場",
@@ -242,6 +242,28 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500227053",
+          "sna": "捷運七張站(1號出口)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 41,
+          "tot": 42,
+          "last_mday": "20260809T010402",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500227054",
+          "sna": "捷運大坪林站(1號出口)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 46,
+          "tot": 47,
+          "last_mday": "20260809T005902",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500229125",
           "sna": "台水新莊服務所",
           "sarea": "新莊區",
@@ -250,6 +272,17 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260808T191405",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500218045",
+          "sna": "捷運板橋站(3號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 87,
+          "tot": 89,
+          "last_mday": "20260809T005202",
           "sample_count": 3
         },
         {
@@ -308,17 +341,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500223040",
-          "sna": "新市二後洲路口",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 16,
-          "last_mday": "20260808T212602",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500223065",
           "sna": "濱海路一段306巷9弄",
           "sarea": "淡水區",
@@ -327,17 +349,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T210402",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234031",
-          "sna": "中正一仁愛路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260808T210303",
           "sample_count": 3
         },
         {
@@ -376,7 +387,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T181402",
-          "sample_count": 7
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500227002",
@@ -387,7 +398,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T211703",
-          "sample_count": 7
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500229125",
@@ -398,7 +409,7 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260808T191405",
-          "sample_count": 7
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500218159",
@@ -409,7 +420,7 @@
           "bemp": 12,
           "tot": 13,
           "last_mday": "20260808T181117",
-          "sample_count": 7
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500231055",
@@ -420,7 +431,18 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260808T212103",
-          "sample_count": 7
+          "sample_count": 6
+        },
+        {
+          "sno": "NTPC-500214042",
+          "sna": "樟江大橋",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 13,
+          "last_mday": "20260808T223516",
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500220025",
@@ -431,18 +453,7 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T204103",
-          "sample_count": 7
-        },
-        {
-          "sno": "NTPC-500223040",
-          "sna": "新市二後洲路口",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 16,
-          "last_mday": "20260808T212602",
-          "sample_count": 7
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500223065",
@@ -453,18 +464,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260808T210402",
-          "sample_count": 7
-        },
-        {
-          "sno": "NTPC-500234031",
-          "sna": "中正一仁愛路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260808T210303",
-          "sample_count": 7
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500234037",
@@ -475,10 +475,10 @@
           "bemp": 13,
           "tot": 15,
           "last_mday": "20260808T212602",
-          "sample_count": 7
+          "sample_count": 6
         }
       ],
-      "sample_count": 7
+      "sample_count": 6
     }
   }
 }
