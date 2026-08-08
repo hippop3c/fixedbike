@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T10:35:23+08:00",
-  "updated_at_display": "2026-08-08 10:35:23",
+  "updated_at": "2026-08-08T11:57:39+08:00",
+  "updated_at_display": "2026-08-08 11:57:39",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,13 +9,24 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500233005",
+          "sna": "永安南路九芎街71巷口",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260808T101803",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
       "stations": [],
-      "sample_count": 4
+      "sample_count": 3
     }
   }
 }
