@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-08-09T18:40:41+08:00",
-  "updated_at_display": "2026-08-09 18:40:41",
+  "updated_at": "2026-08-09T19:12:59+08:00",
+  "updated_at_display": "2026-08-09 19:12:59",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500205048",
+          "sna": "中園街福隆宮",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260809T183916",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203138",
+          "sna": "新北大道二段139巷",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260809T182904",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500207053",
           "sna": "烘爐地山下籃球場",
@@ -14,6 +36,39 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T181402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206060",
+          "sna": "延吉街47巷口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260809T183703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206063",
+          "sna": "捷運永寧站(3號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260809T183003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206231",
+          "sna": "金城明德路口(東北側)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 18,
+          "last_mday": "20260809T175504",
           "sample_count": 2
         },
         {
@@ -28,6 +83,39 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500214040",
+          "sna": "伯爵山莊第二期(康寧街)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260809T183603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223081",
+          "sna": "崁頂三後洲路一段路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260809T183303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223047",
+          "sna": "淡江教會文教中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260809T183802",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500223068",
           "sna": "濱海路二段/濱海路二段202巷",
           "sarea": "淡水區",
@@ -36,6 +124,28 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260809T164403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500226006",
+          "sna": "瑞芳運動公園",
+          "sarea": "瑞芳區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260809T180804",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234012",
+          "sna": "鳳福公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260809T183116",
           "sample_count": 2
         }
       ],
@@ -90,7 +200,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T181402",
-          "sample_count": 5
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500227002",
@@ -101,10 +211,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260809T141603",
-          "sample_count": 5
+          "sample_count": 6
         }
       ],
-      "sample_count": 5
+      "sample_count": 6
     }
   }
 }
