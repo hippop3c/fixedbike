@@ -1,19 +1,30 @@
 {
-  "updated_at": "2026-08-10T06:40:40+08:00",
-  "updated_at_display": "2026-08-10 06:40:40",
+  "updated_at": "2026-08-10T07:08:24+08:00",
+  "updated_at_display": "2026-08-10 07:08:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500205034",
-          "sna": "三峽國小(中山路)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500206013",
+          "sna": "員和公園",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260810T051802",
+          "bemp": 33,
+          "tot": 34,
+          "last_mday": "20260810T055803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206048",
+          "sna": "延吉街111巷1弄",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260810T063901",
           "sample_count": 2
         },
         {
@@ -39,17 +50,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260809T235002",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500218168",
           "sna": "板橋435藝文特區(環河西路)",
           "sarea": "板橋區",
@@ -61,14 +61,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218127",
-          "sna": "海山高中(漢生東路)",
-          "sarea": "板橋區",
+          "sno": "NTPC-500210038",
+          "sna": "永和勵行街口",
+          "sarea": "永和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260810T002603",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260810T063304",
           "sample_count": 2
         },
         {
@@ -80,6 +80,17 @@
           "bemp": 20,
           "tot": 22,
           "last_mday": "20260810T054203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234042",
+          "sna": "鳳七鶯歌路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260810T063618",
           "sample_count": 2
         }
       ],
@@ -110,17 +121,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260809T235002",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500218168",
           "sna": "板橋435藝文特區(環河西路)",
           "sarea": "板橋區",
@@ -129,17 +129,6 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260809T224103",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500218127",
-          "sna": "海山高中(漢生東路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260810T002603",
           "sample_count": 4
         }
       ],
@@ -170,17 +159,6 @@
           "sample_count": 7
         },
         {
-          "sno": "NTPC-500229065",
-          "sna": "宏匯思源廣場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260809T235002",
-          "sample_count": 7
-        },
-        {
           "sno": "NTPC-500218168",
           "sna": "板橋435藝文特區(環河西路)",
           "sarea": "板橋區",
@@ -189,17 +167,6 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260809T224103",
-          "sample_count": 7
-        },
-        {
-          "sno": "NTPC-500218127",
-          "sna": "海山高中(漢生東路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260810T002603",
           "sample_count": 7
         }
       ],
