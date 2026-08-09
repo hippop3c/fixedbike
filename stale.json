@@ -1,30 +1,19 @@
 {
-  "updated_at": "2026-08-10T05:58:45+08:00",
-  "updated_at_display": "2026-08-10 05:58:45",
+  "updated_at": "2026-08-10T06:40:40+08:00",
+  "updated_at_display": "2026-08-10 06:40:40",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500205038",
-          "sna": "國慶三樹路口",
+          "sno": "NTPC-500205034",
+          "sna": "三峽國小(中山路)",
           "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260810T011003",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207116",
-          "sna": "安和安樂路口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260810T050802",
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260810T051802",
           "sample_count": 2
         },
         {
@@ -36,17 +25,6 @@
           "bemp": 32,
           "tot": 33,
           "last_mday": "20260809T223517",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206087",
-          "sna": "青雲路411巷口(樂晴市樂郡區社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260809T232802",
           "sample_count": 2
         },
         {
@@ -94,36 +72,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231077",
-          "sna": "臺鐵樹林車站(後站停車場)",
-          "sarea": "樹林區",
+          "sno": "NTPC-500214078",
+          "sna": "忠孝東路382巷口",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 63,
-          "tot": 64,
-          "last_mday": "20260810T043504",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210038",
-          "sna": "永和勵行街口",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260810T014004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210050",
-          "sna": "雙和公園",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260810T042202",
+          "bemp": 20,
+          "tot": 22,
+          "last_mday": "20260810T054203",
           "sample_count": 2
         }
       ],
@@ -132,17 +88,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205038",
-          "sna": "國慶三樹路口",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260810T011003",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500206083",
           "sna": "捷運土城站(3號出口)",
           "sarea": "土城區",
@@ -151,18 +96,7 @@
           "bemp": 32,
           "tot": 33,
           "last_mday": "20260809T223517",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500206087",
-          "sna": "青雲路411巷口(樂晴市樂郡區社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260809T232802",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227132",
@@ -173,7 +107,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260810T020715",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500229065",
@@ -184,7 +118,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260809T235002",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500218168",
@@ -195,7 +129,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260809T224103",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500218127",
@@ -206,58 +140,14 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260810T002603",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231077",
-          "sna": "臺鐵樹林車站(後站停車場)",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 63,
-          "tot": 64,
-          "last_mday": "20260810T043504",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500210038",
-          "sna": "永和勵行街口",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260810T014004",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500210050",
-          "sna": "雙和公園",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260810T042202",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     },
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205038",
-          "sna": "國慶三樹路口",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260810T011003",
-          "sample_count": 6
-        },
-        {
           "sno": "NTPC-500206083",
           "sna": "捷運土城站(3號出口)",
           "sarea": "土城區",
@@ -266,18 +156,7 @@
           "bemp": 32,
           "tot": 33,
           "last_mday": "20260809T223517",
-          "sample_count": 6
-        },
-        {
-          "sno": "NTPC-500206087",
-          "sna": "青雲路411巷口(樂晴市樂郡區社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260809T232802",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500227132",
@@ -288,7 +167,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260810T020715",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500229065",
@@ -299,7 +178,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260809T235002",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500218168",
@@ -310,7 +189,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260809T224103",
-          "sample_count": 6
+          "sample_count": 7
         },
         {
           "sno": "NTPC-500218127",
@@ -321,21 +200,10 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260810T002603",
-          "sample_count": 6
-        },
-        {
-          "sno": "NTPC-500210038",
-          "sna": "永和勵行街口",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260810T014004",
-          "sample_count": 6
+          "sample_count": 7
         }
       ],
-      "sample_count": 6
+      "sample_count": 7
     }
   }
 }
