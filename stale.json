@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T03:58:10+08:00",
-  "updated_at_display": "2026-08-10 03:58:10",
+  "updated_at": "2026-08-10T04:43:34+08:00",
+  "updated_at_display": "2026-08-10 04:43:34",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,17 +14,6 @@
           "bemp": 19,
           "tot": 21,
           "last_mday": "20260810T004318",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500205013",
-          "sna": "三鶯國民運動中心",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260809T230416",
           "sample_count": 2
         },
         {
@@ -105,17 +94,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227003",
-          "sna": "中興寶橋路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 59,
-          "tot": 61,
-          "last_mday": "20260810T030118",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500227076",
           "sna": "中興文化路口(東南側)",
           "sarea": "新店區",
@@ -124,17 +102,6 @@
           "bemp": 18,
           "tot": 19,
           "last_mday": "20260810T024303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227004",
-          "sna": "北新國小",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 56,
-          "tot": 57,
-          "last_mday": "20260810T013219",
           "sample_count": 2
         },
         {
@@ -248,6 +215,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500210046",
+          "sna": "捷運頂溪站(中興街)",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 47,
+          "tot": 48,
+          "last_mday": "20260810T033716",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500210045",
           "sna": "捷運頂溪站(復興街1巷)",
           "sarea": "永和區",
@@ -278,17 +256,6 @@
           "bemp": 11,
           "tot": 13,
           "last_mday": "20260810T003201",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214059",
-          "sna": "汐止國民運動中心游泳池(忠孝東路)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260810T030003",
           "sample_count": 2
         },
         {
@@ -327,17 +294,6 @@
           "bemp": 19,
           "tot": 21,
           "last_mday": "20260810T004318",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500205013",
-          "sna": "三鶯國民運動中心",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260809T230416",
           "sample_count": 3
         },
         {
@@ -418,14 +374,14 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500227004",
-          "sna": "北新國小",
+          "sno": "NTPC-500227076",
+          "sna": "中興文化路口(東南側)",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 56,
-          "tot": 57,
-          "last_mday": "20260810T013219",
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "20260810T024303",
           "sample_count": 3
         },
         {
@@ -459,6 +415,17 @@
           "bemp": 10,
           "tot": 11,
           "last_mday": "20260810T023203",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500229088",
+          "sna": "丹鳳國小",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260810T025002",
           "sample_count": 3
         },
         {
@@ -517,6 +484,28 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500231059",
+          "sna": "樹林藝文綜合行政大樓停車場",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260810T030403",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500210045",
+          "sna": "捷運頂溪站(復興街1巷)",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260810T030103",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500210038",
           "sna": "永和勵行街口",
           "sarea": "永和區",
@@ -548,6 +537,17 @@
           "tot": 30,
           "last_mday": "20260809T232915",
           "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500223063",
+          "sna": "輕軌紅樹林站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 45,
+          "tot": 48,
+          "last_mday": "20260810T031505",
+          "sample_count": 3
         }
       ],
       "sample_count": 3
@@ -555,14 +555,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205013",
-          "sna": "三鶯國民運動中心",
+          "sno": "NTPC-500205034",
+          "sna": "三峽國小(中山路)",
           "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260809T230416",
+          "bemp": 19,
+          "tot": 21,
+          "last_mday": "20260810T004318",
           "sample_count": 6
         },
         {
@@ -585,6 +585,28 @@
           "bemp": 79,
           "tot": 80,
           "last_mday": "20260809T230402",
+          "sample_count": 6
+        },
+        {
+          "sno": "NTPC-500206090",
+          "sna": "捷運海山站(3號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260810T005704",
+          "sample_count": 6
+        },
+        {
+          "sno": "NTPC-500206035",
+          "sna": "金城裕民路口(中正國中)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 50,
+          "tot": 51,
+          "last_mday": "20260810T005204",
           "sample_count": 6
         },
         {
