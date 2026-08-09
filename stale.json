@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-09T17:03:01+08:00",
-  "updated_at_display": "2026-08-09 17:03:01",
+  "updated_at": "2026-08-09T17:56:57+08:00",
+  "updated_at_display": "2026-08-09 17:56:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203092",
-          "sna": "仁信段平面停車場",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260809T155402",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500207053",
           "sna": "烘爐地山下籃球場",
@@ -39,36 +28,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218206",
-          "sna": "中山路二段565巷",
-          "sarea": "板橋區",
+          "sno": "NTPC-500223068",
+          "sna": "濱海路二段/濱海路二段202巷",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260809T153504",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500226006",
-          "sna": "瑞芳運動公園",
-          "sarea": "瑞芳區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260809T154304",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234037",
-          "sna": "公八停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260808T212602",
+          "last_mday": "20260809T164403",
           "sample_count": 2
         }
       ],
@@ -97,17 +64,6 @@
           "tot": 15,
           "last_mday": "20260809T141603",
           "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234037",
-          "sna": "公八停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260808T212602",
-          "sample_count": 3
         }
       ],
       "sample_count": 3
@@ -123,17 +79,6 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260808T181402",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500234037",
-          "sna": "公八停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260808T212602",
           "sample_count": 5
         }
       ],
