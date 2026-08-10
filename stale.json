@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T09:55:06+08:00",
-  "updated_at_display": "2026-08-10 09:55:06",
+  "updated_at": "2026-08-10T11:58:05+08:00",
+  "updated_at_display": "2026-08-10 11:58:05",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,8 +14,20 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 5
+      "stations": [
+        {
+          "sno": "NTPC-500234041",
+          "sna": "鶯歌火車站(文化路)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260810T090218",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
