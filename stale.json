@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T18:03:26+08:00",
-  "updated_at_display": "2026-08-10 18:03:26",
+  "updated_at": "2026-08-10T19:26:58+08:00",
+  "updated_at_display": "2026-08-10 19:26:58",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,33 +11,43 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500213004",
-          "sna": "嶺腳車站",
-          "sarea": "平溪區",
+          "sno": "NTPC-500229052",
+          "sna": "西盛館",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260810T142804",
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "20260810T175219",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216054",
+          "sna": "佳林國中(文化一路)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260810T175303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216028",
+          "sna": "林口區公所",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260810T173704",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500213004",
-          "sna": "嶺腳車站",
-          "sarea": "平溪區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260810T142804",
-          "sample_count": 3
-        }
-      ],
+      "stations": [],
       "sample_count": 3
     }
   }
