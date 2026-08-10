@@ -1,181 +1,16 @@
 {
-  "updated_at": "2026-08-10T20:10:01+08:00",
-  "updated_at_display": "2026-08-10 20:10:01",
+  "updated_at": "2026-08-10T21:45:02+08:00",
+  "updated_at_display": "2026-08-10 21:45:02",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [
-        {
-          "sno": "NTPC-500205025",
-          "sna": "明德高中",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 51,
-          "tot": 52,
-          "last_mday": "20260810T192204",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203116",
-          "sna": "三和路四段73號旁",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260810T182703",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203038",
-          "sna": "中興北街42巷17弄",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260810T190404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260810T184902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207048",
-          "sna": "錦和高中",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260810T191916",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206046",
-          "sna": "中華日新街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260810T191216",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206095",
-          "sna": "明德青和街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 30,
-          "tot": 31,
-          "last_mday": "20260810T182503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260810T192102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218168",
-          "sna": "板橋435藝文特區(環河西路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260810T190603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216050",
-          "sna": "林口夜市(中山路)",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260810T183120",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223071",
-          "sna": "新市六後洲路口",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260810T182419",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223086",
-          "sna": "竹圍國小",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 28,
-          "last_mday": "20260810T190004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233028",
-          "sna": "中山二永安南路口",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260810T190303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234026",
-          "sna": "鶯歌陶瓷博物館",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260810T192204",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205025",
-          "sna": "明德高中",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 51,
-          "tot": 52,
-          "last_mday": "20260810T192204",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500203116",
           "sna": "三和路四段73號旁",
           "sarea": "三重區",
@@ -187,135 +22,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500203038",
-          "sna": "中興北街42巷17弄",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260810T190404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260810T184902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207048",
-          "sna": "錦和高中",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260810T191916",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206046",
-          "sna": "中華日新街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260810T191216",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206095",
-          "sna": "明德青和街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 30,
-          "tot": 31,
-          "last_mday": "20260810T182503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260810T192102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218168",
-          "sna": "板橋435藝文特區(環河西路)",
+          "sno": "NTPC-500218156",
+          "sna": "湳仔二橋",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260810T190603",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260810T195603",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216050",
-          "sna": "林口夜市(中山路)",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260810T183120",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223071",
-          "sna": "新市六後洲路口",
+          "sno": "NTPC-500223068",
+          "sna": "濱海路二段/濱海路二段202巷",
           "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260810T182419",
+          "last_mday": "20260810T195503",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223086",
-          "sna": "竹圍國小",
-          "sarea": "淡水區",
+          "sno": "NTPC-500226005",
+          "sna": "瑞芳火車站",
+          "sarea": "瑞芳區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 25,
+          "bemp": 27,
           "tot": 28,
-          "last_mday": "20260810T190004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233028",
-          "sna": "中山二永安南路口",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260810T190303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234026",
-          "sna": "鶯歌陶瓷博物館",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260810T192204",
+          "last_mday": "20260810T194719",
           "sample_count": 2
         }
       ],
