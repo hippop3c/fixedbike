@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T11:58:05+08:00",
-  "updated_at_display": "2026-08-10 11:58:05",
+  "updated_at": "2026-08-10T13:39:55+08:00",
+  "updated_at_display": "2026-08-10 13:39:55",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,25 +9,46 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "4h": {
       "stations": [
         {
-          "sno": "NTPC-500234041",
-          "sna": "鶯歌火車站(文化路)",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500207114",
+          "sna": "連城路469巷21弄",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260810T090218",
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260810T101204",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201028",
+          "sna": "中山賢一街口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260810T114019",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210043",
+          "sna": "中正橋(環河西路一段)",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260810T115303",
           "sample_count": 2
         }
       ],
       "sample_count": 2
+    },
+    "4h": {
+      "stations": [],
+      "sample_count": 3
     }
   }
 }
