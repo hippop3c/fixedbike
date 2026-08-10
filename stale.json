@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T00:00:20+08:00",
-  "updated_at_display": "2026-08-11 00:00:20",
+  "updated_at": "2026-08-11T01:09:06+08:00",
+  "updated_at_display": "2026-08-11 01:09:06",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,19 +9,7 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500201028",
-          "sna": "中山賢一街口",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260810T223004",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     },
     "4h": {
