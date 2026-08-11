@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T10:53:09+08:00",
-  "updated_at_display": "2026-08-11 10:53:09",
+  "updated_at": "2026-08-11T12:20:42+08:00",
+  "updated_at_display": "2026-08-11 12:20:42",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,9 +9,75 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500205040",
+          "sna": "薇多綠雅社區(警衛亭)",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "20260811T101902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231022",
+          "sna": "中山八德街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260811T103504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223022",
+          "sna": "新市二路四段",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260811T101804",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223071",
+          "sna": "新市六後洲路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260811T100520",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234031",
+          "sna": "中正一仁愛路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260811T095703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234014",
+          "sna": "永昌里兒一公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260811T070202",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
       "stations": [
