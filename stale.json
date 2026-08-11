@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T06:42:53+08:00",
-  "updated_at_display": "2026-08-12 06:42:53",
+  "updated_at": "2026-08-12T07:24:00+08:00",
+  "updated_at_display": "2026-08-12 07:24:00",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,17 +14,6 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260811T214302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203136",
-          "sna": "集賢三信路口(南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260812T015202",
           "sample_count": 2
         }
       ],
@@ -42,17 +31,6 @@
           "tot": 20,
           "last_mday": "20260811T214302",
           "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500203136",
-          "sna": "集賢三信路口(南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260812T015202",
-          "sample_count": 3
         }
       ],
       "sample_count": 3
@@ -68,21 +46,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260811T214302",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500203136",
-          "sna": "集賢三信路口(南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260812T015202",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     }
   }
 }
