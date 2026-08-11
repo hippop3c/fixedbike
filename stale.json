@@ -1,54 +1,20 @@
 {
-  "updated_at": "2026-08-11T08:34:17+08:00",
-  "updated_at_display": "2026-08-11 08:34:17",
+  "updated_at": "2026-08-11T10:53:09+08:00",
+  "updated_at_display": "2026-08-11 10:53:09",
   "target_sbi": 1,
   "windows": {
     "1h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "2h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500203119",
-          "sna": "三張地下停車場",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260811T071304",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206032",
-          "sna": "學士學府路口(大苑社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 45,
-          "tot": 47,
-          "last_mday": "20260811T072802",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214077",
-          "sna": "中華街57巷口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260811T072203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223062",
-          "sna": "新春街125巷(樂活绽社區)",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260811T070804",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500234014",
           "sna": "永昌里兒一公園",
@@ -58,18 +24,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260811T070202",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
-    },
-    "2h": {
-      "stations": [],
       "sample_count": 3
-    },
-    "4h": {
-      "stations": [],
-      "sample_count": 5
     }
   }
 }
