@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T13:35:21+08:00",
-  "updated_at_display": "2026-08-11 13:35:21",
+  "updated_at": "2026-08-11T14:36:25+08:00",
+  "updated_at_display": "2026-08-11 14:36:25",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,25 +11,91 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205040",
-          "sna": "薇多綠雅社區(警衛亭)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500203037",
+          "sna": "先嗇宮",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260811T101902",
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260811T131603",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500201017",
-          "sna": "商港公園(商港八商港一路口)",
-          "sarea": "八里區",
+          "sno": "NTPC-500203141",
+          "sna": "新北大道一段57巷口",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260811T112103",
+          "last_mday": "20260811T124203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207114",
+          "sna": "連城路469巷21弄",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260811T124602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201019",
+          "sna": "渡船頭平面停車場",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 33,
+          "last_mday": "20260811T132104",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206071",
+          "sna": "中央公園地下停車場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260811T125119",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206034",
+          "sna": "中華裕華街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260811T131103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206075",
+          "sna": "惜福公園",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260811T125204",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500217001",
+          "sna": "水柳腳立體停車場",
+          "sarea": "坪林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260811T125704",
           "sample_count": 2
         },
         {
@@ -44,6 +110,61 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500231014",
+          "sna": "三鶯分區區務辦公室",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260811T131503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231022",
+          "sna": "中山八德街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260811T131302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231003",
+          "sna": "全球傳動科技公司",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260811T131103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231065",
+          "sna": "福順街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260811T132320",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223039",
+          "sna": "新市三崁頂五路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260811T132202",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500223071",
           "sna": "新市六後洲路口",
           "sarea": "淡水區",
@@ -52,17 +173,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260811T100520",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234055",
-          "sna": "鳳五路122號前",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260811T105103",
           "sample_count": 2
         }
       ],
@@ -71,17 +181,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500205040",
-          "sna": "薇多綠雅社區(警衛亭)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260811T101902",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500223071",
           "sna": "新市六後洲路口",
           "sarea": "淡水區",
@@ -90,10 +189,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260811T100520",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
