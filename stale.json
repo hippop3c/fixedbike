@@ -1,26 +1,10 @@
 {
-  "updated_at": "2026-08-12T05:50:05+08:00",
-  "updated_at_display": "2026-08-12 05:50:05",
+  "updated_at": "2026-08-12T06:42:53+08:00",
+  "updated_at_display": "2026-08-12 06:42:53",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260811T224117",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500203105",
           "sna": "興德路134號(前)",
@@ -41,79 +25,40 @@
           "bemp": 15,
           "tot": 17,
           "last_mday": "20260812T015202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 35,
-          "last_mday": "20260811T224502",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206046",
-          "sna": "中華日新街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260812T040502",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206061",
-          "sna": "莒光四村停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260812T042903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229096",
-          "sna": "捷運迴龍站(2號出口)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260812T013103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229055",
-          "sna": "新泰國中",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 22,
-          "tot": 24,
-          "last_mday": "20260812T032603",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
-    "4h": {
+    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
+          "sno": "NTPC-500203105",
+          "sna": "興德路134號(前)",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260811T224117",
-          "sample_count": 4
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260811T214302",
+          "sample_count": 3
         },
+        {
+          "sno": "NTPC-500203136",
+          "sna": "集賢三信路口(南側)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 17,
+          "last_mday": "20260812T015202",
+          "sample_count": 3
+        }
+      ],
+      "sample_count": 3
+    },
+    "4h": {
+      "stations": [
         {
           "sno": "NTPC-500203105",
           "sna": "興德路134號(前)",
@@ -134,28 +79,6 @@
           "bemp": 15,
           "tot": 17,
           "last_mday": "20260812T015202",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 35,
-          "last_mday": "20260811T224502",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229096",
-          "sna": "捷運迴龍站(2號出口)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260812T013103",
           "sample_count": 4
         }
       ],
