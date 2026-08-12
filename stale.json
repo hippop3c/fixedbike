@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T22:58:11+08:00",
-  "updated_at_display": "2026-08-12 22:58:11",
+  "updated_at": "2026-08-13T00:03:53+08:00",
+  "updated_at_display": "2026-08-13 00:03:53",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,17 +11,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205034",
-          "sna": "三峽國小(中山路)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260812T205203",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500203112",
           "sna": "光復興德路口(東南側)",
           "sarea": "三重區",
@@ -30,6 +19,17 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260812T192603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203054",
+          "sna": "東海高中",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 31,
+          "last_mday": "20260812T223505",
           "sample_count": 2
         },
         {
@@ -44,14 +44,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206046",
-          "sna": "中華日新街口",
-          "sarea": "土城區",
+          "sno": "NTPC-500209025",
+          "sna": "永安橋下停車場",
+          "sarea": "五股區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260812T214417",
+          "tot": 14,
+          "last_mday": "20260812T223603",
           "sample_count": 2
         },
         {
@@ -88,6 +88,28 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500218006",
+          "sna": "四川遠東路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 59,
+          "tot": 60,
+          "last_mday": "20260812T224903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216066",
+          "sna": "師大林口校區體育館前",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260812T223505",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500231058",
           "sna": "俊興俊安街口",
           "sarea": "樹林區",
@@ -99,6 +121,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500214059",
+          "sna": "汐止國民運動中心游泳池(忠孝東路)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260812T220704",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500212004",
           "sna": "靜安碇南路口",
           "sarea": "石碇區",
@@ -107,6 +140,39 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260812T150504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234018",
+          "sna": "二橋虹橋公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260812T215203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234037",
+          "sna": "公八停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260812T220003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234022",
+          "sna": "鶯歌老街第二停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260812T222402",
           "sample_count": 2
         }
       ],
