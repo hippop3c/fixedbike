@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T21:48:47+08:00",
-  "updated_at_display": "2026-08-12 21:48:47",
+  "updated_at": "2026-08-12T22:58:11+08:00",
+  "updated_at_display": "2026-08-12 22:58:11",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,7 +9,107 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500205034",
+          "sna": "三峽國小(中山路)",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260812T205203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203112",
+          "sna": "光復興德路口(東南側)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260812T192603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203105",
+          "sna": "興德路134號(前)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260812T191102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260812T214417",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227002",
+          "sna": "國家人權博物館",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260812T181402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229065",
+          "sna": "宏匯思源廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260812T211503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229098",
+          "sna": "潭底溝休憩廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260812T214404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231058",
+          "sna": "俊興俊安街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260812T210110",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500212004",
+          "sna": "靜安碇南路口",
+          "sarea": "石碇區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260812T150504",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     },
     "4h": {
