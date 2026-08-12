@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T10:45:09+08:00",
-  "updated_at_display": "2026-08-12 10:45:09",
+  "updated_at": "2026-08-12T12:28:58+08:00",
+  "updated_at_display": "2026-08-12 12:28:58",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,13 +9,190 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500203130",
+          "sna": "仁信段平面停車場(元信一街)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260812T101303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207004",
+          "sna": "光華橋(保平路)",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 31,
+          "last_mday": "20260812T103802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209018",
+          "sna": "御史路1巷",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260812T102003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206071",
+          "sna": "中央公園地下停車場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260812T093102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227086",
+          "sna": "輕軌雙城站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260812T080703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216062",
+          "sna": "湖北市民活動中心",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260812T101003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231017",
+          "sna": "中山新興街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260812T101403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500233017",
+          "sna": "蘆洲三民公園",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260812T092403",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "4h": {
-      "stations": [],
-      "sample_count": 3
+      "stations": [
+        {
+          "sno": "NTPC-500203130",
+          "sna": "仁信段平面停車場(元信一街)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260812T101303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207004",
+          "sna": "光華橋(保平路)",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 31,
+          "last_mday": "20260812T103802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209018",
+          "sna": "御史路1巷",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260812T102003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206071",
+          "sna": "中央公園地下停車場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260812T093102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227086",
+          "sna": "輕軌雙城站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260812T080703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216062",
+          "sna": "湖北市民活動中心",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260812T101003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231017",
+          "sna": "中山新興街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260812T101403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500233017",
+          "sna": "蘆洲三民公園",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260812T092403",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
