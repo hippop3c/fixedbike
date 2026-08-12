@@ -1,64 +1,21 @@
 {
-  "updated_at": "2026-08-12T08:07:17+08:00",
-  "updated_at_display": "2026-08-12 08:07:17",
+  "updated_at": "2026-08-12T10:45:09+08:00",
+  "updated_at_display": "2026-08-12 10:45:09",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206081",
-          "sna": "裕華街",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260812T070302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218038",
-          "sna": "板橋第一運動場",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 45,
-          "tot": 46,
-          "last_mday": "20260812T071303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214077",
-          "sna": "中華街57巷口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260812T070202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234014",
-          "sna": "永昌里兒一公園",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260812T070502",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "2h": {
       "stations": [],
-      "sample_count": 3
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
       "stations": [],
-      "sample_count": 5
+      "sample_count": 3
     }
   }
 }
