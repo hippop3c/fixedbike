@@ -1,66 +1,19 @@
 {
-  "updated_at": "2026-08-12T18:28:26+08:00",
-  "updated_at_display": "2026-08-12 18:28:26",
+  "updated_at": "2026-08-12T19:24:44+08:00",
+  "updated_at_display": "2026-08-12 19:24:44",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "sample_count": 2
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500214056",
-          "sna": "春之霖社區",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260812T114902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500212004",
-          "sna": "靜安碇南路口",
-          "sarea": "石碇區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260812T150504",
-          "sample_count": 2
-        }
-      ],
+      "stations": [],
       "sample_count": 2
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500214056",
-          "sna": "春之霖社區",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260812T114902",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500212004",
-          "sna": "靜安碇南路口",
-          "sarea": "石碇區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260812T150504",
-          "sample_count": 3
-        }
-      ],
-      "sample_count": 3
+      "stations": [],
+      "sample_count": 4
     }
   }
 }
