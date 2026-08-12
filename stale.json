@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T14:00:49+08:00",
-  "updated_at_display": "2026-08-12 14:00:49",
+  "updated_at": "2026-08-12T15:52:39+08:00",
+  "updated_at_display": "2026-08-12 15:52:39",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,39 +11,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203130",
-          "sna": "仁信段平面停車場(元信一街)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260812T101303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227123",
-          "sna": "碧潭大橋(溪洲路6巷)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260812T110604",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227086",
-          "sna": "輕軌雙城站",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260812T080703",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500214056",
           "sna": "春之霖社區",
           "sarea": "汐止區",
@@ -53,6 +20,17 @@
           "tot": 11,
           "last_mday": "20260812T114902",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234037",
+          "sna": "公八停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260812T130903",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
@@ -60,25 +38,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500203130",
-          "sna": "仁信段平面停車場(元信一街)",
-          "sarea": "三重區",
+          "sno": "NTPC-500214056",
+          "sna": "春之霖社區",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260812T101303",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227086",
-          "sna": "輕軌雙城站",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260812T080703",
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260812T114902",
           "sample_count": 3
         }
       ],
