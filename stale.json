@@ -1,41 +1,52 @@
 {
-  "updated_at": "2026-08-13T07:02:18+08:00",
-  "updated_at_display": "2026-08-13 07:02:18",
+  "updated_at": "2026-08-13T07:58:25+08:00",
+  "updated_at_display": "2026-08-13 07:58:25",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
+          "sno": "NTPC-500202009",
+          "sna": "三生步道",
+          "sarea": "三芝區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
+          "bemp": 16,
           "tot": 20,
-          "last_mday": "20260812T191102",
+          "last_mday": "20260813T060117",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500209025",
-          "sna": "永安橋下停車場",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 14,
-          "last_mday": "20260812T223603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206063",
-          "sna": "捷運永寧站(3號出口)",
+          "sno": "NTPC-500206232",
+          "sna": "土城中正路151巷口(西南側)",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 22,
-          "tot": 23,
-          "last_mday": "20260813T053004",
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260813T064903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223040",
+          "sna": "新市二後洲路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 16,
+          "last_mday": "20260813T064903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223048",
+          "sna": "輕軌竿蓁林站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260813T065504",
           "sample_count": 2
         },
         {
@@ -55,28 +66,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260812T191102",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500209025",
-          "sna": "永安橋下停車場",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 14,
-          "last_mday": "20260812T223603",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500212004",
           "sna": "靜安碇南路口",
           "sarea": "石碇區",
@@ -92,28 +81,6 @@
     },
     "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260812T191102",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500209025",
-          "sna": "永安橋下停車場",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 14,
-          "last_mday": "20260812T223603",
-          "sample_count": 5
-        },
         {
           "sno": "NTPC-500212004",
           "sna": "靜安碇南路口",
