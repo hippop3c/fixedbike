@@ -1,24 +1,101 @@
 {
-  "updated_at": "2026-08-13T18:30:17+08:00",
-  "updated_at_display": "2026-08-13 18:30:17",
+  "updated_at": "2026-08-13T19:29:08+08:00",
+  "updated_at_display": "2026-08-13 19:29:08",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500216082",
+          "sna": "文化北路一段412巷口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260813T180505",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216088",
+          "sna": "樂活公園(文化一路)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260813T172203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223086",
+          "sna": "竹圍國小",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 28,
+          "last_mday": "20260813T171604",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223077",
+          "sna": "聖約翰科技大學",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260813T173503",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500227084",
-          "sna": "龜山活動中心",
-          "sarea": "新店區",
+          "sno": "NTPC-500216082",
+          "sna": "文化北路一段412巷口",
+          "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 7,
-          "tot": 8,
-          "last_mday": "20260813T170005",
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260813T180505",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216088",
+          "sna": "樂活公園(文化一路)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260813T172203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223086",
+          "sna": "竹圍國小",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 28,
+          "last_mday": "20260813T171604",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223077",
+          "sna": "聖約翰科技大學",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260813T173503",
           "sample_count": 2
         }
       ],
@@ -26,7 +103,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 3
+      "sample_count": 4
     }
   }
 }
