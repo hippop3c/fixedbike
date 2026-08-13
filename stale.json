@@ -1,10 +1,26 @@
 {
-  "updated_at": "2026-08-13T20:27:11+08:00",
-  "updated_at_display": "2026-08-13 20:27:11",
+  "updated_at": "2026-08-13T21:59:55+08:00",
+  "updated_at_display": "2026-08-13 21:59:55",
   "target_sbi": 1,
   "windows": {
     "1h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500205056",
+          "sna": "臺北大學行政大樓(公政大道)",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 34,
+          "last_mday": "20260813T193702",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500202002",
           "sna": "三芝國中",
@@ -17,25 +33,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
+          "sno": "NTPC-500203112",
+          "sna": "光復興德路口(東南側)",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260813T184703",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260813T200503",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
+          "sno": "NTPC-500206081",
+          "sna": "裕華街",
+          "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260813T192117",
+          "last_mday": "20260813T195717",
           "sample_count": 2
         },
         {
@@ -61,20 +77,20 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223020",
-          "sna": "輕軌新市一路站",
-          "sarea": "淡水區",
+          "sno": "NTPC-500234022",
+          "sna": "鶯歌老街第二停車場",
+          "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260813T191904",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260813T201616",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
-    "2h": {
+    "4h": {
       "stations": [
         {
           "sno": "NTPC-500216088",
@@ -85,7 +101,7 @@
           "bemp": 25,
           "tot": 26,
           "last_mday": "20260813T172203",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500223077",
@@ -96,13 +112,9 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260813T173503",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
-    },
-    "4h": {
-      "stations": [],
       "sample_count": 4
     }
   }
