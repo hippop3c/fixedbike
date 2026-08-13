@@ -1,19 +1,41 @@
 {
-  "updated_at": "2026-08-13T19:29:08+08:00",
-  "updated_at_display": "2026-08-13 19:29:08",
+  "updated_at": "2026-08-13T20:27:11+08:00",
+  "updated_at_display": "2026-08-13 20:27:11",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500216082",
-          "sna": "文化北路一段412巷口",
-          "sarea": "林口區",
+          "sno": "NTPC-500202002",
+          "sna": "三芝國中",
+          "sarea": "三芝區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260813T180505",
+          "bemp": 6,
+          "tot": 14,
+          "last_mday": "20260813T182504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203105",
+          "sna": "興德路134號(前)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260813T184703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227132",
+          "sna": "北新路三段171巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260813T192117",
           "sample_count": 2
         },
         {
@@ -28,17 +50,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223086",
-          "sna": "竹圍國小",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 28,
-          "last_mday": "20260813T171604",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500223077",
           "sna": "聖約翰科技大學",
           "sarea": "淡水區",
@@ -47,6 +58,17 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260813T173503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223020",
+          "sna": "輕軌新市一路站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260813T191904",
           "sample_count": 2
         }
       ],
@@ -55,17 +77,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500216082",
-          "sna": "文化北路一段412巷口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260813T180505",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500216088",
           "sna": "樂活公園(文化一路)",
           "sarea": "林口區",
@@ -74,18 +85,7 @@
           "bemp": 25,
           "tot": 26,
           "last_mday": "20260813T172203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223086",
-          "sna": "竹圍國小",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 28,
-          "last_mday": "20260813T171604",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223077",
@@ -96,10 +96,10 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260813T173503",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "4h": {
       "stations": [],
