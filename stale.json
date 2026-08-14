@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T15:50:53+08:00",
-  "updated_at_display": "2026-08-14 15:50:53",
+  "updated_at": "2026-08-14T17:08:42+08:00",
+  "updated_at_display": "2026-08-14 17:08:42",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,6 +11,17 @@
     "2h": {
       "stations": [
         {
+          "sno": "NTPC-500207076",
+          "sna": "嘉穗公園",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 10,
+          "last_mday": "20260814T151103",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500213001",
           "sna": "菁桐老街",
           "sarea": "平溪區",
@@ -19,6 +30,28 @@
           "bemp": 26,
           "tot": 27,
           "last_mday": "20260814T125103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227105",
+          "sna": "中山路31巷(波爾多2社區)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260814T145019",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227114",
+          "sna": "明德路65巷口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260814T145403",
           "sample_count": 2
         },
         {
@@ -33,6 +66,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500214019",
+          "sna": "崇德橋東活動中心",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260814T140803",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500214056",
           "sna": "春之霖社區",
           "sarea": "汐止區",
@@ -44,25 +88,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223081",
-          "sna": "崁頂三後洲路一段路口",
-          "sarea": "淡水區",
+          "sno": "NTPC-500214060",
+          "sna": "樟樹國小(樟樹一路145巷口)",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260814T135903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223011",
-          "sna": "竿蓁市民活動中心",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260814T111204",
+          "last_mday": "20260814T144117",
           "sample_count": 2
         },
         {
@@ -82,14 +115,47 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500223011",
-          "sna": "竿蓁市民活動中心",
-          "sarea": "淡水區",
+          "sno": "NTPC-500213001",
+          "sna": "菁桐老街",
+          "sarea": "平溪區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260814T111204",
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260814T125103",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260814T133504",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500214056",
+          "sna": "春之霖社區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260814T133303",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500224004",
+          "sna": "深坑雲鄉路",
+          "sarea": "深坑區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260814T135404",
           "sample_count": 3
         }
       ],
