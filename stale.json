@@ -1,19 +1,41 @@
 {
-  "updated_at": "2026-08-15T06:50:31+08:00",
-  "updated_at_display": "2026-08-15 06:50:31",
+  "updated_at": "2026-08-15T07:22:52+08:00",
+  "updated_at_display": "2026-08-15 07:22:52",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
+          "sno": "NTPC-500203105",
+          "sna": "興德路134號(前)",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260815T010902",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260815T055902",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500227042",
+          "sna": "柴埕市民活動中心",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260815T060003",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500229124",
+          "sna": "中正思源路口(東北側)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260815T061117",
           "sample_count": 3
         },
         {
@@ -28,6 +50,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500218118",
+          "sna": "新民民族路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260815T055103",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500216009",
           "sna": "新北市林口行政園區",
           "sarea": "林口區",
@@ -37,23 +70,34 @@
           "tot": 56,
           "last_mday": "20260814T231405",
           "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500231053",
+          "sna": "中正路248巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260815T061202",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234031",
+          "sna": "中正一仁愛路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260815T055404",
+          "sample_count": 3
         }
       ],
       "sample_count": 3
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260815T010902",
-          "sample_count": 5
-        },
         {
           "sno": "NTPC-500229021",
           "sna": "中港大排願景館",
@@ -82,17 +126,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260815T010902",
-          "sample_count": 7
-        },
-        {
           "sno": "NTPC-500229021",
           "sna": "中港大排願景館",
           "sarea": "新莊區",
@@ -101,7 +134,7 @@
           "bemp": 56,
           "tot": 57,
           "last_mday": "20260815T001916",
-          "sample_count": 7
+          "sample_count": 8
         },
         {
           "sno": "NTPC-500216009",
@@ -112,10 +145,10 @@
           "bemp": 54,
           "tot": 56,
           "last_mday": "20260814T231405",
-          "sample_count": 7
+          "sample_count": 8
         }
       ],
-      "sample_count": 7
+      "sample_count": 8
     }
   }
 }
