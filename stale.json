@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T12:28:46+08:00",
-  "updated_at_display": "2026-08-14 12:28:46",
+  "updated_at": "2026-08-14T14:00:27+08:00",
+  "updated_at_display": "2026-08-14 14:00:27",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,36 +11,25 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203130",
-          "sna": "仁信段平面停車場(元信一街)",
+          "sno": "NTPC-500203141",
+          "sna": "新北大道一段57巷口",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260814T095403",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260814T120203",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500207104",
-          "sna": "中坑公園",
-          "sarea": "中和區",
+          "sno": "NTPC-500231014",
+          "sna": "三鶯分區區務辦公室",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 10,
-          "tot": 13,
-          "last_mday": "20260814T102902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218032",
-          "sna": "板橋真武廟",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260814T100703",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260814T113702",
           "sample_count": 2
         },
         {
@@ -55,14 +44,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500214075",
-          "sna": "水蓮山莊",
-          "sarea": "汐止區",
+          "sno": "NTPC-500231072",
+          "sna": "彭厝里(福順街)",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 20,
-          "tot": 22,
-          "last_mday": "20260814T093603",
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260814T122303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223011",
+          "sna": "竿蓁市民活動中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260814T111204",
           "sample_count": 2
         },
         {
@@ -93,39 +93,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500203130",
-          "sna": "仁信段平面停車場(元信一街)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260814T095403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207104",
-          "sna": "中坑公園",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 13,
-          "last_mday": "20260814T102902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218032",
-          "sna": "板橋真武廟",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260814T100703",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500231075",
           "sna": "四維八德街口",
           "sarea": "樹林區",
@@ -134,18 +101,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260814T101902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214075",
-          "sna": "水蓮山莊",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 22,
-          "last_mday": "20260814T093603",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500225003",
@@ -156,7 +112,7 @@
           "bemp": 12,
           "tot": 13,
           "last_mday": "20260814T102720",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234039",
@@ -167,10 +123,10 @@
           "bemp": 21,
           "tot": 22,
           "last_mday": "20260814T091203",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     }
   }
 }
