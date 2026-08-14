@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T06:24:10+08:00",
-  "updated_at_display": "2026-08-15 06:24:10",
+  "updated_at": "2026-08-15T06:50:31+08:00",
+  "updated_at_display": "2026-08-15 06:50:31",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -17,17 +17,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500206061",
-          "sna": "莒光四村停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 6,
-          "tot": 12,
-          "last_mday": "20260815T051003",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500229021",
           "sna": "中港大排願景館",
           "sarea": "新莊區",
@@ -36,17 +25,6 @@
           "bemp": 56,
           "tot": 57,
           "last_mday": "20260815T001916",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229101",
-          "sna": "建國一路平面停車場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260815T050302",
           "sample_count": 3
         },
         {
@@ -74,7 +52,7 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260815T010902",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500229021",
@@ -85,7 +63,7 @@
           "bemp": 56,
           "tot": 57,
           "last_mday": "20260815T001916",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500216009",
@@ -96,10 +74,10 @@
           "bemp": 54,
           "tot": 56,
           "last_mday": "20260814T231405",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     },
     "4h": {
       "stations": [
