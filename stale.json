@@ -1,35 +1,30 @@
 {
-  "updated_at": "2026-08-14T21:43:31+08:00",
-  "updated_at_display": "2026-08-14 21:43:31",
+  "updated_at": "2026-08-14T22:41:23+08:00",
+  "updated_at_display": "2026-08-14 22:41:23",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205056",
-          "sna": "臺北大學行政大樓(公政大道)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500207002",
+          "sna": "台灣科技廣場",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260814T174718",
+          "bemp": 68,
+          "tot": 70,
+          "last_mday": "20260814T213704",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500201033",
-          "sna": "龍米河濱公園",
-          "sarea": "八里區",
+          "sno": "NTPC-500209027",
+          "sna": "五工二五工一路口(泰博科技)",
+          "sarea": "五股區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
+          "bemp": 19,
           "tot": 20,
-          "last_mday": "20260814T195004",
+          "last_mday": "20260814T204602",
           "sample_count": 2
         },
         {
@@ -53,23 +48,149 @@
           "tot": 11,
           "last_mday": "20260814T133303",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214008",
+          "sna": "東方科學園區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 60,
+          "tot": 63,
+          "last_mday": "20260814T204602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214005",
+          "sna": "雍和科學園區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 33,
+          "last_mday": "20260814T213704",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223082",
+          "sna": "崁頂市民活動中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260814T203303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223043",
+          "sna": "濱海路二段202巷",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260814T212803",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
+    },
+    "2h": {
+      "stations": [
+        {
+          "sno": "NTPC-500207002",
+          "sna": "台灣科技廣場",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 68,
+          "tot": 70,
+          "last_mday": "20260814T213704",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209027",
+          "sna": "五工二五工一路口(泰博科技)",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260814T204602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260814T133504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214056",
+          "sna": "春之霖社區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260814T133303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214008",
+          "sna": "東方科學園區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 60,
+          "tot": 63,
+          "last_mday": "20260814T204602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214005",
+          "sna": "雍和科學園區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 33,
+          "last_mday": "20260814T213704",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223082",
+          "sna": "崁頂市民活動中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260814T203303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223043",
+          "sna": "濱海路二段202巷",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260814T212803",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500205056",
-          "sna": "臺北大學行政大樓(公政大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260814T174718",
-          "sample_count": 4
-        },
         {
           "sno": "NTPC-500210041",
           "sna": "永成市民活動中心",
