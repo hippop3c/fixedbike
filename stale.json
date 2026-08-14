@@ -1,86 +1,21 @@
 {
-  "updated_at": "2026-08-14T07:59:10+08:00",
-  "updated_at_display": "2026-08-14 07:59:10",
+  "updated_at": "2026-08-14T10:35:23+08:00",
+  "updated_at_display": "2026-08-14 10:35:23",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [
-        {
-          "sno": "NTPC-500205058",
-          "sna": "臺北大學社科院(圖資大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 36,
-          "tot": 37,
-          "last_mday": "20260814T063902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206094",
-          "sna": "土城紫藤廊道(學海街)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260814T063503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227074",
-          "sna": "中興檳榔路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260814T065817",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229140",
-          "sna": "福營國中",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260814T064202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214072",
-          "sna": "濱湖大第(康寧街)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260814T064102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234036",
-          "sna": "尖山路高厝巷口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260814T065703",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "2h": {
       "stations": [],
-      "sample_count": 3
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "4h": {
       "stations": [],
-      "sample_count": 5
+      "sample_count": 3
     }
   }
 }
