@@ -1,41 +1,30 @@
 {
-  "updated_at": "2026-08-15T22:49:15+08:00",
-  "updated_at_display": "2026-08-15 22:49:15",
+  "updated_at": "2026-08-15T23:22:06+08:00",
+  "updated_at_display": "2026-08-15 23:22:06",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500203111",
-          "sna": "光復路一段99巷口",
+          "sno": "NTPC-500203105",
+          "sna": "興德路134號(前)",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260815T213115",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260815T220503",
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500201008",
-          "sna": "八里區民活動中心",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 14,
-          "last_mday": "20260815T211602",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229104",
-          "sna": "五工路68巷口",
+          "sno": "NTPC-500229124",
+          "sna": "中正思源路口(東北側)",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260815T213103",
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260815T220802",
           "sample_count": 3
         },
         {
@@ -61,58 +50,14 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500220025",
-          "sna": "泰山體育館",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260815T212704",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223029",
-          "sna": "輕軌崁頂站",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260815T195616",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223048",
-          "sna": "輕軌竿蓁林站",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260815T212716",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234018",
-          "sna": "二橋虹橋公園",
+          "sno": "NTPC-500234023",
+          "sna": "建國中正一路口(北鶯社區)",
           "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260815T183903",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234035",
-          "sna": "國中高職東街口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260815T213216",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260815T220102",
           "sample_count": 3
         },
         {
@@ -132,44 +77,43 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500223029",
-          "sna": "輕軌崁頂站",
-          "sarea": "淡水區",
+          "sno": "NTPC-500218142",
+          "sna": "湳仔溝抽水站",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260815T195616",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260815T211602",
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500234018",
-          "sna": "二橋虹橋公園",
+          "sno": "NTPC-500231048",
+          "sna": "東興街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260815T213802",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500234042",
+          "sna": "鳳七鶯歌路口",
           "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260815T183903",
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260815T214102",
           "sample_count": 4
         }
       ],
       "sample_count": 4
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500234018",
-          "sna": "二橋虹橋公園",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260815T183903",
-          "sample_count": 8
-        }
-      ],
+      "stations": [],
       "sample_count": 8
     }
   }
