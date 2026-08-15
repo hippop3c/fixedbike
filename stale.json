@@ -1,32 +1,10 @@
 {
-  "updated_at": "2026-08-16T00:51:20+08:00",
-  "updated_at_display": "2026-08-16 00:51:20",
+  "updated_at": "2026-08-16T01:21:14+08:00",
+  "updated_at_display": "2026-08-16 01:21:14",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260815T220503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207082",
-          "sna": "遠東世紀廣場C棟",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260816T002215",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500227093",
           "sna": "輕軌陽光運動公園站",
@@ -36,18 +14,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260816T000804",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229124",
-          "sna": "中正思源路口(東北側)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 44,
-          "tot": 45,
-          "last_mday": "20260815T220802",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229021",
@@ -58,7 +25,7 @@
           "bemp": 55,
           "tot": 57,
           "last_mday": "20260816T000103",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229011",
@@ -69,7 +36,7 @@
           "bemp": 49,
           "tot": 51,
           "last_mday": "20260815T233703",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218046",
@@ -80,7 +47,7 @@
           "bemp": 85,
           "tot": 86,
           "last_mday": "20260816T002117",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218050",
@@ -91,7 +58,7 @@
           "bemp": 25,
           "tot": 26,
           "last_mday": "20260815T225603",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218127",
@@ -102,18 +69,7 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260815T234816",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216044",
-          "sna": "八德文化三路口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260815T234602",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500216006",
@@ -124,7 +80,7 @@
           "bemp": 47,
           "tot": 48,
           "last_mday": "20260815T233004",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500216070",
@@ -135,7 +91,7 @@
           "bemp": 27,
           "tot": 30,
           "last_mday": "20260815T233503",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500214053",
@@ -146,18 +102,7 @@
           "bemp": 11,
           "tot": 13,
           "last_mday": "20260815T231004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214008",
-          "sna": "東方科學園區",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 61,
-          "tot": 63,
-          "last_mday": "20260815T231402",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223082",
@@ -168,7 +113,7 @@
           "bemp": 18,
           "tot": 20,
           "last_mday": "20260815T223915",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223023",
@@ -179,7 +124,7 @@
           "bemp": 46,
           "tot": 48,
           "last_mday": "20260815T232703",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223070",
@@ -190,7 +135,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260815T233603",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500215001",
@@ -201,7 +146,7 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260815T223303",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234031",
@@ -212,7 +157,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260816T001302",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234058",
@@ -223,7 +168,7 @@
           "bemp": 16,
           "tot": 18,
           "last_mday": "20260816T001416",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234022",
@@ -234,35 +179,13 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260815T231702",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260815T220503",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229124",
-          "sna": "中正思源路口(東北側)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 44,
-          "tot": 45,
-          "last_mday": "20260815T220802",
-          "sample_count": 4
-        },
         {
           "sno": "NTPC-500218050",
           "sna": "板橋果菜批發市場",
@@ -272,7 +195,7 @@
           "bemp": 25,
           "tot": 26,
           "last_mday": "20260815T225603",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500214053",
@@ -283,18 +206,7 @@
           "bemp": 11,
           "tot": 13,
           "last_mday": "20260815T231004",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500214008",
-          "sna": "東方科學園區",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 61,
-          "tot": 63,
-          "last_mday": "20260815T231402",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500223082",
@@ -305,7 +217,7 @@
           "bemp": 18,
           "tot": 20,
           "last_mday": "20260815T223915",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500215001",
@@ -316,7 +228,7 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260815T223303",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500234022",
@@ -327,10 +239,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260815T231702",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     },
     "4h": {
       "stations": [],
