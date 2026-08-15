@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-16T06:23:18+08:00",
-  "updated_at_display": "2026-08-16 06:23:18",
+  "updated_at": "2026-08-16T06:48:32+08:00",
+  "updated_at_display": "2026-08-16 06:48:32",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203109",
-          "sna": "光復路一段15巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 29,
-          "last_mday": "20260816T012516",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500206034",
           "sna": "中華裕華街口",
@@ -28,14 +17,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227073",
-          "sna": "寶橋路29巷",
+          "sno": "NTPC-500206073",
+          "sna": "延和廣場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 19,
+          "last_mday": "20260816T061502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227020",
+          "sna": "建國民權路口",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260816T054404",
+          "bemp": 30,
+          "tot": 32,
+          "last_mday": "20260816T061203",
           "sample_count": 2
         },
         {
@@ -83,6 +83,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500229087",
+          "sna": "中誠立體停車場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 10,
+          "last_mday": "20260816T055802",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500229099",
           "sna": "廣停一機車停車場",
           "sarea": "新莊區",
@@ -94,14 +105,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218030",
-          "sna": "板橋地政事務所",
+          "sno": "NTPC-500229016",
+          "sna": "新莊文化藝術中心",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260816T061102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218075",
+          "sna": "新北市藝文中心(文化路二段124巷)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 60,
-          "tot": 61,
-          "last_mday": "20260816T053303",
+          "bemp": 36,
+          "tot": 37,
+          "last_mday": "20260816T054803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218219",
+          "sna": "生態南公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260816T060302",
           "sample_count": 2
         },
         {
@@ -114,23 +147,45 @@
           "tot": 10,
           "last_mday": "20260816T031101",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223023",
+          "sna": "輕軌淡水行政中心站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 47,
+          "tot": 48,
+          "last_mday": "20260816T060602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500233046",
+          "sna": "永安長安街131巷口",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 14,
+          "last_mday": "20260816T061603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234018",
+          "sna": "二橋虹橋公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260816T055403",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203109",
-          "sna": "光復路一段15巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 29,
-          "last_mday": "20260816T012516",
-          "sample_count": 5
-        },
         {
           "sno": "NTPC-500227113",
           "sna": "新北捷運環狀線南機廠",
@@ -169,17 +224,6 @@
     },
     "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500203109",
-          "sna": "光復路一段15巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 29,
-          "last_mday": "20260816T012516",
-          "sample_count": 9
-        },
         {
           "sno": "NTPC-500227113",
           "sna": "新北捷運環狀線南機廠",
