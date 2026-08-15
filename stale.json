@@ -1,32 +1,10 @@
 {
-  "updated_at": "2026-08-15T12:47:21+08:00",
-  "updated_at_display": "2026-08-15 12:47:21",
+  "updated_at": "2026-08-15T13:25:32+08:00",
+  "updated_at_display": "2026-08-15 13:25:32",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203132",
-          "sna": "三重環河陸橋",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260815T114203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203083",
-          "sna": "格致中學",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260815T115302",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500203105",
           "sna": "興德路134號(前)",
@@ -39,69 +17,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500201007",
-          "sna": "十三行博物館",
-          "sarea": "八里區",
+          "sno": "NTPC-500213001",
+          "sna": "菁桐老街",
+          "sarea": "平溪區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 45,
-          "tot": 46,
-          "last_mday": "20260815T114103",
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260815T121903",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500217003",
-          "sna": "坪林旅遊服務中心",
-          "sarea": "坪林區",
+          "sno": "NTPC-500229013",
+          "sna": "行政院新莊聯合辦公大樓",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260815T112103",
+          "bemp": 50,
+          "tot": 51,
+          "last_mday": "20260815T123405",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218072",
-          "sna": "振義里公園",
+          "sno": "NTPC-500218150",
+          "sna": "長安街251巷",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260815T104903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218155",
-          "sna": "板橋435藝文特區",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 18,
-          "last_mday": "20260815T115603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218227",
-          "sna": "板橋戶政事務所海山辦事處",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 49,
-          "tot": 50,
-          "last_mday": "20260815T114602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231014",
-          "sna": "三鶯分區區務辦公室",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260815T114504",
+          "bemp": 14,
+          "tot": 16,
+          "last_mday": "20260815T121802",
           "sample_count": 2
         },
         {
@@ -116,14 +61,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500220025",
-          "sna": "泰山體育館",
-          "sarea": "泰山區",
+          "sno": "NTPC-500214057",
+          "sna": "五堵橋下籃球場",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260815T123317",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214040",
+          "sna": "伯爵山莊第二期(康寧街)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
           "tot": 15,
-          "last_mday": "20260815T114704",
+          "last_mday": "20260815T120917",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214028",
+          "sna": "崇德國小",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 46,
+          "tot": 47,
+          "last_mday": "20260815T122317",
           "sample_count": 2
         },
         {
@@ -176,17 +143,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500218072",
-          "sna": "振義里公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260815T104903",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500231049",
           "sna": "東大街",
           "sarea": "樹林區",
@@ -218,12 +174,57 @@
           "tot": 20,
           "last_mday": "20260815T103602",
           "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234009",
+          "sna": "鳳祥公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 20,
+          "last_mday": "20260815T113717",
+          "sample_count": 3
         }
       ],
       "sample_count": 3
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500203105",
+          "sna": "興德路134號(前)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260815T100902",
+          "sample_count": 5
+        },
+        {
+          "sno": "NTPC-500231049",
+          "sna": "東大街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260815T095403",
+          "sample_count": 5
+        },
+        {
+          "sno": "NTPC-500224005",
+          "sna": "埔新街61巷口",
+          "sarea": "深坑區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260815T094202",
+          "sample_count": 5
+        }
+      ],
       "sample_count": 5
     }
   }
