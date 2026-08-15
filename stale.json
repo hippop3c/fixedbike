@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T04:28:00+08:00",
-  "updated_at_display": "2026-08-16 04:28:00",
+  "updated_at": "2026-08-16T04:51:16+08:00",
+  "updated_at_display": "2026-08-16 04:51:16",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -17,6 +17,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500203038",
+          "sna": "中興北街42巷17弄",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 28,
+          "last_mday": "20260816T035202",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500203109",
           "sna": "光復路一段15巷口",
           "sarea": "三重區",
@@ -25,28 +36,6 @@
           "bemp": 26,
           "tot": 29,
           "last_mday": "20260816T012516",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500207023",
-          "sna": "捷運中原站",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 97,
-          "tot": 99,
-          "last_mday": "20260816T002503",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500207082",
-          "sna": "遠東世紀廣場C棟",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260816T012217",
           "sample_count": 3
         },
         {
@@ -80,28 +69,6 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260816T023403",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500206014",
-          "sna": "捷運土城站(2號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 47,
-          "tot": 48,
-          "last_mday": "20260816T025902",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500206025",
-          "sna": "捷運海山站(3號出口)轉乘停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 79,
-          "tot": 80,
-          "last_mday": "20260816T010403",
           "sample_count": 3
         },
         {
@@ -204,6 +171,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500229120",
+          "sna": "捷運幸福站(2號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260816T034915",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500218217",
           "sna": "亞東醫院",
           "sarea": "板橋區",
@@ -223,28 +201,6 @@
           "bemp": 59,
           "tot": 60,
           "last_mday": "20260816T023503",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218002",
-          "sna": "新北市政府(新站路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 73,
-          "tot": 74,
-          "last_mday": "20260816T031904",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218075",
-          "sna": "新北市藝文中心(文化路二段124巷)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 36,
-          "tot": 37,
-          "last_mday": "20260816T020703",
           "sample_count": 3
         },
         {
@@ -278,6 +234,17 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260815T234816",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500218149",
+          "sna": "縣民觀光街口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260816T034602",
           "sample_count": 3
         },
         {
@@ -378,28 +345,6 @@
           "tot": 18,
           "last_mday": "20260816T001416",
           "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234046",
-          "sna": "鶯歌火車站(仁愛路62號)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 41,
-          "tot": 42,
-          "last_mday": "20260816T012315",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234022",
-          "sna": "鶯歌老街第二停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260815T231702",
-          "sample_count": 3
         }
       ],
       "sample_count": 3
@@ -429,28 +374,6 @@
           "sample_count": 5
         },
         {
-          "sno": "NTPC-500207023",
-          "sna": "捷運中原站",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 97,
-          "tot": 99,
-          "last_mday": "20260816T002503",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500207082",
-          "sna": "遠東世紀廣場C棟",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260816T012217",
-          "sample_count": 5
-        },
-        {
           "sno": "NTPC-500209017",
           "sna": "新北市勞工活動中心",
           "sarea": "五股區",
@@ -473,14 +396,14 @@
           "sample_count": 5
         },
         {
-          "sno": "NTPC-500206025",
-          "sna": "捷運海山站(3號出口)轉乘停車場",
+          "sno": "NTPC-500206088",
+          "sna": "學府中正路口(A+社區)",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 79,
-          "tot": 80,
-          "last_mday": "20260816T010403",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260816T023403",
           "sample_count": 5
         },
         {
@@ -583,14 +506,14 @@
           "sample_count": 5
         },
         {
-          "sno": "NTPC-500218075",
-          "sna": "新北市藝文中心(文化路二段124巷)",
+          "sno": "NTPC-500218052",
+          "sna": "捷運江子翠站(3號出口)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 36,
-          "tot": 37,
-          "last_mday": "20260816T020703",
+          "bemp": 59,
+          "tot": 60,
+          "last_mday": "20260816T023503",
           "sample_count": 5
         },
         {
@@ -624,6 +547,17 @@
           "bemp": 27,
           "tot": 30,
           "last_mday": "20260815T233503",
+          "sample_count": 5
+        },
+        {
+          "sno": "NTPC-500216020",
+          "sna": "林口新創園",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260816T024003",
           "sample_count": 5
         },
         {
@@ -691,28 +625,6 @@
           "tot": 18,
           "last_mday": "20260816T001416",
           "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500234046",
-          "sna": "鶯歌火車站(仁愛路62號)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 41,
-          "tot": 42,
-          "last_mday": "20260816T012315",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500234022",
-          "sna": "鶯歌老街第二停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260815T231702",
-          "sample_count": 5
         }
       ],
       "sample_count": 5
@@ -720,14 +632,14 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500207023",
-          "sna": "捷運中原站",
-          "sarea": "中和區",
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 97,
-          "tot": 99,
-          "last_mday": "20260816T002503",
+          "bemp": 33,
+          "tot": 35,
+          "last_mday": "20260816T011017",
           "sample_count": 8
         },
         {
@@ -742,6 +654,17 @@
           "sample_count": 8
         },
         {
+          "sno": "NTPC-500227005",
+          "sna": "捷運十四張站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 93,
+          "tot": 95,
+          "last_mday": "20260816T011017",
+          "sample_count": 8
+        },
+        {
           "sno": "NTPC-500227093",
           "sna": "輕軌陽光運動公園站",
           "sarea": "新店區",
@@ -753,6 +676,17 @@
           "sample_count": 8
         },
         {
+          "sno": "NTPC-500229124",
+          "sna": "中正思源路口(東北側)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260816T011615",
+          "sample_count": 8
+        },
+        {
           "sno": "NTPC-500229126",
           "sna": "中正思源路口(西南側)",
           "sarea": "新莊區",
@@ -761,6 +695,17 @@
           "bemp": 45,
           "tot": 46,
           "last_mday": "20260816T004102",
+          "sample_count": 8
+        },
+        {
+          "sno": "NTPC-500218196",
+          "sna": "板橋國小",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260816T005804",
           "sample_count": 8
         },
         {
@@ -783,6 +728,17 @@
           "bemp": 27,
           "tot": 30,
           "last_mday": "20260815T233503",
+          "sample_count": 8
+        },
+        {
+          "sno": "NTPC-500214059",
+          "sna": "汐止國民運動中心游泳池(忠孝東路)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260816T011416",
           "sample_count": 8
         },
         {
@@ -827,17 +783,6 @@
           "bemp": 16,
           "tot": 18,
           "last_mday": "20260816T001416",
-          "sample_count": 8
-        },
-        {
-          "sno": "NTPC-500234022",
-          "sna": "鶯歌老街第二停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260815T231702",
           "sample_count": 8
         }
       ],
