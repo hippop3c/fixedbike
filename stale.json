@@ -1,121 +1,20 @@
 {
-  "updated_at": "2026-08-15T07:48:55+08:00",
-  "updated_at_display": "2026-08-15 07:48:55",
+  "updated_at": "2026-08-15T09:18:24+08:00",
+  "updated_at_display": "2026-08-15 09:18:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260815T055902",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229113",
-          "sna": "思源路192巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 22,
-          "tot": 23,
-          "last_mday": "20260815T063218",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216032",
-          "sna": "中山佳林路口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 26,
-          "last_mday": "20260815T064802",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216009",
-          "sna": "新北市林口行政園區",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 54,
-          "tot": 56,
-          "last_mday": "20260814T231405",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231053",
-          "sna": "中正路248巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260815T061202",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223050",
-          "sna": "民族路33巷",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260815T064503",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234031",
-          "sna": "中正一仁愛路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260815T055404",
-          "sample_count": 3
-        }
-      ],
-      "sample_count": 3
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500216009",
-          "sna": "新北市林口行政園區",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 54,
-          "tot": 56,
-          "last_mday": "20260814T231405",
-          "sample_count": 5
-        }
-      ],
-      "sample_count": 5
+      "stations": [],
+      "sample_count": 3
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500216009",
-          "sna": "新北市林口行政園區",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 54,
-          "tot": 56,
-          "last_mday": "20260814T231405",
-          "sample_count": 8
-        }
-      ],
-      "sample_count": 8
+      "stations": [],
+      "sample_count": 7
     }
   }
 }
