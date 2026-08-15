@@ -1,19 +1,30 @@
 {
-  "updated_at": "2026-08-15T12:04:45+08:00",
-  "updated_at_display": "2026-08-15 12:04:45",
+  "updated_at": "2026-08-15T12:47:21+08:00",
+  "updated_at_display": "2026-08-15 12:47:21",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500203061",
-          "sna": "仁愛街112巷",
+          "sno": "NTPC-500203132",
+          "sna": "三重環河陸橋",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260815T102904",
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260815T114203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203083",
+          "sna": "格致中學",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260815T115302",
           "sample_count": 2
         },
         {
@@ -28,14 +39,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227044",
-          "sna": "安居公教住宅",
-          "sarea": "新店區",
+          "sno": "NTPC-500201007",
+          "sna": "十三行博物館",
+          "sarea": "八里區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 22,
-          "tot": 24,
-          "last_mday": "20260815T104802",
+          "bemp": 45,
+          "tot": 46,
+          "last_mday": "20260815T114103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500217003",
+          "sna": "坪林旅遊服務中心",
+          "sarea": "坪林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260815T112103",
           "sample_count": 2
         },
         {
@@ -50,6 +72,39 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500218155",
+          "sna": "板橋435藝文特區",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "20260815T115603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218227",
+          "sna": "板橋戶政事務所海山辦事處",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 49,
+          "tot": 50,
+          "last_mday": "20260815T114602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231014",
+          "sna": "三鶯分區區務辦公室",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260815T114504",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500231049",
           "sna": "東大街",
           "sarea": "樹林區",
@@ -61,25 +116,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231047",
-          "sna": "鹿角溪公園",
-          "sarea": "樹林區",
+          "sno": "NTPC-500220025",
+          "sna": "泰山體育館",
+          "sarea": "泰山區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260815T111618",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223062",
-          "sna": "新春街125巷(樂活绽社區)",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260815T111703",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260815T114704",
           "sample_count": 2
         },
         {
@@ -103,23 +147,23 @@
           "tot": 20,
           "last_mday": "20260815T103602",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234009",
+          "sna": "鳳祥公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 20,
+          "last_mday": "20260815T113717",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500203061",
-          "sna": "仁愛街112巷",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260815T102904",
-          "sample_count": 3
-        },
         {
           "sno": "NTPC-500203105",
           "sna": "興德路134號(前)",
@@ -129,6 +173,17 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260815T100902",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500218072",
+          "sna": "振義里公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260815T104903",
           "sample_count": 3
         },
         {
@@ -152,13 +207,24 @@
           "tot": 15,
           "last_mday": "20260815T094202",
           "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234028",
+          "sna": "礫間停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260815T103602",
+          "sample_count": 3
         }
       ],
       "sample_count": 3
     },
     "4h": {
       "stations": [],
-      "sample_count": 4
+      "sample_count": 5
     }
   }
 }
