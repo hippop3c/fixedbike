@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-16T18:40:24+08:00",
-  "updated_at_display": "2026-08-16 18:40:24",
+  "updated_at": "2026-08-16T19:00:02+08:00",
+  "updated_at_display": "2026-08-16 19:00:02",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500231065",
-          "sna": "福順街",
-          "sarea": "樹林區",
+          "sno": "NTPC-500229114",
+          "sna": "頭前運動公園(頭前路)",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260816T160602",
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260816T175902",
           "sample_count": 3
         },
         {
@@ -66,17 +66,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500231065",
-          "sna": "福順街",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260816T160602",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500223032",
           "sna": "漁人碼頭",
           "sarea": "淡水區",
@@ -85,7 +74,7 @@
           "bemp": 54,
           "tot": 55,
           "last_mday": "20260816T165102",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500234028",
@@ -96,10 +85,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260816T132803",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     },
     "4h": {
       "stations": [
