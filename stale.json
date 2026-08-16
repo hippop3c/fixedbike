@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-16T17:42:50+08:00",
-  "updated_at_display": "2026-08-16 17:42:50",
+  "updated_at": "2026-08-16T18:01:35+08:00",
+  "updated_at_display": "2026-08-16 18:01:35",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203127",
-          "sna": "仁義元信一街口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260816T163204",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500203087",
           "sna": "神農街/光復路二段129巷口",
@@ -25,18 +14,7 @@
           "bemp": 25,
           "tot": 26,
           "last_mday": "20260816T164319",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207075",
-          "sna": "興南路二段231巷口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260816T161902",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500206046",
@@ -47,7 +25,7 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260816T163802",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229017",
@@ -58,7 +36,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260816T153204",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231065",
@@ -69,7 +47,7 @@
           "bemp": 12,
           "tot": 13,
           "last_mday": "20260816T160602",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500214023",
@@ -80,7 +58,7 @@
           "bemp": 18,
           "tot": 20,
           "last_mday": "20260816T161103",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223040",
@@ -91,7 +69,7 @@
           "bemp": 14,
           "tot": 16,
           "last_mday": "20260816T165316",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223032",
@@ -102,29 +80,7 @@
           "bemp": 54,
           "tot": 55,
           "last_mday": "20260816T165102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223043",
-          "sna": "濱海路二段202巷",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260816T160919",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233049",
-          "sna": "蘆洲兒四公園",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260816T165802",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234028",
@@ -135,21 +91,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260816T132803",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234010",
-          "sna": "鳳鳴國小",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260816T160703",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "2h": {
       "stations": [
@@ -162,6 +107,28 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260816T153204",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500231065",
+          "sna": "福順街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260816T160602",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500214023",
+          "sna": "北港國小",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "20260816T161103",
           "sample_count": 4
         },
         {
