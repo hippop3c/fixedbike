@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T22:49:42+08:00",
-  "updated_at_display": "2026-08-16 22:49:42",
+  "updated_at": "2026-08-16T23:22:51+08:00",
+  "updated_at_display": "2026-08-16 23:22:51",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -17,6 +17,39 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500201004",
+          "sna": "大崁國小",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "20260816T215715",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500206071",
+          "sna": "中央公園地下停車場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260816T220203",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500229060",
+          "sna": "新泰路255巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260816T221902",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500216089",
           "sna": "文化一麗園路2巷口",
           "sarea": "林口區",
@@ -25,17 +58,6 @@
           "bemp": 16,
           "tot": 18,
           "last_mday": "20260816T214203",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231068",
-          "sna": "八德中華路口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260816T214402",
           "sample_count": 3
         },
         {
@@ -72,17 +94,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500223004",
-          "sna": "輕軌淡海新市鎮站",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260816T214116",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500234043",
           "sna": "國際一路112巷口",
           "sarea": "鶯歌區",
@@ -110,6 +121,28 @@
     "2h": {
       "stations": [
         {
+          "sno": "NTPC-500201028",
+          "sna": "中山賢一街口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260816T212703",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500216089",
+          "sna": "文化一麗園路2巷口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "20260816T214203",
+          "sample_count": 4
+        },
+        {
           "sno": "NTPC-500231044",
           "sna": "大安文化街口",
           "sarea": "樹林區",
@@ -118,6 +151,28 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260816T184716",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500223081",
+          "sna": "崁頂三後洲路一段路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260816T212303",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500223032",
+          "sna": "漁人碼頭",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 54,
+          "tot": 55,
+          "last_mday": "20260816T214243",
           "sample_count": 4
         },
         {
