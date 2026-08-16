@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-08-17T07:45:11+08:00",
-  "updated_at_display": "2026-08-17 07:45:11",
+  "updated_at": "2026-08-17T07:59:26+08:00",
+  "updated_at_display": "2026-08-17 07:59:26",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500209032",
+          "sna": "成州派出所",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 47,
+          "tot": 49,
+          "last_mday": "20260817T071918",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500227018",
           "sna": "忠誠里(北新路2段97巷)",
@@ -17,14 +28,25 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500218127",
-          "sna": "海山高中(漢生東路)",
-          "sarea": "板橋區",
+          "sno": "NTPC-500231018",
+          "sna": "育德國小",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260817T005403",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260817T071504",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500223056",
+          "sna": "淡金路38巷尾",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260817T070716",
           "sample_count": 3
         },
         {
@@ -55,17 +77,6 @@
           "sample_count": 5
         },
         {
-          "sno": "NTPC-500218127",
-          "sna": "海山高中(漢生東路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260817T005403",
-          "sample_count": 5
-        },
-        {
           "sno": "NTPC-500234028",
           "sna": "礫間停車場",
           "sarea": "鶯歌區",
@@ -90,17 +101,6 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260817T020103",
-          "sample_count": 9
-        },
-        {
-          "sno": "NTPC-500218127",
-          "sna": "海山高中(漢生東路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260817T005403",
           "sample_count": 9
         },
         {
