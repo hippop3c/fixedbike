@@ -1,43 +1,10 @@
 {
-  "updated_at": "2026-08-16T18:01:35+08:00",
-  "updated_at_display": "2026-08-16 18:01:35",
+  "updated_at": "2026-08-16T18:40:24+08:00",
+  "updated_at_display": "2026-08-16 18:40:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203087",
-          "sna": "神農街/光復路二段129巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "20260816T164319",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500206046",
-          "sna": "中華日新街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260816T163802",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229017",
-          "sna": "化成公園",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260816T153204",
-          "sample_count": 3
-        },
         {
           "sno": "NTPC-500231065",
           "sna": "福順街",
@@ -50,25 +17,25 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500214023",
-          "sna": "北港國小",
-          "sarea": "汐止區",
+          "sno": "NTPC-500231018",
+          "sna": "育德國小",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
+          "bemp": 19,
           "tot": 20,
-          "last_mday": "20260816T161103",
+          "last_mday": "20260816T173802",
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500223040",
-          "sna": "新市二後洲路口",
-          "sarea": "淡水區",
+          "sno": "NTPC-500214015",
+          "sna": "民族二街明峰街口",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 16,
-          "last_mday": "20260816T165316",
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260816T173903",
           "sample_count": 3
         },
         {
@@ -99,17 +66,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500229017",
-          "sna": "化成公園",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260816T153204",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500231065",
           "sna": "福順街",
           "sarea": "樹林區",
@@ -121,14 +77,14 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500214023",
-          "sna": "北港國小",
-          "sarea": "汐止區",
+          "sno": "NTPC-500223032",
+          "sna": "漁人碼頭",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260816T161103",
+          "bemp": 54,
+          "tot": 55,
+          "last_mday": "20260816T165102",
           "sample_count": 4
         },
         {
@@ -156,10 +112,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260816T132803",
-          "sample_count": 7
+          "sample_count": 8
         }
       ],
-      "sample_count": 7
+      "sample_count": 8
     }
   }
 }
