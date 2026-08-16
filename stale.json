@@ -1,15 +1,32 @@
 {
-  "updated_at": "2026-08-16T11:01:14+08:00",
-  "updated_at_display": "2026-08-16 11:01:14",
+  "updated_at": "2026-08-16T11:59:57+08:00",
+  "updated_at_display": "2026-08-16 11:59:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500205069",
+          "sna": "民族街78巷口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260816T105005",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209022",
+          "sna": "成功運動公園",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260816T104502",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500201024",
           "sna": "商港三頂罟二路口",
@@ -22,14 +39,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231003",
-          "sna": "全球傳動科技公司",
-          "sarea": "樹林區",
+          "sno": "NTPC-500229062",
+          "sna": "瓊林南路101巷口",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260816T093802",
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260816T101417",
           "sample_count": 2
         },
         {
@@ -44,25 +61,85 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500234028",
-          "sna": "礫間停車場",
+          "sno": "NTPC-500234035",
+          "sna": "國中高職東街口",
           "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260816T090602",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260816T105802",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
+    },
+    "2h": {
+      "stations": [
+        {
+          "sno": "NTPC-500205069",
+          "sna": "民族街78巷口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260816T105005",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500234054",
-          "sna": "鳳一鳳吉一街口",
+          "sno": "NTPC-500209022",
+          "sna": "成功運動公園",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260816T104502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201024",
+          "sna": "商港三頂罟二路口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 25,
+          "last_mday": "20260816T082703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229062",
+          "sna": "瓊林南路101巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260816T101417",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231049",
+          "sna": "東大街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260816T094003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234035",
+          "sna": "國中高職東街口",
           "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260816T091319",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260816T105802",
           "sample_count": 2
         }
       ],
@@ -70,7 +147,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 5
+      "sample_count": 4
     }
   }
 }
