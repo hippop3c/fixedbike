@@ -1,43 +1,10 @@
 {
-  "updated_at": "2026-08-17T06:47:13+08:00",
-  "updated_at_display": "2026-08-17 06:47:13",
+  "updated_at": "2026-08-17T07:20:55+08:00",
+  "updated_at_display": "2026-08-17 07:20:55",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500206069",
-          "sna": "員林平面停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 8,
-          "tot": 9,
-          "last_mday": "20260817T061602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206061",
-          "sna": "莒光四村停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 12,
-          "last_mday": "20260817T061602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206055",
-          "sna": "裕民路55巷",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260817T055203",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500227018",
           "sna": "忠誠里(北新路2段97巷)",
@@ -47,29 +14,7 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260817T020103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229099",
-          "sna": "廣停一機車停車場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260817T021602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218153",
-          "sna": "中山路二段416巷38弄口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260817T055003",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218127",
@@ -80,18 +25,7 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260817T005403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223034",
-          "sna": "滬尾藝文休閒園區",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260817T060019",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234028",
@@ -102,10 +36,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260816T132803",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "2h": {
       "stations": [
@@ -118,17 +52,6 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260817T020103",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500229099",
-          "sna": "廣停一機車停車場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260817T021602",
           "sample_count": 5
         },
         {
@@ -167,17 +90,6 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260817T020103",
-          "sample_count": 9
-        },
-        {
-          "sno": "NTPC-500229099",
-          "sna": "廣停一機車停車場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260817T021602",
           "sample_count": 9
         },
         {
