@@ -1,30 +1,19 @@
 {
-  "updated_at": "2026-08-18T06:41:30+08:00",
-  "updated_at_display": "2026-08-18 06:41:30",
+  "updated_at": "2026-08-18T07:00:47+08:00",
+  "updated_at_display": "2026-08-18 07:00:47",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500206061",
-          "sna": "莒光四村停車場",
+          "sno": "NTPC-500206066",
+          "sna": "青雲路434巷口",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 8,
-          "tot": 12,
-          "last_mday": "20260817T225416",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260818T003304",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260818T055315",
           "sample_count": 3
         },
         {
@@ -50,25 +39,14 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500234010",
-          "sna": "鳳鳴國小",
+          "sno": "NTPC-500234054",
+          "sna": "鳳一鳳吉一街口",
           "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260818T001615",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234026",
-          "sna": "鶯歌陶瓷博物館",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260818T044602",
+          "last_mday": "20260818T055803",
           "sample_count": 3
         }
       ],
@@ -77,28 +55,6 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500206061",
-          "sna": "莒光四村停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 8,
-          "tot": 12,
-          "last_mday": "20260817T225416",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260818T003304",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500227019",
           "sna": "新店公有中央市場",
           "sarea": "新店區",
@@ -107,7 +63,7 @@
           "bemp": 41,
           "tot": 42,
           "last_mday": "20260818T042003",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500234056",
@@ -118,58 +74,14 @@
           "bemp": 16,
           "tot": 17,
           "last_mday": "20260817T180817",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500234010",
-          "sna": "鳳鳴國小",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260818T001615",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500234026",
-          "sna": "鶯歌陶瓷博物館",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260818T044602",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     },
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500206061",
-          "sna": "莒光四村停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 8,
-          "tot": 12,
-          "last_mday": "20260817T225416",
-          "sample_count": 8
-        },
-        {
-          "sno": "NTPC-500227132",
-          "sna": "北新路三段171巷",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260818T003304",
-          "sample_count": 8
-        },
-        {
           "sno": "NTPC-500234056",
           "sna": "建國永昌街口",
           "sarea": "鶯歌區",
@@ -178,17 +90,6 @@
           "bemp": 16,
           "tot": 17,
           "last_mday": "20260817T180817",
-          "sample_count": 8
-        },
-        {
-          "sno": "NTPC-500234010",
-          "sna": "鳳鳴國小",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260818T001615",
           "sample_count": 8
         }
       ],
