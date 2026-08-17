@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-18T07:36:44+08:00",
-  "updated_at_display": "2026-08-18 07:36:44",
+  "updated_at": "2026-08-18T07:59:10+08:00",
+  "updated_at_display": "2026-08-18 07:59:10",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500206066",
-          "sna": "青雲路434巷口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260818T055315",
-          "sample_count": 3
-        },
         {
           "sno": "NTPC-500227019",
           "sna": "新店公有中央市場",
@@ -25,6 +14,17 @@
           "bemp": 41,
           "tot": 42,
           "last_mday": "20260818T042003",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500231059",
+          "sna": "樹林藝文綜合行政大樓停車場",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260818T065003",
           "sample_count": 3
         },
         {
@@ -48,6 +48,17 @@
           "tot": 20,
           "last_mday": "20260818T061203",
           "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234008",
+          "sna": "永吉國小",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260818T065019",
+          "sample_count": 3
         }
       ],
       "sample_count": 3
@@ -70,7 +81,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 8
+      "sample_count": 9
     }
   }
 }
