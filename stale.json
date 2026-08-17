@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T19:41:28+08:00",
-  "updated_at_display": "2026-08-17 19:41:28",
+  "updated_at": "2026-08-17T20:00:57+08:00",
+  "updated_at_display": "2026-08-17 20:00:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,73 +14,7 @@
           "bemp": 22,
           "tot": 23,
           "last_mday": "20260817T181504",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203138",
-          "sna": "新北大道二段139巷",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260817T185818",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203136",
-          "sna": "集賢三信路口(南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260817T182818",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227002",
-          "sna": "國家人權博物館",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260817T183202",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214077",
-          "sna": "中華街57巷口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260817T184731",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500225003",
-          "sna": "萬里區行政中心",
-          "sarea": "萬里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260817T171918",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234023",
-          "sna": "建國中正一路口(北鶯社區)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260817T185917",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234056",
@@ -91,22 +25,33 @@
           "bemp": 16,
           "tot": 17,
           "last_mday": "20260817T180817",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500225003",
-          "sna": "萬里區行政中心",
-          "sarea": "萬里區",
+          "sno": "NTPC-500205062",
+          "sna": "北大高中",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260817T171918",
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260817T181504",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500234056",
+          "sna": "建國永昌街口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260817T180817",
           "sample_count": 4
         }
       ],
@@ -114,7 +59,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 6
+      "sample_count": 7
     }
   }
 }
