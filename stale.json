@@ -1,30 +1,19 @@
 {
-  "updated_at": "2026-08-18T05:03:30+08:00",
-  "updated_at_display": "2026-08-18 05:03:30",
+  "updated_at": "2026-08-18T05:42:03+08:00",
+  "updated_at_display": "2026-08-18 05:42:03",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500205018",
-          "sna": "學成大義路口(學成路一)",
+          "sno": "NTPC-500205016",
+          "sna": "中華愛國路口",
           "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 10,
-          "tot": 13,
-          "last_mday": "20260818T005103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207100",
-          "sna": "建二建三路口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260817T232717",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260818T044303",
           "sample_count": 2
         },
         {
@@ -36,6 +25,17 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260817T222004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206012",
+          "sna": "學成公園",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 41,
+          "tot": 42,
+          "last_mday": "20260818T043503",
           "sample_count": 2
         },
         {
@@ -116,17 +116,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229083",
-          "sna": "中興中正路口(泰坤建設)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 48,
-          "tot": 50,
-          "last_mday": "20260818T005904",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500229065",
           "sna": "宏匯思源廣場",
           "sarea": "新莊區",
@@ -138,25 +127,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229121",
-          "sna": "幸福路753巷口",
+          "sno": "NTPC-500229096",
+          "sna": "捷運迴龍站(2號出口)",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260818T032018",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229120",
-          "sna": "捷運幸福站(2號出口)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 35,
-          "last_mday": "20260818T042018",
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260818T044117",
           "sample_count": 2
         },
         {
@@ -193,17 +171,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231071",
-          "sna": "學府大成路口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260817T214903",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500231077",
           "sna": "臺鐵樹林車站(後站停車場)",
           "sarea": "樹林區",
@@ -212,17 +179,6 @@
           "bemp": 63,
           "tot": 64,
           "last_mday": "20260818T010322",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210027",
-          "sna": "仁愛公園(仁愛路)",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260818T043303",
           "sample_count": 2
         },
         {
@@ -248,14 +204,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223028",
-          "sna": "淡水國民運動中心",
+          "sno": "NTPC-500223057",
+          "sna": "捷運淡水站(中正東路)",
           "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 34,
-          "tot": 36,
-          "last_mday": "20260817T230904",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260818T045003",
           "sample_count": 2
         },
         {
@@ -301,34 +257,23 @@
           "tot": 20,
           "last_mday": "20260818T001615",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234026",
+          "sna": "鶯歌陶瓷博物館",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260818T044602",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500205018",
-          "sna": "學成大義路口(學成路一)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 13,
-          "last_mday": "20260818T005103",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500207100",
-          "sna": "建二建三路口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260817T232717",
-          "sample_count": 4
-        },
         {
           "sno": "NTPC-500206046",
           "sna": "中華日新街口",
@@ -407,17 +352,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500229083",
-          "sna": "中興中正路口(泰坤建設)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 48,
-          "tot": 50,
-          "last_mday": "20260818T005904",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500229065",
           "sna": "宏匯思源廣場",
           "sarea": "新莊區",
@@ -426,17 +360,6 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260817T221316",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500229121",
-          "sna": "幸福路753巷口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260818T032018",
           "sample_count": 4
         },
         {
@@ -462,17 +385,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500231071",
-          "sna": "學府大成路口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260817T214903",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500231077",
           "sna": "臺鐵樹林車站(後站停車場)",
           "sarea": "樹林區",
@@ -492,17 +404,6 @@
           "bemp": 17,
           "tot": 20,
           "last_mday": "20260817T222803",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500223028",
-          "sna": "淡水國民運動中心",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 36,
-          "last_mday": "20260817T230904",
           "sample_count": 4
         },
         {
@@ -554,28 +455,6 @@
     },
     "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500205018",
-          "sna": "學成大義路口(學成路一)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 13,
-          "last_mday": "20260818T005103",
-          "sample_count": 7
-        },
-        {
-          "sno": "NTPC-500207100",
-          "sna": "建二建三路口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260817T232717",
-          "sample_count": 7
-        },
         {
           "sno": "NTPC-500206046",
           "sna": "中華日新街口",
@@ -643,17 +522,6 @@
           "sample_count": 7
         },
         {
-          "sno": "NTPC-500229083",
-          "sna": "中興中正路口(泰坤建設)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 48,
-          "tot": 50,
-          "last_mday": "20260818T005904",
-          "sample_count": 7
-        },
-        {
           "sno": "NTPC-500229065",
           "sna": "宏匯思源廣場",
           "sarea": "新莊區",
@@ -676,17 +544,6 @@
           "sample_count": 7
         },
         {
-          "sno": "NTPC-500231071",
-          "sna": "學府大成路口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260817T214903",
-          "sample_count": 7
-        },
-        {
           "sno": "NTPC-500231077",
           "sna": "臺鐵樹林車站(後站停車場)",
           "sarea": "樹林區",
@@ -706,17 +563,6 @@
           "bemp": 17,
           "tot": 20,
           "last_mday": "20260817T222803",
-          "sample_count": 7
-        },
-        {
-          "sno": "NTPC-500223028",
-          "sna": "淡水國民運動中心",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 36,
-          "last_mday": "20260817T230904",
           "sample_count": 7
         },
         {
