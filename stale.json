@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T07:00:47+08:00",
-  "updated_at_display": "2026-08-18 07:00:47",
+  "updated_at": "2026-08-18T07:36:44+08:00",
+  "updated_at_display": "2026-08-18 07:36:44",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -28,25 +28,25 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500234056",
-          "sna": "建國永昌街口",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500233056",
+          "sna": "蘆洲環河公園",
+          "sarea": "蘆洲區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260817T180817",
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260818T063602",
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500234054",
-          "sna": "鳳一鳳吉一街口",
+          "sno": "NTPC-500234023",
+          "sna": "建國中正一路口(北鶯社區)",
           "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260818T055803",
+          "last_mday": "20260818T061203",
           "sample_count": 3
         }
       ],
@@ -64,35 +64,12 @@
           "tot": 42,
           "last_mday": "20260818T042003",
           "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500234056",
-          "sna": "建國永昌街口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260817T180817",
-          "sample_count": 5
         }
       ],
       "sample_count": 5
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500234056",
-          "sna": "建國永昌街口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260817T180817",
-          "sample_count": 8
-        }
-      ],
+      "stations": [],
       "sample_count": 8
     }
   }
