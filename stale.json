@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T18:58:39+08:00",
-  "updated_at_display": "2026-08-18 18:58:39",
+  "updated_at": "2026-08-18T19:33:25+08:00",
+  "updated_at_display": "2026-08-18 19:33:25",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -39,6 +39,61 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500201025",
+          "sna": "商港六商港三路口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260818T183302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260818T183104",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206081",
+          "sna": "裕華街",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260818T184403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218227",
+          "sna": "板橋戶政事務所海山辦事處",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 48,
+          "tot": 50,
+          "last_mday": "20260818T185203",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218139",
+          "sna": "浮洲運動公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260818T185203",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500231051",
           "sna": "中華路379巷口",
           "sarea": "樹林區",
@@ -47,6 +102,17 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260818T180942",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231067",
+          "sna": "東豐街85巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260818T182504",
           "sample_count": 2
         },
         {
@@ -59,23 +125,24 @@
           "tot": 10,
           "last_mday": "20260818T174303",
           "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234042",
-          "sna": "鳳七鶯歌路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260818T172503",
-          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500223048",
+          "sna": "輕軌竿蓁林站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260818T174303",
+          "sample_count": 4
+        }
+      ],
       "sample_count": 4
     },
     "4h": {
