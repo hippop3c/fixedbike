@@ -1,24 +1,79 @@
 {
-  "updated_at": "2026-08-18T09:44:29+08:00",
-  "updated_at_display": "2026-08-18 09:44:29",
+  "updated_at": "2026-08-18T10:42:48+08:00",
+  "updated_at_display": "2026-08-18 10:42:48",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500234023",
-          "sna": "建國中正一路口(北鶯社區)",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500207028",
+          "sna": "積穗國中",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260818T092403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223060",
+          "sna": "新民新春街口",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260818T061203",
+          "last_mday": "20260818T092902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234035",
+          "sna": "國中高職東街口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260818T093803",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
+    },
+    "2h": {
+      "stations": [
+        {
+          "sno": "NTPC-500207028",
+          "sna": "積穗國中",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260818T092403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223060",
+          "sna": "新民新春街口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260818T092902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234035",
+          "sna": "國中高職東街口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260818T093803",
           "sample_count": 2
         }
       ],
@@ -26,7 +81,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 6
+      "sample_count": 5
     }
   }
 }
