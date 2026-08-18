@@ -1,41 +1,52 @@
 {
-  "updated_at": "2026-08-18T11:29:06+08:00",
-  "updated_at_display": "2026-08-18 11:29:06",
+  "updated_at": "2026-08-18T12:10:32+08:00",
+  "updated_at_display": "2026-08-18 12:10:32",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500205065",
-          "sna": "三峽中山公園",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260818T102204",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203093",
-          "sna": "中正北路25巷(交響院社區)",
+          "sno": "NTPC-500203077",
+          "sna": "三重社會福利服務中心",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260818T103803",
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260818T110202",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206094",
-          "sna": "土城紫藤廊道(學海街)",
+          "sno": "NTPC-500207075",
+          "sna": "興南路二段231巷口",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "20260818T105202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209010",
+          "sna": "凌雲路一段158巷口",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260818T110603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206066",
+          "sna": "青雲路434巷口",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260818T102904",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260818T105104",
           "sample_count": 2
         },
         {
@@ -50,17 +61,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218069",
-          "sna": "浮洲合宜住宅(合宜一路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 56,
-          "tot": 57,
-          "last_mday": "20260818T101602",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500231065",
           "sna": "福順街",
           "sarea": "樹林區",
@@ -72,25 +72,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500233057",
-          "sna": "長興光華路186巷口",
-          "sarea": "蘆洲區",
+          "sno": "NTPC-500231076",
+          "sna": "鎮前街347巷口",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260818T103804",
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260818T110303",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500234035",
-          "sna": "國中高職東街口",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500221001",
+          "sna": "烏來老街",
+          "sarea": "烏來區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260818T093803",
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20260818T112104",
           "sample_count": 2
         }
       ],
@@ -99,14 +99,25 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500234035",
-          "sna": "國中高職東街口",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500227119",
+          "sna": "中央陸橋(中央一街)",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260818T093803",
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260818T101203",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500231065",
+          "sna": "福順街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260818T101220",
           "sample_count": 3
         }
       ],
@@ -114,7 +125,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 5
+      "sample_count": 4
     }
   }
 }
