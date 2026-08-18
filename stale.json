@@ -1,98 +1,85 @@
 {
-  "updated_at": "2026-08-18T17:52:35+08:00",
-  "updated_at_display": "2026-08-18 17:52:35",
+  "updated_at": "2026-08-18T18:30:12+08:00",
+  "updated_at_display": "2026-08-18 18:30:12",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500205035",
-          "sna": "臺北大學宿舍(學成路)",
-          "sarea": "三峽區",
+          "sno": "NTPC-500231032",
+          "sna": "俊英街219巷口",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260818T170802",
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260818T173919",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500209012",
-          "sna": "新北市立圖書館五股成功分館",
-          "sarea": "五股區",
+          "sno": "NTPC-500231041",
+          "sna": "四維國凱街口(立天下社區)",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 43,
+          "tot": 44,
+          "last_mday": "20260818T174717",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223040",
+          "sna": "新市二後洲路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 16,
+          "last_mday": "20260818T172404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223071",
+          "sna": "新市六後洲路口",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260818T165505",
+          "last_mday": "20260818T174004",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206077",
-          "sna": "中央公園(莊園街)",
-          "sarea": "土城區",
+          "sno": "NTPC-500223048",
+          "sna": "輕軌竿蓁林站",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260818T170702",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260818T174303",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206045",
-          "sna": "青隆青福街口",
-          "sarea": "土城區",
+          "sno": "NTPC-500234042",
+          "sna": "鳳七鶯歌路口",
+          "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260818T165403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500213001",
-          "sna": "菁桐老街",
-          "sarea": "平溪區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260818T125503",
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260818T172503",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500213001",
-          "sna": "菁桐老街",
-          "sarea": "平溪區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260818T125503",
-          "sample_count": 4
-        }
-      ],
+      "stations": [],
       "sample_count": 4
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500213001",
-          "sna": "菁桐老街",
-          "sarea": "平溪區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 27,
-          "last_mday": "20260818T125503",
-          "sample_count": 6
-        }
-      ],
+      "stations": [],
       "sample_count": 6
     }
   }
