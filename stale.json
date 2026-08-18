@@ -1,12 +1,78 @@
 {
-  "updated_at": "2026-08-18T21:08:11+08:00",
-  "updated_at_display": "2026-08-18 21:08:11",
+  "updated_at": "2026-08-18T21:56:50+08:00",
+  "updated_at_display": "2026-08-18 21:56:50",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500202003",
+          "sna": "櫻花水車公園",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260818T175504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260818T183104",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229118",
+          "sna": "文中三平面停車場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 40,
+          "tot": 42,
+          "last_mday": "20260818T204118",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231049",
+          "sna": "東大街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260818T205603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223013",
+          "sna": "文化機車立體停車場",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 34,
+          "last_mday": "20260818T210103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500233056",
+          "sna": "蘆洲環河公園",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260818T201403",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "2h": {
       "stations": [
@@ -31,46 +97,25 @@
           "tot": 10,
           "last_mday": "20260818T183104",
           "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500206081",
-          "sna": "裕華街",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260818T184403",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231051",
-          "sna": "中華路379巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260818T180942",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223022",
-          "sna": "新市二路四段",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260818T192403",
-          "sample_count": 3
         }
       ],
       "sample_count": 3
     },
     "4h": {
-      "stations": [],
-      "sample_count": 7
+      "stations": [
+        {
+          "sno": "NTPC-500202003",
+          "sna": "櫻花水車公園",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260818T175504",
+          "sample_count": 6
+        }
+      ],
+      "sample_count": 6
     }
   }
 }
