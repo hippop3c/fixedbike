@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T05:38:46+08:00",
-  "updated_at_display": "2026-08-19 05:38:46",
+  "updated_at": "2026-08-19T05:58:28+08:00",
+  "updated_at_display": "2026-08-19 05:58:28",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,7 @@
           "bemp": 28,
           "tot": 29,
           "last_mday": "20260818T225002",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500203074",
@@ -25,7 +25,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260819T025318",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500203113",
@@ -36,7 +36,7 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260819T010504",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500203105",
@@ -47,7 +47,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260819T000604",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500206072",
@@ -58,7 +58,7 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260818T232315",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500227113",
@@ -69,7 +69,7 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260818T235202",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229124",
@@ -80,7 +80,7 @@
           "bemp": 44,
           "tot": 45,
           "last_mday": "20260819T010504",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229099",
@@ -91,29 +91,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260818T223004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229001",
-          "sna": "捷運幸福站",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 56,
-          "tot": 58,
-          "last_mday": "20260819T021602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229086",
-          "sna": "頭前國小(化成路)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260819T041816",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218197",
@@ -124,18 +102,7 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260819T045303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218188",
-          "sna": "捷運環狀線板橋站(5號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 98,
-          "tot": 99,
-          "last_mday": "20260819T010802",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218036",
@@ -146,7 +113,7 @@
           "bemp": 52,
           "tot": 53,
           "last_mday": "20260819T034002",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218127",
@@ -157,18 +124,7 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260819T015004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216070",
-          "sna": "文化廣場",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260818T232603",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231051",
@@ -179,7 +135,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260819T012503",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500214058",
@@ -190,7 +146,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260818T214103",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500214075",
@@ -201,7 +157,7 @@
           "bemp": 17,
           "tot": 22,
           "last_mday": "20260819T005702",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223053",
@@ -212,10 +168,10 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260819T034515",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "2h": {
       "stations": [
@@ -308,28 +264,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500229001",
-          "sna": "捷運幸福站",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 56,
-          "tot": 58,
-          "last_mday": "20260819T021602",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500218188",
-          "sna": "捷運環狀線板橋站(5號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 98,
-          "tot": 99,
-          "last_mday": "20260819T010802",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500218036",
           "sna": "新北市立圖書館總館",
           "sarea": "板橋區",
@@ -349,17 +283,6 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260819T015004",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500216070",
-          "sna": "文化廣場",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260818T232603",
           "sample_count": 4
         },
         {
@@ -489,25 +412,14 @@
           "sample_count": 8
         },
         {
-          "sno": "NTPC-500218188",
-          "sna": "捷運環狀線板橋站(5號出口)",
+          "sno": "NTPC-500218127",
+          "sna": "海山高中(漢生東路)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 98,
-          "tot": 99,
-          "last_mday": "20260819T010802",
-          "sample_count": 8
-        },
-        {
-          "sno": "NTPC-500216070",
-          "sna": "文化廣場",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260818T232603",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260819T015004",
           "sample_count": 8
         },
         {
