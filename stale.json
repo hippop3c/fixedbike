@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T02:13:06+08:00",
-  "updated_at_display": "2026-08-19 02:13:06",
+  "updated_at": "2026-08-19T02:59:22+08:00",
+  "updated_at_display": "2026-08-19 02:59:22",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -35,17 +35,6 @@
           "sbi": 1,
           "bemp": 27,
           "tot": 28,
-          "last_mday": "20260819T000604",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203074",
-          "sna": "元富一街/仁義街79巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
           "last_mday": "20260819T000604",
           "sample_count": 2
         },
@@ -127,14 +116,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227003",
-          "sna": "中興寶橋路口",
+          "sno": "NTPC-500227075",
+          "sna": "北新新生街口",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 60,
-          "tot": 61,
-          "last_mday": "20260819T010504",
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260819T014317",
           "sample_count": 2
         },
         {
@@ -204,6 +193,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500218217",
+          "sna": "亞東醫院",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 60,
+          "tot": 61,
+          "last_mday": "20260819T014602",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500218188",
           "sna": "捷運環狀線板橋站(5號出口)",
           "sarea": "板橋區",
@@ -223,6 +223,17 @@
           "bemp": 52,
           "tot": 53,
           "last_mday": "20260818T235916",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218127",
+          "sna": "海山高中(漢生東路)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260819T015004",
           "sample_count": 2
         },
         {
@@ -248,17 +259,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216074",
-          "sna": "扶輪公園(忠孝路)",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260818T234602",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500216070",
           "sna": "文化廣場",
           "sarea": "林口區",
@@ -267,17 +267,6 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260818T232603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231057",
-          "sna": "三俊街65巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260819T011103",
           "sample_count": 2
         },
         {
@@ -418,17 +407,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500203074",
-          "sna": "元富一街/仁義街79巷口",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260819T000604",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500203105",
           "sna": "興德路134號(前)",
           "sarea": "三重區",
@@ -459,6 +437,28 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260818T232315",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500206012",
+          "sna": "學成公園",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 41,
+          "tot": 42,
+          "last_mday": "20260819T005602",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500206066",
+          "sna": "青雲路434巷口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "20260819T005303",
           "sample_count": 4
         },
         {
@@ -539,17 +539,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500216074",
-          "sna": "扶輪公園(忠孝路)",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 33,
-          "last_mday": "20260818T234602",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500216070",
           "sna": "文化廣場",
           "sarea": "林口區",
@@ -569,6 +558,17 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260818T214103",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500214075",
+          "sna": "水蓮山莊",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 22,
+          "last_mday": "20260819T005702",
           "sample_count": 4
         },
         {
@@ -631,6 +631,17 @@
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500205053",
+          "sna": "臺北大學法學院(鳶飛大道)",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260818T225002",
+          "sample_count": 7
+        },
         {
           "sno": "NTPC-500207100",
           "sna": "建二建三路口",
