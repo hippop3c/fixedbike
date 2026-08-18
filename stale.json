@@ -1,52 +1,52 @@
 {
-  "updated_at": "2026-08-18T18:30:12+08:00",
-  "updated_at_display": "2026-08-18 18:30:12",
+  "updated_at": "2026-08-18T18:58:39+08:00",
+  "updated_at_display": "2026-08-18 18:58:39",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500231032",
-          "sna": "俊英街219巷口",
-          "sarea": "樹林區",
+          "sno": "NTPC-500205035",
+          "sna": "臺北大學宿舍(學成路)",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260818T173919",
+          "bemp": 35,
+          "tot": 36,
+          "last_mday": "20260818T180604",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231041",
-          "sna": "四維國凱街口(立天下社區)",
-          "sarea": "樹林區",
+          "sno": "NTPC-500205052",
+          "sna": "臺北大學行政大樓(法商大道)",
+          "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260818T174717",
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260818T180402",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223040",
-          "sna": "新市二後洲路口",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 16,
-          "last_mday": "20260818T172404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223071",
-          "sna": "新市六後洲路口",
-          "sarea": "淡水區",
+          "sno": "NTPC-500202003",
+          "sna": "櫻花水車公園",
+          "sarea": "三芝區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260818T174004",
+          "last_mday": "20260818T175504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231051",
+          "sna": "中華路379巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260818T180942",
           "sample_count": 2
         },
         {
@@ -80,7 +80,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 6
+      "sample_count": 7
     }
   }
 }
