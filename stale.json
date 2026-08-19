@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T01:41:19+08:00",
-  "updated_at_display": "2026-08-20 01:41:19",
+  "updated_at": "2026-08-20T02:00:05+08:00",
+  "updated_at_display": "2026-08-20 02:00:05",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,7 @@
           "bemp": 31,
           "tot": 32,
           "last_mday": "20260819T224604",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500205053",
@@ -25,7 +25,7 @@
           "bemp": 28,
           "tot": 29,
           "last_mday": "20260819T214403",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500206082",
@@ -36,7 +36,7 @@
           "bemp": 27,
           "tot": 28,
           "last_mday": "20260819T224054",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500206014",
@@ -47,7 +47,7 @@
           "bemp": 47,
           "tot": 48,
           "last_mday": "20260820T004019",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500206061",
@@ -58,18 +58,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260820T002702",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206230",
-          "sna": "雲溪廣場(青雲路183巷)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260820T001702",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229099",
@@ -80,7 +69,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260820T005616",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229015",
@@ -91,7 +80,7 @@
           "bemp": 69,
           "tot": 70,
           "last_mday": "20260819T235916",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229119",
@@ -102,7 +91,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260820T005419",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229140",
@@ -113,7 +102,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260819T231702",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229059",
@@ -124,7 +113,7 @@
           "bemp": 45,
           "tot": 46,
           "last_mday": "20260820T000028",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218123",
@@ -135,7 +124,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260819T231304",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223070",
@@ -146,10 +135,10 @@
           "bemp": 28,
           "tot": 30,
           "last_mday": "20260819T233202",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "2h": {
       "stations": [
@@ -187,6 +176,28 @@
           "sample_count": 4
         },
         {
+          "sno": "NTPC-500206061",
+          "sna": "莒光四村停車場",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260820T002702",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500229015",
+          "sna": "捷運新北產業園區站",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 69,
+          "tot": 70,
+          "last_mday": "20260819T235916",
+          "sample_count": 4
+        },
+        {
           "sno": "NTPC-500229140",
           "sna": "福營國中",
           "sarea": "新莊區",
@@ -195,6 +206,17 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260819T231702",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500229059",
+          "sna": "頭前國小",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 45,
+          "tot": 46,
+          "last_mday": "20260820T000028",
           "sample_count": 4
         },
         {
