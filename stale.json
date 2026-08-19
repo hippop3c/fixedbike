@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T09:46:12+08:00",
-  "updated_at_display": "2026-08-19 09:46:12",
+  "updated_at": "2026-08-19T10:58:13+08:00",
+  "updated_at_display": "2026-08-19 10:58:13",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,12 +9,134 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500206045",
+          "sna": "青隆青福街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "20260819T091703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229072",
+          "sna": "昌平國小",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260819T091603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229091",
+          "sna": "福壽昌智路口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 50,
+          "tot": 51,
+          "last_mday": "20260819T085802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218153",
+          "sna": "中山路二段416巷38弄口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260819T093330",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218198",
+          "sna": "田單北街/懷德街201巷(一川社區)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260819T092603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218164",
+          "sna": "聖若望平面停車場",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260819T090204",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231007",
+          "sna": "文林國小(潭興街)",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 42,
+          "tot": 44,
+          "last_mday": "20260819T094102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214068",
+          "sna": "汐萬康寧街口",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 13,
+          "last_mday": "20260819T082504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220020",
+          "sna": "文中一平面停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260819T091805",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223071",
+          "sna": "新市六後洲路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260819T090702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234028",
+          "sna": "礫間停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260819T085904",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     },
     "4h": {
       "stations": [],
-      "sample_count": 6
+      "sample_count": 5
     }
   }
 }
