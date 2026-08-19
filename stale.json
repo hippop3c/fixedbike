@@ -1,12 +1,67 @@
 {
-  "updated_at": "2026-08-19T21:09:05+08:00",
-  "updated_at_display": "2026-08-19 21:09:05",
+  "updated_at": "2026-08-19T21:57:47+08:00",
+  "updated_at_display": "2026-08-19 21:57:47",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260819T201502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206049",
+          "sna": "大安市民活動中心",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260819T205804",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206083",
+          "sna": "捷運土城站(3號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260819T210103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220017",
+          "sna": "台貿三村停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260819T170804",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234018",
+          "sna": "二橋虹橋公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260819T181703",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     },
     "2h": {
       "stations": [
@@ -46,6 +101,17 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260819T170804",
+          "sample_count": 6
+        },
+        {
+          "sno": "NTPC-500234018",
+          "sna": "二橋虹橋公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260819T181703",
           "sample_count": 6
         }
       ],
