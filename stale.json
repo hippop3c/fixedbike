@@ -1,165 +1,53 @@
 {
-  "updated_at": "2026-08-19T17:49:28+08:00",
-  "updated_at_display": "2026-08-19 17:49:28",
+  "updated_at": "2026-08-19T18:29:57+08:00",
+  "updated_at_display": "2026-08-19 18:29:57",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500229091",
-          "sna": "福壽昌智路口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260819T151804",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218176",
-          "sna": "環河西華江六路口(翠亨村社區)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260819T162616",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231044",
-          "sna": "大安文化街口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260819T160816",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214068",
-          "sna": "汐萬康寧街口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260819T112702",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500220020",
-          "sna": "文中一平面停車場",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260819T155903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223022",
-          "sna": "新市二路四段",
-          "sarea": "淡水區",
+          "sno": "NTPC-500209029",
+          "sna": "獅子頭山水匯集廣場",
+          "sarea": "五股區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 24,
           "tot": 25,
-          "last_mday": "20260819T131802",
+          "last_mday": "20260819T172503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214019",
+          "sna": "崇德橋東活動中心",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260819T173117",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220017",
+          "sna": "台貿三村停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260819T170804",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500229091",
-          "sna": "福壽昌智路口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260819T151804",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231044",
-          "sna": "大安文化街口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260819T160816",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500214068",
-          "sna": "汐萬康寧街口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260819T112702",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500220020",
-          "sna": "文中一平面停車場",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260819T155903",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223022",
-          "sna": "新市二路四段",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260819T131802",
-          "sample_count": 3
-        }
-      ],
+      "stations": [],
       "sample_count": 3
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500214068",
-          "sna": "汐萬康寧街口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260819T112702",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500223022",
-          "sna": "新市二路四段",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260819T131802",
-          "sample_count": 5
-        }
-      ],
-      "sample_count": 5
+      "stations": [],
+      "sample_count": 6
     }
   }
 }
