@@ -1,10 +1,165 @@
 {
-  "updated_at": "2026-08-19T14:46:09+08:00",
-  "updated_at_display": "2026-08-19 14:46:09",
+  "updated_at": "2026-08-19T15:39:16+08:00",
+  "updated_at_display": "2026-08-19 15:39:16",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500203037",
+          "sna": "先嗇宮",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260819T135502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209029",
+          "sna": "獅子頭山水匯集廣場",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260819T135603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201022",
+          "sna": "頂罟公園",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260819T131803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206100",
+          "sna": "捷運媽祖田站",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260819T141102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227121",
+          "sna": "寶高路120巷口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260819T144103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229036",
+          "sna": "立泰里(中環路二段)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260819T141504",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229074",
+          "sna": "雙鳳公園",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 11,
+          "last_mday": "20260819T142103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218152",
+          "sna": "力行新村",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260819T122502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216051",
+          "sna": "林口區停三停車場",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260819T141102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216095",
+          "sna": "民族忠孝路口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260819T125402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231044",
+          "sna": "大安文化街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260819T141703",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214068",
+          "sna": "汐萬康寧街口",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260819T112702",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223038",
+          "sna": "崁頂林子福德宮",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260819T144404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223022",
+          "sna": "新市二路四段",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260819T131802",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     },
     "2h": {
