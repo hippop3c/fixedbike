@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T07:36:48+08:00",
-  "updated_at_display": "2026-08-20 07:36:48",
+  "updated_at": "2026-08-20T07:59:10+08:00",
+  "updated_at_display": "2026-08-20 07:59:10",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,6 +14,17 @@
           "bemp": 28,
           "tot": 29,
           "last_mday": "20260819T214403",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234048",
+          "sna": "光明育智路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260820T065902",
           "sample_count": 3
         }
       ],
@@ -30,10 +41,10 @@
           "bemp": 28,
           "tot": 29,
           "last_mday": "20260819T214403",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     },
     "4h": {
       "stations": [
