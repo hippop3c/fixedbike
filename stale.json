@@ -1,181 +1,16 @@
 {
-  "updated_at": "2026-08-19T20:01:06+08:00",
-  "updated_at_display": "2026-08-19 20:01:06",
+  "updated_at": "2026-08-19T21:09:05+08:00",
+  "updated_at_display": "2026-08-19 21:09:05",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206061",
-          "sna": "莒光四村停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260819T185215",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206079",
-          "sna": "金城路三段156號前",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260819T190421",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229140",
-          "sna": "福營國中",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260819T184603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229036",
-          "sna": "立泰里(中環路二段)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260819T181218",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216095",
-          "sna": "民族忠孝路口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260819T182304",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231053",
-          "sna": "中正路248巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260819T190203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231058",
-          "sna": "俊興俊安街口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260819T191503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231056",
-          "sna": "獇寮公園",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260819T192717",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214055",
-          "sna": "茄苳茄福街口",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 22,
-          "tot": 24,
-          "last_mday": "20260819T192004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500220017",
-          "sna": "台貿三村停車場",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260819T170804",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234018",
-          "sna": "二橋虹橋公園",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260819T181703",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234032",
-          "sna": "建國國小",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260819T190103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234006",
-          "sna": "新北市立鶯歌高級工商職業學校",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 55,
-          "tot": 56,
-          "last_mday": "20260819T191419",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500229036",
-          "sna": "立泰里(中環路二段)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "20260819T181218",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500216095",
-          "sna": "民族忠孝路口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260819T182304",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500220017",
           "sna": "台貿三村停車場",
           "sarea": "泰山區",
@@ -184,7 +19,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260819T170804",
-          "sample_count": 4
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234018",
@@ -195,14 +30,26 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260819T181703",
-          "sample_count": 4
+          "sample_count": 3
         }
       ],
-      "sample_count": 4
+      "sample_count": 3
     },
     "4h": {
-      "stations": [],
-      "sample_count": 7
+      "stations": [
+        {
+          "sno": "NTPC-500220017",
+          "sna": "台貿三村停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260819T170804",
+          "sample_count": 6
+        }
+      ],
+      "sample_count": 6
     }
   }
 }
