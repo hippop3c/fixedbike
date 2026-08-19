@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T04:29:20+08:00",
-  "updated_at_display": "2026-08-20 04:29:20",
+  "updated_at": "2026-08-20T04:56:58+08:00",
+  "updated_at_display": "2026-08-20 04:56:58",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -25,17 +25,6 @@
           "bemp": 43,
           "tot": 44,
           "last_mday": "20260820T023203",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500205035",
-          "sna": "臺北大學宿舍(學成路)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260820T014103",
           "sample_count": 2
         },
         {
@@ -138,6 +127,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500229139",
+          "sna": "思源路593巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260820T041403",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500229015",
           "sna": "捷運新北產業園區站",
           "sarea": "新莊區",
@@ -171,14 +171,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218123",
-          "sna": "黃石中繼市場",
+          "sno": "NTPC-500218005",
+          "sna": "捷運亞東醫院站(2號出口)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260819T231304",
+          "bemp": 49,
+          "tot": 52,
+          "last_mday": "20260820T035303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218097",
+          "sna": "捷運府中站(3號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 68,
+          "tot": 69,
+          "last_mday": "20260820T035802",
           "sample_count": 2
         },
         {
@@ -212,17 +223,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260820T021117",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214009",
-          "sna": "汐科火車站(北)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 73,
-          "tot": 76,
-          "last_mday": "20260820T032503",
           "sample_count": 2
         },
         {
@@ -261,17 +261,6 @@
           "bemp": 43,
           "tot": 44,
           "last_mday": "20260820T023203",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500205035",
-          "sna": "臺北大學宿舍(學成路)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260820T014103",
           "sample_count": 4
         },
         {
@@ -341,6 +330,17 @@
           "sample_count": 4
         },
         {
+          "sno": "NTPC-500206230",
+          "sna": "雲溪廣場(青雲路183巷)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T031703",
+          "sample_count": 4
+        },
+        {
           "sno": "NTPC-500227071",
           "sna": "寶中寶橋路口",
           "sarea": "新店區",
@@ -382,17 +382,6 @@
           "bemp": 45,
           "tot": 46,
           "last_mday": "20260820T000028",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500218123",
-          "sna": "黃石中繼市場",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260819T231304",
           "sample_count": 4
         },
         {
@@ -478,6 +467,17 @@
           "sample_count": 8
         },
         {
+          "sno": "NTPC-500206014",
+          "sna": "捷運土城站(2號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 47,
+          "tot": 48,
+          "last_mday": "20260820T004019",
+          "sample_count": 8
+        },
+        {
           "sno": "NTPC-500206061",
           "sna": "莒光四村停車場",
           "sarea": "土城區",
@@ -489,6 +489,17 @@
           "sample_count": 8
         },
         {
+          "sno": "NTPC-500229099",
+          "sna": "廣停一機車停車場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T005616",
+          "sample_count": 8
+        },
+        {
           "sno": "NTPC-500229059",
           "sna": "頭前國小",
           "sarea": "新莊區",
@@ -497,17 +508,6 @@
           "bemp": 45,
           "tot": 46,
           "last_mday": "20260820T000028",
-          "sample_count": 8
-        },
-        {
-          "sno": "NTPC-500218123",
-          "sna": "黃石中繼市場",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260819T231304",
           "sample_count": 8
         },
         {
