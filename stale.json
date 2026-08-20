@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-21T05:55:46+08:00",
-  "updated_at_display": "2026-08-21 05:55:46",
+  "updated_at": "2026-08-21T06:30:07+08:00",
+  "updated_at_display": "2026-08-21 06:30:07",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500205055",
-          "sna": "臺北大學公共事務大樓(公政大道)",
+          "sno": "NTPC-500205010",
+          "sna": "海洋公園",
           "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 32,
-          "tot": 34,
-          "last_mday": "20260821T045116",
+          "bemp": 40,
+          "tot": 41,
+          "last_mday": "20260821T054803",
           "sample_count": 2
         },
         {
@@ -28,14 +28,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500209003",
-          "sna": "五股工商立體停車場",
-          "sarea": "五股區",
+          "sno": "NTPC-500207080",
+          "sna": "建六中正路口",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260821T045003",
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260821T052803",
           "sample_count": 2
         },
         {
@@ -47,28 +47,6 @@
           "bemp": 34,
           "tot": 35,
           "last_mday": "20260821T011902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206034",
-          "sna": "中華裕華街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260821T051704",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206084",
-          "sna": "金城峯廷街口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 6,
-          "tot": 9,
-          "last_mday": "20260821T051904",
           "sample_count": 2
         },
         {
@@ -94,17 +72,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500214040",
-          "sna": "伯爵山莊第二期(康寧街)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 15,
-          "last_mday": "20260821T052403",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500214056",
           "sna": "春之霖社區",
           "sarea": "汐止區",
@@ -127,14 +94,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500212005",
-          "sna": "石碇高中",
-          "sarea": "石碇區",
+          "sno": "NTPC-500223071",
+          "sna": "新市六後洲路口",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
-          "tot": 18,
-          "last_mday": "20260821T035103",
+          "tot": 15,
+          "last_mday": "20260821T052503",
           "sample_count": 2
         }
       ],
@@ -207,17 +174,6 @@
           "tot": 20,
           "last_mday": "20260820T222802",
           "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500212005",
-          "sna": "石碇高中",
-          "sarea": "石碇區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 18,
-          "last_mday": "20260821T035103",
-          "sample_count": 4
         }
       ],
       "sample_count": 4
@@ -233,6 +189,28 @@
           "bemp": 34,
           "tot": 35,
           "last_mday": "20260821T011902",
+          "sample_count": 7
+        },
+        {
+          "sno": "NTPC-500229104",
+          "sna": "五工路68巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 25,
+          "last_mday": "20260821T015904",
+          "sample_count": 7
+        },
+        {
+          "sno": "NTPC-500229072",
+          "sna": "昌平國小",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260821T022102",
           "sample_count": 7
         },
         {
