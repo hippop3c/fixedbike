@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-08-20T10:44:05+08:00",
-  "updated_at_display": "2026-08-20 10:44:05",
+  "updated_at": "2026-08-20T11:33:11+08:00",
+  "updated_at_display": "2026-08-20 11:33:11",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500205032",
+          "sna": "大義三樹路口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260820T103104",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203141",
+          "sna": "新北大道一段57巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260820T095203",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500209011",
           "sna": "德泰公園",
@@ -14,6 +36,61 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260820T080903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201026",
+          "sna": "訊庄埔公園",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T101502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206230",
+          "sna": "雲溪廣場(青雲路183巷)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T101519",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227044",
+          "sna": "安居公教住宅",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260820T102020",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229094",
+          "sna": "台北醫院(民樂街)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260820T103022",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229099",
+          "sna": "廣停一機車停車場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T102304",
           "sample_count": 2
         },
         {
@@ -39,6 +116,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500218181",
+          "sna": "中山國小地下停車場",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "20260820T103704",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500218197",
           "sna": "大觀路一段75巷",
           "sarea": "板橋區",
@@ -50,14 +138,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500214072",
-          "sna": "濱湖大第(康寧街)",
-          "sarea": "汐止區",
+          "sno": "NTPC-500218178",
+          "sna": "懷德街233巷(環翠社區)",
+          "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260820T081603",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260820T102104",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218155",
+          "sna": "板橋435藝文特區",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260820T101004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231056",
+          "sna": "獇寮公園",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260820T095003",
           "sample_count": 2
         },
         {
@@ -72,14 +182,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500233051",
-          "sna": "民族路257巷/民族路327巷",
-          "sarea": "蘆洲區",
+          "sno": "NTPC-500234031",
+          "sna": "中正一仁愛路口",
+          "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260820T090902",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T100403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234050",
+          "sna": "鳳鳴機器人公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260820T100403",
           "sample_count": 2
         }
       ],
@@ -96,7 +217,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260820T080903",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229091",
@@ -107,7 +228,7 @@
           "bemp": 50,
           "tot": 51,
           "last_mday": "20260820T093120",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229036",
@@ -118,7 +239,7 @@
           "bemp": 24,
           "tot": 25,
           "last_mday": "20260820T091704",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218197",
@@ -129,18 +250,7 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260820T091603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214072",
-          "sna": "濱湖大第(康寧街)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260820T081603",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500220023",
@@ -151,21 +261,10 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260820T093404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500233051",
-          "sna": "民族路257巷/民族路327巷",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260820T090902",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "4h": {
       "stations": [],
