@@ -1,32 +1,10 @@
 {
-  "updated_at": "2026-08-21T04:47:11+08:00",
-  "updated_at_display": "2026-08-21 04:47:11",
+  "updated_at": "2026-08-21T05:29:03+08:00",
+  "updated_at_display": "2026-08-21 05:29:03",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500205047",
-          "sna": "國慶學成路口",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260821T011117",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500205029",
-          "sna": "學勤大觀路口",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260821T010404",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500205057",
           "sna": "臺北大學社科院(公政大道)",
@@ -50,14 +28,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227071",
-          "sna": "寶中寶橋路口",
+          "sno": "NTPC-500227035",
+          "sna": "新北市立圖書館新店分館",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260821T035303",
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260821T041803",
           "sample_count": 2
         },
         {
@@ -94,17 +72,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229117",
-          "sna": "龍安福營路口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260821T032815",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500231034",
           "sna": "八德街東豐街口",
           "sarea": "樹林區",
@@ -113,17 +80,6 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260821T002603",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210003",
-          "sna": "永平高中",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260821T034417",
           "sample_count": 2
         },
         {
@@ -138,17 +94,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500214046",
-          "sna": "汐止國民運動中心",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 12,
-          "last_mday": "20260821T015202",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500214072",
           "sna": "濱湖大第(康寧街)",
           "sarea": "汐止區",
@@ -157,28 +102,6 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260820T222802",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223041",
-          "sna": "捷運淡水站(中正鼻頭街口)",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260821T033304",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223084",
-          "sna": "淡水中正路停車場",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260821T014703",
           "sample_count": 2
         },
         {
@@ -198,25 +121,14 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500205047",
-          "sna": "國慶學成路口",
+          "sno": "NTPC-500205057",
+          "sna": "臺北大學社科院(公政大道)",
           "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260821T011117",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500205029",
-          "sna": "學勤大觀路口",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260821T010404",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260821T031103",
           "sample_count": 4
         },
         {
@@ -286,17 +198,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500214046",
-          "sna": "汐止國民運動中心",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 12,
-          "last_mday": "20260821T015202",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500214072",
           "sna": "濱湖大第(康寧街)",
           "sarea": "汐止區",
@@ -306,23 +207,23 @@
           "tot": 20,
           "last_mday": "20260820T222802",
           "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500223084",
-          "sna": "淡水中正路停車場",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260821T014703",
-          "sample_count": 4
         }
       ],
       "sample_count": 4
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260821T011902",
+          "sample_count": 7
+        },
         {
           "sno": "NTPC-500229065",
           "sna": "宏匯思源廣場",
