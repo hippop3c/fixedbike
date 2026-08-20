@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T01:59:28+08:00",
-  "updated_at_display": "2026-08-21 01:59:28",
+  "updated_at": "2026-08-21T02:52:54+08:00",
+  "updated_at_display": "2026-08-21 02:52:54",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -39,14 +39,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227084",
-          "sna": "龜山活動中心",
-          "sarea": "新店區",
+          "sno": "NTPC-500201017",
+          "sna": "商港公園(商港八商港一路口)",
+          "sarea": "八里區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 7,
-          "tot": 8,
-          "last_mday": "20260821T002504",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260821T013303",
           "sample_count": 2
         },
         {
@@ -61,17 +61,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229022",
-          "sna": "捷運頭前庄站(1號出口)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 89,
-          "tot": 90,
-          "last_mday": "20260821T010702",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500229117",
           "sna": "龍安福營路口",
           "sarea": "新莊區",
@@ -80,17 +69,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260820T224702",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218158",
-          "sna": "萬板高架橋下停車場",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260820T231404",
           "sample_count": 2
         },
         {
@@ -116,6 +94,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500214046",
+          "sna": "汐止國民運動中心",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260821T015202",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500214072",
           "sna": "濱湖大第(康寧街)",
           "sarea": "汐止區",
@@ -124,6 +113,17 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260820T222802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223084",
+          "sna": "淡水中正路停車場",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260821T014703",
           "sample_count": 2
         },
         {
@@ -152,8 +152,119 @@
       "sample_count": 2
     },
     "2h": {
-      "stations": [],
-      "sample_count": 4
+      "stations": [
+        {
+          "sno": "NTPC-500205047",
+          "sna": "國慶學成路口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260821T011117",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500205029",
+          "sna": "學勤大觀路口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260821T010404",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260821T011902",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500229065",
+          "sna": "宏匯思源廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260820T230202",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500229117",
+          "sna": "龍安福營路口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T224702",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500231034",
+          "sna": "八德街東豐街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260821T002603",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500214056",
+          "sna": "春之霖社區",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260820T150202",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500214072",
+          "sna": "濱湖大第(康寧街)",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260820T222802",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500223063",
+          "sna": "輕軌紅樹林站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 47,
+          "tot": 48,
+          "last_mday": "20260821T010503",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234006",
+          "sna": "新北市立鶯歌高級工商職業學校",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 55,
+          "tot": 56,
+          "last_mday": "20260821T011615",
+          "sample_count": 3
+        }
+      ],
+      "sample_count": 3
     },
     "4h": {
       "stations": [],
