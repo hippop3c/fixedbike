@@ -1,30 +1,41 @@
 {
-  "updated_at": "2026-08-20T17:50:24+08:00",
-  "updated_at_display": "2026-08-20 17:50:24",
+  "updated_at": "2026-08-20T18:32:13+08:00",
+  "updated_at_display": "2026-08-20 18:32:13",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500205033",
-          "sna": "中園國小(民權街)",
+          "sno": "NTPC-500205035",
+          "sna": "臺北大學宿舍(學成路)",
           "sarea": "三峽區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260820T162903",
+          "bemp": 35,
+          "tot": 36,
+          "last_mday": "20260820T174504",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500205016",
-          "sna": "中華愛國路口",
-          "sarea": "三峽區",
+          "sno": "NTPC-500203005",
+          "sna": "中興橋(環河南路254巷口)",
+          "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260820T165517",
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260820T172817",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203092",
+          "sna": "仁信段平面停車場",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260820T171503",
           "sample_count": 2
         },
         {
@@ -39,6 +50,39 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500203099",
+          "sna": "永德市民活動中心",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260820T171816",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203091",
+          "sna": "群光公園",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T170902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203135",
+          "sna": "重新橋第1市民活動中心",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T173503",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500207086",
           "sna": "和城停車場",
           "sarea": "中和區",
@@ -50,14 +94,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500207092",
-          "sna": "景新立體停車場",
+          "sno": "NTPC-500207019",
+          "sna": "圓通錦和路口",
           "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260820T165602",
+          "bemp": 53,
+          "tot": 54,
+          "last_mday": "20260820T172218",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207116",
+          "sna": "安和安樂路口",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T174104",
           "sample_count": 2
         },
         {
@@ -72,6 +127,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500216053",
+          "sna": "醒吾科技大學(粉寮路)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260820T174203",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500214056",
           "sna": "春之霖社區",
           "sarea": "汐止區",
@@ -81,23 +147,23 @@
           "tot": 11,
           "last_mday": "20260820T150202",
           "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214052",
-          "sna": "長興橋",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260820T161603",
-          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500203074",
+          "sna": "元富一街/仁義街79巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260820T162403",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500207086",
           "sna": "和城停車場",
@@ -145,7 +211,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260820T142902",
-          "sample_count": 5
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500201026",
@@ -156,10 +222,10 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260820T142902",
-          "sample_count": 5
+          "sample_count": 6
         }
       ],
-      "sample_count": 5
+      "sample_count": 6
     }
   }
 }
