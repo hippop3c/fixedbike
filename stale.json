@@ -1,76 +1,75 @@
 {
-  "updated_at": "2026-08-21T07:33:14+08:00",
-  "updated_at_display": "2026-08-21 07:33:14",
+  "updated_at": "2026-08-21T07:59:52+08:00",
+  "updated_at_display": "2026-08-21 07:59:52",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500218033",
-          "sna": "莒光國小",
+          "sno": "NTPC-500205007",
+          "sna": "中園國小",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260821T071503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500202008",
+          "sna": "三芝兒三公園(三民街)",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260821T065503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206059",
+          "sna": "金城路三段52巷",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260821T072004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218113",
+          "sna": "三民翠華街口",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 35,
-          "tot": 37,
-          "last_mday": "20260821T064903",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260821T072602",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500214040",
-          "sna": "伯爵山莊第二期(康寧街)",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260821T063601",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223071",
-          "sna": "新市六後洲路口",
+          "sno": "NTPC-500223067",
+          "sna": "新市二路四段230巷",
           "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260821T052503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223068",
-          "sna": "濱海路二段/濱海路二段202巷",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260821T064803",
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260821T070702",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500223071",
-          "sna": "新市六後洲路口",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260821T052503",
-          "sample_count": 4
-        }
-      ],
+      "stations": [],
       "sample_count": 4
     },
     "4h": {
       "stations": [],
-      "sample_count": 7
+      "sample_count": 8
     }
   }
 }
