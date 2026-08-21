@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T06:00:01+08:00",
-  "updated_at_display": "2026-08-22 06:00:01",
+  "updated_at": "2026-08-22T06:34:37+08:00",
+  "updated_at_display": "2026-08-22 06:34:37",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,17 +14,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260822T001803",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227122",
-          "sna": "民權二十張路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260822T011504",
           "sample_count": 3
         },
         {
@@ -42,12 +31,35 @@
       "sample_count": 3
     },
     "2h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500227132",
+          "sna": "北新路三段171巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260822T001803",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500223058",
+          "sna": "衛教公園",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260822T022503",
+          "sample_count": 4
+        }
+      ],
       "sample_count": 4
     },
     "4h": {
       "stations": [],
-      "sample_count": 8
+      "sample_count": 9
     }
   }
 }
