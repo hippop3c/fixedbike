@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-08-22T01:11:47+08:00",
-  "updated_at_display": "2026-08-22 01:11:47",
+  "updated_at": "2026-08-22T01:47:23+08:00",
+  "updated_at_display": "2026-08-22 01:47:23",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500207077",
+          "sna": "中山橋安街口",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260822T005003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227132",
+          "sna": "北新路三段171巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260822T001803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227094",
+          "sna": "輕軌新和國小站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260821T231304",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229022",
+          "sna": "捷運頭前庄站(1號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 87,
+          "tot": 90,
+          "last_mday": "20260822T010803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500212004",
+          "sna": "靜安碇南路口",
+          "sarea": "石碇區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260821T133416",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     },
     "2h": {
