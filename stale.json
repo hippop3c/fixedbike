@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-22T03:14:35+08:00",
-  "updated_at_display": "2026-08-22 03:14:35",
+  "updated_at": "2026-08-22T03:41:24+08:00",
+  "updated_at_display": "2026-08-22 03:41:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500205018",
-          "sna": "學成大義路口(學成路一)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260822T022503",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500207077",
           "sna": "中山橋安街口",
@@ -25,6 +14,17 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260822T005003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207007",
+          "sna": "景安板南路口",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 38,
+          "tot": 39,
+          "last_mday": "20260822T030902",
           "sample_count": 2
         },
         {
@@ -61,6 +61,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500229125",
+          "sna": "台水新莊服務所",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 35,
+          "tot": 36,
+          "last_mday": "20260822T023503",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500229022",
           "sna": "捷運頭前庄站(1號出口)",
           "sarea": "新莊區",
@@ -80,6 +91,17 @@
           "bemp": 23,
           "tot": 24,
           "last_mday": "20260822T014302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218084",
+          "sna": "捷運府中站(1號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 89,
+          "tot": 91,
+          "last_mday": "20260822T030204",
           "sample_count": 2
         },
         {
@@ -105,6 +127,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500214046",
+          "sna": "汐止國民運動中心",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260822T024303",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500223058",
           "sna": "衛教公園",
           "sarea": "淡水區",
@@ -113,17 +146,6 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260822T022503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500212004",
-          "sna": "靜安碇南路口",
-          "sarea": "石碇區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260821T133416",
           "sample_count": 2
         }
       ],
@@ -140,7 +162,7 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260822T005003",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227132",
@@ -151,7 +173,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260822T001803",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227122",
@@ -162,7 +184,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260822T011504",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500227094",
@@ -173,7 +195,7 @@
           "bemp": 22,
           "tot": 23,
           "last_mday": "20260821T231304",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500229022",
@@ -184,7 +206,7 @@
           "bemp": 87,
           "tot": 90,
           "last_mday": "20260822T010803",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500229055",
@@ -195,7 +217,7 @@
           "bemp": 23,
           "tot": 24,
           "last_mday": "20260822T014302",
-          "sample_count": 3
+          "sample_count": 4
         },
         {
           "sno": "NTPC-500218021",
@@ -206,25 +228,14 @@
           "bemp": 98,
           "tot": 99,
           "last_mday": "20260822T011303",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500212004",
-          "sna": "靜安碇南路口",
-          "sarea": "石碇區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260821T133416",
-          "sample_count": 3
+          "sample_count": 4
         }
       ],
-      "sample_count": 3
+      "sample_count": 4
     },
     "4h": {
       "stations": [],
-      "sample_count": 6
+      "sample_count": 7
     }
   }
 }
