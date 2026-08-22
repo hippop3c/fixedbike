@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-08-23T07:21:49+08:00",
-  "updated_at_display": "2026-08-23 07:21:49",
+  "updated_at": "2026-08-23T07:46:45+08:00",
+  "updated_at_display": "2026-08-23 07:46:45",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500206058",
+          "sna": "和平路105號",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 7,
+          "tot": 10,
+          "last_mday": "20260823T062203",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500217004",
           "sna": "國中碇坪路二段口",
@@ -14,6 +25,17 @@
           "bemp": 18,
           "tot": 19,
           "last_mday": "20260823T060117",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500227113",
+          "sna": "新北捷運環狀線南機廠",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260823T064304",
           "sample_count": 3
         },
         {
@@ -36,17 +58,6 @@
           "bemp": 34,
           "tot": 36,
           "last_mday": "20260823T061602",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500216048",
-          "sna": "文化一路一段190巷口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260823T044617",
           "sample_count": 3
         },
         {
@@ -92,6 +103,17 @@
           "tot": 12,
           "last_mday": "20260823T055916",
           "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234030",
+          "sna": "育英建國路口",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260823T062203",
+          "sample_count": 3
         }
       ],
       "sample_count": 3
@@ -107,17 +129,6 @@
           "bemp": 55,
           "tot": 57,
           "last_mday": "20260822T235402",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500216048",
-          "sna": "文化一路一段190巷口",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260823T044617",
           "sample_count": 5
         },
         {
