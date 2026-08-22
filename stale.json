@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-08-22T12:49:53+08:00",
-  "updated_at_display": "2026-08-22 12:49:53",
+  "updated_at": "2026-08-22T13:28:52+08:00",
+  "updated_at_display": "2026-08-22 13:28:52",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500203080",
+          "sna": "元信二仁愛街口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260822T124005",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500206072",
           "sna": "中華路一段70巷口",
@@ -14,61 +25,6 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260822T113602",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206005",
-          "sna": "清和里(青雲路)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 36,
-          "tot": 37,
-          "last_mday": "20260822T112802",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206081",
-          "sna": "裕華街",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260822T084403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227090",
-          "sna": "輕軌耕莘安康院區站",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260822T114304",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218178",
-          "sna": "懷德街233巷(環翠社區)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260822T114403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218047",
-          "sna": "時光公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260822T104204",
           "sample_count": 2
         },
         {
@@ -83,36 +39,47 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231022",
-          "sna": "中山八德街口",
+          "sno": "NTPC-500231046",
+          "sna": "中華路12巷口",
           "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260822T113520",
+          "last_mday": "20260822T122703",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223079",
-          "sna": "程氏古厝",
+          "sno": "NTPC-500231075",
+          "sna": "四維八德街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260822T124358",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223040",
+          "sna": "新市二後洲路口",
           "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260822T121418",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234031",
+          "sna": "中正一仁愛路口",
+          "sarea": "鶯歌區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260822T112502",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234023",
-          "sna": "建國中正一路口(北鶯社區)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260822T091802",
+          "last_mday": "20260822T122302",
           "sample_count": 2
         }
       ],
@@ -121,36 +88,25 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500206081",
-          "sna": "裕華街",
+          "sno": "NTPC-500206072",
+          "sna": "中華路一段70巷口",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260822T084403",
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260822T113602",
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500218047",
-          "sna": "時光公園",
+          "sno": "NTPC-500218198",
+          "sna": "田單北街/懷德街201巷(一川社區)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260822T104204",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234023",
-          "sna": "建國中正一路口(北鶯社區)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260822T091802",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260822T115304",
           "sample_count": 3
         }
       ],
@@ -158,7 +114,7 @@
     },
     "4h": {
       "stations": [],
-      "sample_count": 5
+      "sample_count": 6
     }
   }
 }
