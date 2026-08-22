@@ -1,53 +1,20 @@
 {
-  "updated_at": "2026-08-22T07:59:34+08:00",
-  "updated_at_display": "2026-08-22 07:59:34",
+  "updated_at": "2026-08-22T09:45:01+08:00",
+  "updated_at_display": "2026-08-22 09:45:01",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206088",
-          "sna": "學府中正路口(A+社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260822T061904",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500206087",
-          "sna": "青雲路411巷口(樂晴市樂郡區社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 38,
-          "tot": 39,
-          "last_mday": "20260822T065403",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500226006",
-          "sna": "瑞芳運動公園",
-          "sarea": "瑞芳區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260822T063102",
-          "sample_count": 3
-        }
-      ],
-      "sample_count": 3
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     },
     "2h": {
       "stations": [],
-      "sample_count": 5
+      "sample_count": 2
     },
     "4h": {
       "stations": [],
-      "sample_count": 8
+      "sample_count": 6
     }
   }
 }
