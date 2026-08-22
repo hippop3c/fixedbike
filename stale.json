@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T02:32:10+08:00",
-  "updated_at_display": "2026-08-23 02:32:10",
+  "updated_at": "2026-08-23T03:04:17+08:00",
+  "updated_at_display": "2026-08-23 03:04:17",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -39,6 +39,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260823T020403",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500227072",
           "sna": "寶橋路235巷",
           "sarea": "新店區",
@@ -61,6 +72,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500227122",
+          "sna": "民權二十張路口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260823T015903",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500229021",
           "sna": "中港大排願景館",
           "sarea": "新莊區",
@@ -69,6 +91,28 @@
           "bemp": 55,
           "tot": 57,
           "last_mday": "20260822T235402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229096",
+          "sna": "捷運迴龍站(2號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260823T021902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218135",
+          "sna": "捷運江子翠站(2號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 26,
+          "last_mday": "20260823T022302",
           "sample_count": 2
         },
         {
@@ -138,6 +182,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500210029",
+          "sna": "保平永和路一段口",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260823T021519",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500210033",
           "sna": "永貞水源街口",
           "sarea": "永和區",
@@ -168,6 +223,17 @@
           "bemp": 44,
           "tot": 45,
           "last_mday": "20260823T001102",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223041",
+          "sna": "捷運淡水站(中正鼻頭街口)",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 14,
+          "last_mday": "20260823T015818",
           "sample_count": 2
         },
         {
@@ -242,6 +308,61 @@
           "sample_count": 4
         },
         {
+          "sno": "NTPC-500218201",
+          "sna": "民生路二段226巷8弄",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260823T010102",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500218105",
+          "sna": "環河西新月一街口(新月天地社區)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 37,
+          "tot": 38,
+          "last_mday": "20260823T010102",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500218175",
+          "sna": "重慶路89巷",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 13,
+          "last_mday": "20260823T011601",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500231060",
+          "sna": "保安立體停車場",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260823T011304",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500210048",
+          "sna": "中山路一段17巷口",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260823T005419",
+          "sample_count": 4
+        },
+        {
           "sno": "NTPC-500214071",
           "sna": "汐萬路一段343巷",
           "sarea": "汐止區",
@@ -267,7 +388,19 @@
       "sample_count": 4
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500227113",
+          "sna": "新北捷運環狀線南機廠",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260822T230504",
+          "sample_count": 8
+        }
+      ],
       "sample_count": 8
     }
   }
