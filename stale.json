@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-23T04:52:56+08:00",
-  "updated_at_display": "2026-08-23 04:52:56",
+  "updated_at": "2026-08-23T05:23:02+08:00",
+  "updated_at_display": "2026-08-23 05:23:02",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500203122",
-          "sna": "三重重陽公園",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260823T032117",
-          "sample_count": 3
-        },
         {
           "sno": "NTPC-500203136",
           "sna": "集賢三信路口(南側)",
@@ -105,6 +94,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500229025",
+          "sna": "捷運新莊站(2號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 53,
+          "tot": 54,
+          "last_mday": "20260823T041005",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500229096",
           "sna": "捷運迴龍站(2號出口)",
           "sarea": "新莊區",
@@ -113,17 +113,6 @@
           "bemp": 10,
           "tot": 11,
           "last_mday": "20260823T021902",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218135",
-          "sna": "捷運江子翠站(2號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 26,
-          "last_mday": "20260823T022302",
           "sample_count": 3
         },
         {
@@ -138,14 +127,14 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500218201",
-          "sna": "民生路二段226巷8弄",
+          "sno": "NTPC-500218166",
+          "sna": "文聖國小(松柏街50巷)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260823T010102",
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260823T040103",
           "sample_count": 3
         },
         {
@@ -204,6 +193,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500223077",
+          "sna": "聖約翰科技大學",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260823T041703",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500223058",
           "sna": "衛教公園",
           "sarea": "淡水區",
@@ -212,6 +212,28 @@
           "bemp": 12,
           "tot": 14,
           "last_mday": "20260823T034703",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500225006",
+          "sna": "翡翠灣",
+          "sarea": "萬里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 37,
+          "tot": 38,
+          "last_mday": "20260823T041601",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500215006",
+          "sna": "中山溫泉公園",
+          "sarea": "金山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260823T041403",
           "sample_count": 3
         }
       ],
@@ -239,6 +261,17 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260823T012103",
+          "sample_count": 5
+        },
+        {
+          "sno": "NTPC-500206084",
+          "sna": "金城峯廷街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 9,
+          "last_mday": "20260823T031603",
           "sample_count": 5
         },
         {
@@ -297,28 +330,6 @@
           "sample_count": 5
         },
         {
-          "sno": "NTPC-500218135",
-          "sna": "捷運江子翠站(2號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 26,
-          "last_mday": "20260823T022302",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500218201",
-          "sna": "民生路二段226巷8弄",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260823T010102",
-          "sample_count": 5
-        },
-        {
           "sno": "NTPC-500210048",
           "sna": "中山路一段17巷口",
           "sarea": "永和區",
@@ -327,6 +338,17 @@
           "bemp": 10,
           "tot": 11,
           "last_mday": "20260823T005419",
+          "sample_count": 5
+        },
+        {
+          "sno": "NTPC-500210041",
+          "sna": "永成市民活動中心",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260823T031403",
           "sample_count": 5
         },
         {
@@ -379,6 +401,17 @@
           "sample_count": 8
         },
         {
+          "sno": "NTPC-500207080",
+          "sna": "建六中正路口",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260823T012103",
+          "sample_count": 8
+        },
+        {
           "sno": "NTPC-500227072",
           "sna": "寶橋路235巷",
           "sarea": "新店區",
@@ -412,17 +445,6 @@
           "sample_count": 8
         },
         {
-          "sno": "NTPC-500218201",
-          "sna": "民生路二段226巷8弄",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260823T010102",
-          "sample_count": 8
-        },
-        {
           "sno": "NTPC-500210048",
           "sna": "中山路一段17巷口",
           "sarea": "永和區",
@@ -442,6 +464,17 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260822T233203",
+          "sample_count": 8
+        },
+        {
+          "sno": "NTPC-500223074",
+          "sna": "沙崙路216巷口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 20,
+          "last_mday": "20260823T014004",
           "sample_count": 8
         }
       ],
