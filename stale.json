@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T17:03:39+08:00",
-  "updated_at_display": "2026-08-22 17:03:39",
+  "updated_at": "2026-08-22T17:43:14+08:00",
+  "updated_at_display": "2026-08-22 17:43:14",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -28,25 +28,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500203018",
-          "sna": "後竹圍市民活動中心",
-          "sarea": "三重區",
+          "sno": "NTPC-500207075",
+          "sna": "興南路二段231巷口",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 43,
-          "tot": 45,
-          "last_mday": "20260822T155903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203094",
-          "sna": "興穀國小",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 35,
-          "last_mday": "20260822T155002",
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "20260822T165018",
           "sample_count": 2
         },
         {
@@ -58,28 +47,6 @@
           "bemp": 49,
           "tot": 50,
           "last_mday": "20260822T162502",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206004",
-          "sna": "土城仁愛社區公園",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 44,
-          "tot": 45,
-          "last_mday": "20260822T152303",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206051",
-          "sna": "土城國小(興城路)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260822T161603",
           "sample_count": 2
         },
         {
@@ -116,47 +83,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206074",
-          "sna": "明德平面停車場",
+          "sno": "NTPC-500206085",
+          "sna": "永豐路157巷口",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260822T144003",
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260822T165604",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206040",
-          "sna": "立德青雲路口",
+          "sno": "NTPC-500206080",
+          "sna": "金城路二段61巷口(聯邦銀行)",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 48,
-          "tot": 49,
-          "last_mday": "20260822T144316",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206030",
-          "sna": "金城裕民路口(金城舞社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 49,
-          "tot": 50,
-          "last_mday": "20260822T150116",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206059",
-          "sna": "金城路三段52巷",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260822T152804",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260822T165416",
           "sample_count": 2
         },
         {
@@ -168,17 +113,6 @@
           "bemp": 18,
           "tot": 19,
           "last_mday": "20260822T130803",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227106",
-          "sna": "中正路399巷口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260822T161417",
           "sample_count": 2
         },
         {
@@ -226,25 +160,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229074",
-          "sna": "雙鳳公園",
+          "sno": "NTPC-500229103",
+          "sna": "中央昌仁路口",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 11,
-          "last_mday": "20260822T151102",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260822T163802",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229080",
-          "sna": "龍安成德街口",
+          "sno": "NTPC-500229084",
+          "sna": "福德二街35號",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260822T155819",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260822T164004",
           "sample_count": 2
         },
         {
@@ -259,58 +193,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218121",
-          "sna": "信義路163巷口",
+          "sno": "NTPC-500218208",
+          "sna": "南雅西路一段(画世代社區)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260822T144603",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260822T164402",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218027",
-          "sna": "光復高中",
+          "sno": "NTPC-500218190",
+          "sna": "國慶路149巷口",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260822T153318",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218152",
-          "sna": "力行新村",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260822T161503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218170",
-          "sna": "懷石公園",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260822T155804",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218166",
-          "sna": "文聖國小(松柏街50巷)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260822T153718",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260822T165219",
           "sample_count": 2
         },
         {
@@ -336,17 +237,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218067",
-          "sna": "永豐公園活動中心",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 32,
-          "last_mday": "20260822T152804",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500218230",
           "sna": "永豐街120巷2弄懷仁街口",
           "sarea": "板橋區",
@@ -369,17 +259,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218146",
-          "sna": "溪城金門街口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260822T144503",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500218222",
           "sna": "縣民板城路口",
           "sarea": "板橋區",
@@ -391,14 +270,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218011",
-          "sna": "華德公園",
-          "sarea": "板橋區",
+          "sno": "NTPC-500231046",
+          "sna": "中華路12巷口",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 57,
-          "tot": 58,
-          "last_mday": "20260822T161103",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260822T164103",
           "sample_count": 2
         },
         {
@@ -413,36 +292,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231056",
-          "sna": "獇寮公園",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260822T152102",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210035",
-          "sna": "保安保福路二段口",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260822T160017",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500210001",
-          "sna": "名利橋",
+          "sno": "NTPC-500210023",
+          "sna": "雙和橋",
           "sarea": "永和區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 38,
           "tot": 39,
-          "last_mday": "20260822T161503",
+          "last_mday": "20260822T165604",
           "sample_count": 2
         },
         {
@@ -490,6 +347,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500223043",
+          "sna": "濱海路二段202巷",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260822T164204",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500223048",
           "sna": "輕軌竿蓁林站",
           "sarea": "淡水區",
@@ -499,45 +367,23 @@
           "tot": 10,
           "last_mday": "20260822T161603",
           "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234043",
-          "sna": "國際一路112巷口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260822T155804",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234054",
-          "sna": "鳳一鳳吉一街口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260822T155503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234064",
-          "sna": "鶯歌山水步道停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260822T160202",
-          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500203119",
+          "sna": "三張地下停車場",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260822T154703",
+          "sample_count": 4
+        },
         {
           "sno": "NTPC-500206048",
           "sna": "延吉街111巷1弄",
@@ -572,39 +418,6 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500206074",
-          "sna": "明德平面停車場",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260822T144003",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500206040",
-          "sna": "立德青雲路口",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 48,
-          "tot": 49,
-          "last_mday": "20260822T144316",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500206030",
-          "sna": "金城裕民路口(金城舞社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 49,
-          "tot": 50,
-          "last_mday": "20260822T150116",
-          "sample_count": 4
-        },
-        {
           "sno": "NTPC-500217004",
           "sna": "國中碇坪路二段口",
           "sarea": "坪林區",
@@ -616,14 +429,14 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500229074",
-          "sna": "雙鳳公園",
-          "sarea": "新莊區",
+          "sno": "NTPC-500227064",
+          "sna": "十四張歷史公園(南側)",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 11,
-          "last_mday": "20260822T151102",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260822T151603",
           "sample_count": 4
         },
         {
@@ -638,14 +451,25 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500218121",
-          "sna": "信義路163巷口",
+          "sno": "NTPC-500218129",
+          "sna": "民生路二段/文化路一段286巷口",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260822T144603",
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260822T151503",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500218230",
+          "sna": "永豐街120巷2弄懷仁街口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260822T153718",
           "sample_count": 4
         },
         {
@@ -657,17 +481,6 @@
           "bemp": 55,
           "tot": 56,
           "last_mday": "20260822T144203",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500218146",
-          "sna": "溪城金門街口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260822T144503",
           "sample_count": 4
         },
         {
@@ -713,6 +526,17 @@
           "tot": 20,
           "last_mday": "20260822T150902",
           "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500220017",
+          "sna": "台貿三村停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260822T152303",
+          "sample_count": 4
         }
       ],
       "sample_count": 4
@@ -728,6 +552,17 @@
           "bemp": 18,
           "tot": 19,
           "last_mday": "20260822T130803",
+          "sample_count": 7
+        },
+        {
+          "sno": "NTPC-500218222",
+          "sna": "縣民板城路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260822T133504",
           "sample_count": 7
         }
       ],
