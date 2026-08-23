@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-24T07:22:06+08:00",
-  "updated_at_display": "2026-08-24 07:22:06",
+  "updated_at": "2026-08-24T07:46:38+08:00",
+  "updated_at_display": "2026-08-24 07:46:38",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500205055",
-          "sna": "臺北大學公共事務大樓(公政大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260824T061003",
-          "sample_count": 3
-        },
         {
           "sno": "NTPC-500227119",
           "sna": "中央陸橋(中央一街)",
@@ -39,25 +28,14 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500229140",
-          "sna": "福營國中",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260824T061402",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231051",
-          "sna": "中華路379巷口",
+          "sno": "NTPC-500231071",
+          "sna": "學府大成路口",
           "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 13,
           "tot": 14,
-          "last_mday": "20260823T222403",
+          "last_mday": "20260824T063616",
           "sample_count": 3
         },
         {
@@ -88,33 +66,21 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500231051",
-          "sna": "中華路379巷口",
-          "sarea": "樹林區",
+          "sno": "NTPC-500229124",
+          "sna": "中正思源路口(東北側)",
+          "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260823T222403",
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260824T054403",
           "sample_count": 5
         }
       ],
       "sample_count": 5
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500231051",
-          "sna": "中華路379巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260823T222403",
-          "sample_count": 9
-        }
-      ],
+      "stations": [],
       "sample_count": 9
     }
   }
