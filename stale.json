@@ -1,21 +1,10 @@
 {
-  "updated_at": "2026-08-23T23:36:25+08:00",
-  "updated_at_display": "2026-08-23 23:36:25",
+  "updated_at": "2026-08-23T23:58:24+08:00",
+  "updated_at_display": "2026-08-23 23:58:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500205039",
-          "sna": "三樹大學路口",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 22,
-          "tot": 24,
-          "last_mday": "20260823T225302",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500207113",
           "sna": "中興公園",
@@ -25,29 +14,7 @@
           "bemp": 15,
           "tot": 17,
           "last_mday": "20260823T224802",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500201003",
-          "sna": "八里中庄市場綜合大樓",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260823T205503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500201012",
-          "sna": "八里文化公園(棒球場)",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 59,
-          "tot": 60,
-          "last_mday": "20260823T221202",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500201009",
@@ -58,7 +25,7 @@
           "bemp": 12,
           "tot": 15,
           "last_mday": "20260823T223115",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500227113",
@@ -69,7 +36,7 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260823T213804",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500227094",
@@ -80,7 +47,7 @@
           "bemp": 22,
           "tot": 23,
           "last_mday": "20260823T224103",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218168",
@@ -91,7 +58,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260823T222602",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218139",
@@ -102,7 +69,7 @@
           "bemp": 11,
           "tot": 14,
           "last_mday": "20260823T225603",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218127",
@@ -113,7 +80,7 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260823T221215",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500218156",
@@ -124,7 +91,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260823T223104",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500216094",
@@ -135,7 +102,7 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260823T225103",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231051",
@@ -146,7 +113,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260823T222403",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231054",
@@ -157,7 +124,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260823T223304",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231034",
@@ -168,7 +135,7 @@
           "bemp": 10,
           "tot": 12,
           "last_mday": "20260823T221703",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231044",
@@ -179,7 +146,7 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260823T200902",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500220007",
@@ -190,7 +157,7 @@
           "bemp": 36,
           "tot": 37,
           "last_mday": "20260823T222602",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500220015",
@@ -201,7 +168,7 @@
           "bemp": 24,
           "tot": 26,
           "last_mday": "20260823T224003",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223028",
@@ -212,7 +179,7 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260823T222520",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500225006",
@@ -223,7 +190,7 @@
           "bemp": 37,
           "tot": 38,
           "last_mday": "20260823T222802",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234033",
@@ -234,35 +201,13 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260823T223503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234049",
-          "sna": "新鳳公園",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260823T225504",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500201003",
-          "sna": "八里中庄市場綜合大樓",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260823T205503",
-          "sample_count": 4
-        },
         {
           "sno": "NTPC-500227113",
           "sna": "新北捷運環狀線南機廠",
@@ -272,7 +217,7 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260823T213804",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500231044",
@@ -283,13 +228,25 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260823T200902",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500231044",
+          "sna": "大安文化街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260823T200902",
+          "sample_count": 7
+        }
+      ],
       "sample_count": 7
     }
   }
