@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T03:35:28+08:00",
-  "updated_at_display": "2026-08-24 03:35:28",
+  "updated_at": "2026-08-24T03:56:52+08:00",
+  "updated_at_display": "2026-08-24 03:56:52",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -36,6 +36,17 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260824T011302",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500203078",
+          "sna": "捷運三和國中站(2號出口)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 17,
+          "last_mday": "20260824T023602",
           "sample_count": 3
         },
         {
@@ -80,17 +91,6 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260824T010903",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500227054",
-          "sna": "捷運大坪林站(1號出口)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 45,
-          "tot": 47,
-          "last_mday": "20260824T012104",
           "sample_count": 3
         },
         {
@@ -212,6 +212,28 @@
           "bemp": 65,
           "tot": 68,
           "last_mday": "20260824T015604",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500218126",
+          "sna": "新府區運路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 27,
+          "tot": 30,
+          "last_mday": "20260824T023803",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500218199",
+          "sna": "板橋公車站",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 59,
+          "tot": 60,
+          "last_mday": "20260824T025203",
           "sample_count": 3
         },
         {
@@ -374,6 +396,17 @@
           "sample_count": 4
         },
         {
+          "sno": "NTPC-500227029",
+          "sna": "中正民權路口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 90,
+          "tot": 92,
+          "last_mday": "20260824T020203",
+          "sample_count": 4
+        },
+        {
           "sno": "NTPC-500227073",
           "sna": "寶橋路29巷",
           "sarea": "新店區",
@@ -385,14 +418,14 @@
           "sample_count": 4
         },
         {
-          "sno": "NTPC-500227054",
-          "sna": "捷運大坪林站(1號出口)",
+          "sno": "NTPC-500227034",
+          "sna": "捷運新店區公所站(1號出口)",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 45,
-          "tot": 47,
-          "last_mday": "20260824T012104",
+          "bemp": 41,
+          "tot": 42,
+          "last_mday": "20260824T022503",
           "sample_count": 4
         },
         {
@@ -451,6 +484,17 @@
           "sample_count": 4
         },
         {
+          "sno": "NTPC-500218097",
+          "sna": "捷運府中站(3號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 67,
+          "tot": 69,
+          "last_mday": "20260824T022503",
+          "sample_count": 4
+        },
+        {
           "sno": "NTPC-500218043",
           "sna": "捷運新埔站(2號出口)",
           "sarea": "板橋區",
@@ -470,6 +514,28 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260824T010102",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500218135",
+          "sna": "捷運江子翠站(2號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260824T023203",
+          "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500218001",
+          "sna": "新北市政府(新府路)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 65,
+          "tot": 68,
+          "last_mday": "20260824T015604",
           "sample_count": 4
         },
         {
@@ -588,6 +654,50 @@
           "sample_count": 9
         },
         {
+          "sno": "NTPC-500206016",
+          "sna": "捷運永寧站(2號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 46,
+          "tot": 47,
+          "last_mday": "20260823T234202",
+          "sample_count": 9
+        },
+        {
+          "sno": "NTPC-500206095",
+          "sna": "明德青和街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 31,
+          "last_mday": "20260823T234202",
+          "sample_count": 9
+        },
+        {
+          "sno": "NTPC-500227093",
+          "sna": "輕軌陽光運動公園站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "20260823T234703",
+          "sample_count": 9
+        },
+        {
+          "sno": "NTPC-500229096",
+          "sna": "捷運迴龍站(2號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260823T235203",
+          "sample_count": 9
+        },
+        {
           "sno": "NTPC-500218127",
           "sna": "海山高中(漢生東路)",
           "sarea": "板橋區",
@@ -629,6 +739,17 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260823T222520",
+          "sample_count": 9
+        },
+        {
+          "sno": "NTPC-500223029",
+          "sna": "輕軌崁頂站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 16,
+          "last_mday": "20260823T235416",
           "sample_count": 9
         },
         {
