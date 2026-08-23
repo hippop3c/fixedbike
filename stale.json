@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-08-23T19:34:43+08:00",
-  "updated_at_display": "2026-08-23 19:34:43",
+  "updated_at": "2026-08-23T19:58:06+08:00",
+  "updated_at_display": "2026-08-23 19:58:06",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500203116",
+          "sna": "三和路四段73號旁",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260823T184503",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500206071",
           "sna": "中央公園地下停車場",
@@ -17,28 +28,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500206232",
-          "sna": "土城中正路151巷口(西南側)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 35,
-          "last_mday": "20260823T182904",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218198",
-          "sna": "田單北街/懷德街201巷(一川社區)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260823T175702",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500231062",
           "sna": "樹林區第三平面停車場",
           "sarea": "樹林區",
@@ -47,39 +36,6 @@
           "bemp": 12,
           "tot": 13,
           "last_mday": "20260823T182316",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223001",
-          "sna": "濱海路一段111巷口(西側)",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260823T181903",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223052",
-          "sna": "濱海路一段306巷60弄",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260823T183803",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500223065",
-          "sna": "濱海路一段306巷9弄",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260823T183317",
           "sample_count": 3
         },
         {
