@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T10:45:41+08:00",
-  "updated_at_display": "2026-08-23 10:45:41",
+  "updated_at": "2026-08-23T11:51:43+08:00",
+  "updated_at_display": "2026-08-23 11:51:43",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,6 +10,17 @@
     },
     "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260823T101004",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500227113",
           "sna": "新北捷運環狀線南機廠",
@@ -33,14 +44,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500226006",
-          "sna": "瑞芳運動公園",
-          "sarea": "瑞芳區",
+          "sno": "NTPC-500223029",
+          "sna": "輕軌崁頂站",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260823T055916",
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260823T102104",
           "sample_count": 2
         }
       ],
@@ -57,7 +68,7 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260823T064304",
-          "sample_count": 5
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500223077",
@@ -68,21 +79,10 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260823T041703",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500226006",
-          "sna": "瑞芳運動公園",
-          "sarea": "瑞芳區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260823T055916",
-          "sample_count": 5
+          "sample_count": 3
         }
       ],
-      "sample_count": 5
+      "sample_count": 3
     }
   }
 }
