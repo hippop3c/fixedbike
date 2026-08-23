@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-08-23T18:41:51+08:00",
-  "updated_at_display": "2026-08-23 18:41:51",
+  "updated_at": "2026-08-23T19:01:26+08:00",
+  "updated_at_display": "2026-08-23 19:01:26",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500205033",
+          "sna": "中園國小(民權街)",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "20260823T175518",
+          "sample_count": 3
+        },
         {
           "sno": "NTPC-500209010",
           "sna": "凌雲路一段158巷口",
@@ -17,14 +28,25 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500216037",
-          "sna": "林口仁愛公共托育中心",
-          "sarea": "林口區",
+          "sno": "NTPC-500227100",
+          "sna": "安德停車場",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 15,
-          "tot": 18,
-          "last_mday": "20260823T173603",
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260823T174904",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500218198",
+          "sna": "田單北街/懷德街201巷(一川社區)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260823T175702",
           "sample_count": 3
         },
         {
@@ -36,17 +58,6 @@
           "bemp": 24,
           "tot": 25,
           "last_mday": "20260823T145002",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500233056",
-          "sna": "蘆洲環河公園",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260823T163802",
           "sample_count": 3
         },
         {
@@ -74,24 +85,25 @@
           "bemp": 24,
           "tot": 25,
           "last_mday": "20260823T145002",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500233056",
-          "sna": "蘆洲環河公園",
-          "sarea": "蘆洲區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260823T163802",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500226011",
+          "sna": "瑞芳棒球場",
+          "sarea": "瑞芳區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260823T145002",
+          "sample_count": 8
+        }
+      ],
       "sample_count": 8
     }
   }
