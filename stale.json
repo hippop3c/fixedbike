@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T04:52:59+08:00",
-  "updated_at_display": "2026-08-24 04:52:59",
+  "updated_at": "2026-08-24T05:22:48+08:00",
+  "updated_at_display": "2026-08-24 05:22:48",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,39 +14,6 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260824T004702",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500205055",
-          "sna": "臺北大學公共事務大樓(公政大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260823T233204",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500203008",
-          "sna": "光興國小",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260824T011302",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500203078",
-          "sna": "捷運三和國中站(2號出口)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260824T023602",
           "sample_count": 3
         },
         {
@@ -226,17 +193,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500223028",
-          "sna": "淡水國民運動中心",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260823T222520",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500223053",
           "sna": "淡水行政中心",
           "sarea": "淡水區",
@@ -257,28 +213,6 @@
           "tot": 16,
           "last_mday": "20260823T235416",
           "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234058",
-          "sna": "鳳三龍七路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260823T230303",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234046",
-          "sna": "鶯歌火車站(仁愛路62號)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 40,
-          "tot": 42,
-          "last_mday": "20260824T003902",
-          "sample_count": 3
         }
       ],
       "sample_count": 3
@@ -294,39 +228,6 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260824T004702",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500205055",
-          "sna": "臺北大學公共事務大樓(公政大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260823T233204",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500203008",
-          "sna": "光興國小",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260824T011302",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500203078",
-          "sna": "捷運三和國中站(2號出口)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 17,
-          "last_mday": "20260824T023602",
           "sample_count": 5
         },
         {
@@ -462,6 +363,17 @@
           "sample_count": 5
         },
         {
+          "sno": "NTPC-500216048",
+          "sna": "文化一路一段190巷口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 10,
+          "last_mday": "20260824T032504",
+          "sample_count": 5
+        },
+        {
           "sno": "NTPC-500231051",
           "sna": "中華路379巷口",
           "sarea": "樹林區",
@@ -481,17 +393,6 @@
           "bemp": 65,
           "tot": 66,
           "last_mday": "20260823T235603",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500223028",
-          "sna": "淡水國民運動中心",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260823T222520",
           "sample_count": 5
         },
         {
@@ -515,28 +416,6 @@
           "tot": 16,
           "last_mday": "20260823T235416",
           "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500234058",
-          "sna": "鳳三龍七路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260823T230303",
-          "sample_count": 5
-        },
-        {
-          "sno": "NTPC-500234046",
-          "sna": "鶯歌火車站(仁愛路62號)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 40,
-          "tot": 42,
-          "last_mday": "20260824T003902",
-          "sample_count": 5
         }
       ],
       "sample_count": 5
@@ -555,17 +434,6 @@
           "sample_count": 9
         },
         {
-          "sno": "NTPC-500205055",
-          "sna": "臺北大學公共事務大樓(公政大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "20260823T233204",
-          "sample_count": 9
-        },
-        {
           "sno": "NTPC-500206095",
           "sna": "明德青和街口",
           "sarea": "土城區",
@@ -574,6 +442,17 @@
           "bemp": 30,
           "tot": 31,
           "last_mday": "20260823T234202",
+          "sample_count": 9
+        },
+        {
+          "sno": "NTPC-500227073",
+          "sna": "寶橋路29巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260824T010903",
           "sample_count": 9
         },
         {
@@ -621,6 +500,28 @@
           "sample_count": 9
         },
         {
+          "sno": "NTPC-500218043",
+          "sna": "捷運新埔站(2號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 59,
+          "tot": 60,
+          "last_mday": "20260824T011002",
+          "sample_count": 9
+        },
+        {
+          "sno": "NTPC-500218216",
+          "sna": "捷運新埔站(3號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260824T010102",
+          "sample_count": 9
+        },
+        {
           "sno": "NTPC-500218127",
           "sna": "海山高中(漢生東路)",
           "sarea": "板橋區",
@@ -654,17 +555,6 @@
           "sample_count": 9
         },
         {
-          "sno": "NTPC-500223028",
-          "sna": "淡水國民運動中心",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "20260823T222520",
-          "sample_count": 9
-        },
-        {
           "sno": "NTPC-500223053",
           "sna": "淡水行政中心",
           "sarea": "淡水區",
@@ -684,28 +574,6 @@
           "bemp": 13,
           "tot": 16,
           "last_mday": "20260823T235416",
-          "sample_count": 9
-        },
-        {
-          "sno": "NTPC-500234058",
-          "sna": "鳳三龍七路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260823T230303",
-          "sample_count": 9
-        },
-        {
-          "sno": "NTPC-500234046",
-          "sna": "鶯歌火車站(仁愛路62號)",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 40,
-          "tot": 42,
-          "last_mday": "20260824T003902",
           "sample_count": 9
         }
       ],
