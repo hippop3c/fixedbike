@@ -1,71 +1,81 @@
 {
-  "updated_at": "2026-08-23T20:55:29+08:00",
-  "updated_at_display": "2026-08-23 20:55:29",
+  "updated_at": "2026-08-23T21:33:18+08:00",
+  "updated_at_display": "2026-08-23 21:33:18",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500203116",
-          "sna": "三和路四段73號旁",
-          "sarea": "三重區",
+          "sno": "NTPC-500207113",
+          "sna": "中興公園",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
+          "bemp": 15,
+          "tot": 17,
+          "last_mday": "20260823T202302",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201012",
+          "sna": "八里文化公園(棒球場)",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 59,
+          "tot": 60,
+          "last_mday": "20260823T203903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231044",
+          "sna": "大安文化街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "20260823T200902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231071",
+          "sna": "學府大成路口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260823T204416",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223022",
+          "sna": "新市二路四段",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260823T202115",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223068",
+          "sna": "濱海路二段/濱海路二段202巷",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
           "tot": 15,
-          "last_mday": "20260823T184503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500216092",
-          "sna": "南勢國中",
-          "sarea": "林口區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 22,
-          "tot": 24,
-          "last_mday": "20260823T195004",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223029",
-          "sna": "輕軌崁頂站",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 16,
-          "last_mday": "20260823T190302",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223018",
-          "sna": "輕軌淡江大學站",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 40,
-          "last_mday": "20260823T193504",
+          "last_mday": "20260823T202115",
           "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203116",
-          "sna": "三和路四段73號旁",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260823T184503",
-          "sample_count": 4
-        }
-      ],
+      "stations": [],
       "sample_count": 4
     },
     "4h": {
