@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-08-23T07:46:45+08:00",
-  "updated_at_display": "2026-08-23 07:46:45",
+  "updated_at": "2026-08-23T09:25:04+08:00",
+  "updated_at_display": "2026-08-23 09:25:04",
   "target_sbi": 1,
   "windows": {
     "1h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 7,
-          "tot": 10,
-          "last_mday": "20260823T062203",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500217004",
-          "sna": "國中碇坪路二段口",
-          "sarea": "坪林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20260823T060117",
-          "sample_count": 3
-        },
         {
           "sno": "NTPC-500227113",
           "sna": "新北捷運環狀線南機廠",
@@ -36,29 +19,7 @@
           "bemp": 20,
           "tot": 21,
           "last_mday": "20260823T064304",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500229021",
-          "sna": "中港大排願景館",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 55,
-          "tot": 57,
-          "last_mday": "20260822T235402",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218089",
-          "sna": "江翠國中",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 36,
-          "last_mday": "20260823T061602",
-          "sample_count": 3
+          "sample_count": 2
         },
         {
           "sno": "NTPC-500210041",
@@ -69,7 +30,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260823T031403",
-          "sample_count": 3
+          "sample_count": 2
         },
         {
           "sno": "NTPC-500223077",
@@ -80,18 +41,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260823T041703",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500226013",
-          "sna": "猴硐礦工文史館",
-          "sarea": "瑞芳區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260823T060117",
-          "sample_count": 3
+          "sample_count": 2
         },
         {
           "sno": "NTPC-500226006",
@@ -102,35 +52,13 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260823T055916",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500234030",
-          "sna": "育英建國路口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260823T062203",
-          "sample_count": 3
+          "sample_count": 2
         }
       ],
-      "sample_count": 3
+      "sample_count": 2
     },
-    "2h": {
+    "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500229021",
-          "sna": "中港大排願景館",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 55,
-          "tot": 57,
-          "last_mday": "20260822T235402",
-          "sample_count": 5
-        },
         {
           "sno": "NTPC-500210041",
           "sna": "永成市民活動中心",
@@ -140,7 +68,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260823T031403",
-          "sample_count": 5
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500223077",
@@ -151,37 +79,10 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260823T041703",
-          "sample_count": 5
+          "sample_count": 6
         }
       ],
-      "sample_count": 5
-    },
-    "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500229021",
-          "sna": "中港大排願景館",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 55,
-          "tot": 57,
-          "last_mday": "20260822T235402",
-          "sample_count": 9
-        },
-        {
-          "sno": "NTPC-500210041",
-          "sna": "永成市民活動中心",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260823T031403",
-          "sample_count": 9
-        }
-      ],
-      "sample_count": 9
+      "sample_count": 6
     }
   }
 }
