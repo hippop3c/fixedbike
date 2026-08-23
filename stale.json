@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T14:42:18+08:00",
-  "updated_at_display": "2026-08-23 14:42:18",
+  "updated_at": "2026-08-23T15:21:01+08:00",
+  "updated_at_display": "2026-08-23 15:21:01",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -17,6 +17,61 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500205049",
+          "sna": "臺北大學蓮池",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 34,
+          "last_mday": "20260823T141503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500207053",
+          "sna": "烘爐地山下籃球場",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260823T140903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201028",
+          "sna": "中山賢一街口",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260823T142303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201006",
+          "sna": "龍形停車場",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 38,
+          "tot": 40,
+          "last_mday": "20260823T142803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206067",
+          "sna": "中央路二段180巷",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260823T143302",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500206046",
           "sna": "中華日新街口",
           "sarea": "土城區",
@@ -25,6 +80,17 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260823T101004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229130",
+          "sna": "中平中榮街口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260823T143505",
           "sample_count": 2
         },
         {
@@ -39,58 +105,58 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229117",
-          "sna": "龍安福營路口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260823T133917",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218159",
-          "sna": "新海抽水站停車場",
-          "sarea": "板橋區",
+          "sno": "NTPC-500214068",
+          "sna": "汐萬康寧街口",
+          "sarea": "汐止區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 12,
           "tot": 13,
-          "last_mday": "20260823T123402",
+          "last_mday": "20260823T142303",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500220016",
-          "sna": "明志貴鳳街口",
-          "sarea": "泰山區",
+          "sno": "NTPC-500223055",
+          "sna": "新市一中山北路口",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260823T131704",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260823T140740",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500220006",
-          "sna": "貴和市民活動中心",
-          "sarea": "泰山區",
+          "sno": "NTPC-500223004",
+          "sna": "輕軌淡海新市鎮站",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260823T125003",
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260823T140002",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500211005",
-          "sna": "石門婚紗廣場",
-          "sarea": "石門區",
+          "sno": "NTPC-500223042",
+          "sna": "鄧公路30巷",
+          "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260823T125103",
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260823T142217",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234040",
+          "sna": "北鶯公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260823T143803",
           "sample_count": 2
         },
         {
@@ -140,39 +206,6 @@
           "bemp": 9,
           "tot": 11,
           "last_mday": "20260823T115204",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500218159",
-          "sna": "新海抽水站停車場",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260823T123402",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500220006",
-          "sna": "貴和市民活動中心",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260823T125003",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500211005",
-          "sna": "石門婚紗廣場",
-          "sarea": "石門區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260823T125103",
           "sample_count": 3
         },
         {
