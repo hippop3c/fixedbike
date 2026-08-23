@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T03:56:52+08:00",
-  "updated_at_display": "2026-08-24 03:56:52",
+  "updated_at": "2026-08-24T04:29:24+08:00",
+  "updated_at_display": "2026-08-24 04:29:24",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -47,17 +47,6 @@
           "bemp": 15,
           "tot": 17,
           "last_mday": "20260824T023602",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500206016",
-          "sna": "捷運永寧站(2號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 46,
-          "tot": 47,
-          "last_mday": "20260823T234202",
           "sample_count": 3
         },
         {
@@ -193,6 +182,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500218046",
+          "sna": "捷運板橋站(1號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 85,
+          "tot": 86,
+          "last_mday": "20260824T032904",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500218135",
           "sna": "捷運江子翠站(2號出口)",
           "sarea": "板橋區",
@@ -215,17 +215,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500218126",
-          "sna": "新府區運路口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 30,
-          "last_mday": "20260824T023803",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500218199",
           "sna": "板橋公車站",
           "sarea": "板橋區",
@@ -245,6 +234,17 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260823T221215",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500216048",
+          "sna": "文化一路一段190巷口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 10,
+          "last_mday": "20260824T032504",
           "sample_count": 3
         },
         {
@@ -349,7 +349,7 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260824T004702",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500205055",
@@ -360,7 +360,7 @@
           "bemp": 33,
           "tot": 34,
           "last_mday": "20260823T233204",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500203008",
@@ -371,18 +371,7 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260824T011302",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500206016",
-          "sna": "捷運永寧站(2號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 46,
-          "tot": 47,
-          "last_mday": "20260823T234202",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500206095",
@@ -393,7 +382,7 @@
           "bemp": 30,
           "tot": 31,
           "last_mday": "20260823T234202",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500227029",
@@ -404,7 +393,7 @@
           "bemp": 90,
           "tot": 92,
           "last_mday": "20260824T020203",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500227073",
@@ -415,7 +404,7 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260824T010903",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500227034",
@@ -426,7 +415,7 @@
           "bemp": 41,
           "tot": 42,
           "last_mday": "20260824T022503",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500227122",
@@ -437,7 +426,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260824T011702",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500227093",
@@ -448,7 +437,7 @@
           "bemp": 18,
           "tot": 20,
           "last_mday": "20260823T234703",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500229104",
@@ -459,7 +448,7 @@
           "bemp": 24,
           "tot": 25,
           "last_mday": "20260824T003403",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500229065",
@@ -470,7 +459,7 @@
           "bemp": 28,
           "tot": 30,
           "last_mday": "20260824T001004",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500229096",
@@ -481,7 +470,7 @@
           "bemp": 10,
           "tot": 11,
           "last_mday": "20260823T235203",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500218097",
@@ -492,7 +481,7 @@
           "bemp": 67,
           "tot": 69,
           "last_mday": "20260824T022503",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500218043",
@@ -503,7 +492,7 @@
           "bemp": 59,
           "tot": 60,
           "last_mday": "20260824T011002",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500218216",
@@ -514,7 +503,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260824T010102",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500218135",
@@ -525,7 +514,7 @@
           "bemp": 25,
           "tot": 26,
           "last_mday": "20260824T023203",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500218001",
@@ -536,7 +525,7 @@
           "bemp": 65,
           "tot": 68,
           "last_mday": "20260824T015604",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500218127",
@@ -547,7 +536,7 @@
           "bemp": 39,
           "tot": 40,
           "last_mday": "20260823T221215",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500231051",
@@ -558,7 +547,7 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260823T222403",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500214034",
@@ -569,7 +558,7 @@
           "bemp": 65,
           "tot": 66,
           "last_mday": "20260823T235603",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500220007",
@@ -580,7 +569,7 @@
           "bemp": 36,
           "tot": 37,
           "last_mday": "20260823T222602",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500223028",
@@ -591,7 +580,7 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260823T222520",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500223053",
@@ -602,7 +591,7 @@
           "bemp": 9,
           "tot": 10,
           "last_mday": "20260824T000518",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500223029",
@@ -613,7 +602,7 @@
           "bemp": 13,
           "tot": 16,
           "last_mday": "20260823T235416",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500234058",
@@ -624,7 +613,7 @@
           "bemp": 17,
           "tot": 18,
           "last_mday": "20260823T230303",
-          "sample_count": 4
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500234046",
@@ -635,10 +624,10 @@
           "bemp": 40,
           "tot": 42,
           "last_mday": "20260824T003902",
-          "sample_count": 4
+          "sample_count": 5
         }
       ],
-      "sample_count": 4
+      "sample_count": 5
     },
     "4h": {
       "stations": [
@@ -654,17 +643,6 @@
           "sample_count": 9
         },
         {
-          "sno": "NTPC-500206016",
-          "sna": "捷運永寧站(2號出口)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 46,
-          "tot": 47,
-          "last_mday": "20260823T234202",
-          "sample_count": 9
-        },
-        {
           "sno": "NTPC-500206095",
           "sna": "明德青和街口",
           "sarea": "土城區",
@@ -684,6 +662,17 @@
           "bemp": 18,
           "tot": 20,
           "last_mday": "20260823T234703",
+          "sample_count": 9
+        },
+        {
+          "sno": "NTPC-500229065",
+          "sna": "宏匯思源廣場",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 30,
+          "last_mday": "20260824T001004",
           "sample_count": 9
         },
         {
@@ -720,6 +709,17 @@
           "sample_count": 9
         },
         {
+          "sno": "NTPC-500214034",
+          "sna": "五堵火車站",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 65,
+          "tot": 66,
+          "last_mday": "20260823T235603",
+          "sample_count": 9
+        },
+        {
           "sno": "NTPC-500220007",
           "sna": "捷運泰山站",
           "sarea": "泰山區",
@@ -739,6 +739,17 @@
           "bemp": 35,
           "tot": 36,
           "last_mday": "20260823T222520",
+          "sample_count": 9
+        },
+        {
+          "sno": "NTPC-500223053",
+          "sna": "淡水行政中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260824T000518",
           "sample_count": 9
         },
         {
