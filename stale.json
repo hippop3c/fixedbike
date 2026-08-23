@@ -1,52 +1,30 @@
 {
-  "updated_at": "2026-08-23T18:02:01+08:00",
-  "updated_at_display": "2026-08-23 18:02:01",
+  "updated_at": "2026-08-23T18:41:51+08:00",
+  "updated_at_display": "2026-08-23 18:41:51",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500202009",
-          "sna": "三生步道",
-          "sarea": "三芝區",
+          "sno": "NTPC-500209010",
+          "sna": "凌雲路一段158巷口",
+          "sarea": "五股區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260823T154803",
+          "last_mday": "20260823T170602",
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500210038",
-          "sna": "永和勵行街口",
-          "sarea": "永和區",
+          "sno": "NTPC-500216037",
+          "sna": "林口仁愛公共托育中心",
+          "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260823T155303",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500220023",
-          "sna": "新北大道幸福路口(大道鎏域社區)",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260823T162404",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500226013",
-          "sna": "猴硐礦工文史館",
-          "sarea": "瑞芳區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260823T164103",
+          "bemp": 15,
+          "tot": 18,
+          "last_mday": "20260823T173603",
           "sample_count": 3
         },
         {
@@ -70,45 +48,23 @@
           "tot": 16,
           "last_mday": "20260823T163802",
           "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234055",
+          "sna": "鳳五路122號前",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260823T172117",
+          "sample_count": 3
         }
       ],
       "sample_count": 3
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500202009",
-          "sna": "三生步道",
-          "sarea": "三芝區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260823T154803",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500210038",
-          "sna": "永和勵行街口",
-          "sarea": "永和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260823T155303",
-          "sample_count": 4
-        },
-        {
-          "sno": "NTPC-500220023",
-          "sna": "新北大道幸福路口(大道鎏域社區)",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260823T162404",
-          "sample_count": 4
-        },
         {
           "sno": "NTPC-500226011",
           "sna": "瑞芳棒球場",
@@ -119,13 +75,24 @@
           "tot": 25,
           "last_mday": "20260823T145002",
           "sample_count": 4
+        },
+        {
+          "sno": "NTPC-500233056",
+          "sna": "蘆洲環河公園",
+          "sarea": "蘆洲區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260823T163802",
+          "sample_count": 4
         }
       ],
       "sample_count": 4
     },
     "4h": {
       "stations": [],
-      "sample_count": 7
+      "sample_count": 8
     }
   }
 }
