@@ -1,32 +1,10 @@
 {
-  "updated_at": "2026-08-25T06:01:49+08:00",
-  "updated_at_display": "2026-08-25 06:01:49",
+  "updated_at": "2026-08-25T06:44:49+08:00",
+  "updated_at_display": "2026-08-25 06:44:49",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
-        {
-          "sno": "NTPC-500205037",
-          "sna": "大學學成路口",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260825T052702",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229119",
-          "sna": "福慧新知八路口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260825T000602",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500218171",
           "sna": "華江二華江一路口(帝國花園廣場社區)",
@@ -48,23 +26,34 @@
           "tot": 54,
           "last_mday": "20260825T015502",
           "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231058",
+          "sna": "俊興俊安街口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260825T054801",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231032",
+          "sna": "俊英街219巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260825T053504",
+          "sample_count": 2
         }
       ],
       "sample_count": 2
     },
     "2h": {
       "stations": [
-        {
-          "sno": "NTPC-500229119",
-          "sna": "福慧新知八路口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260825T000602",
-          "sample_count": 4
-        },
         {
           "sno": "NTPC-500218221",
           "sna": "藝文一永翠路口",
@@ -82,17 +71,6 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500229119",
-          "sna": "福慧新知八路口",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260825T000602",
-          "sample_count": 6
-        },
-        {
           "sno": "NTPC-500218221",
           "sna": "藝文一永翠路口",
           "sarea": "板橋區",
@@ -101,10 +79,10 @@
           "bemp": 53,
           "tot": 54,
           "last_mday": "20260825T015502",
-          "sample_count": 6
+          "sample_count": 7
         }
       ],
-      "sample_count": 6
+      "sample_count": 7
     }
   }
 }
