@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-08-25T06:44:49+08:00",
-  "updated_at_display": "2026-08-25 06:44:49",
+  "updated_at": "2026-08-25T07:07:50+08:00",
+  "updated_at_display": "2026-08-25 07:07:50",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500218144",
+          "sna": "板樹體育館",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260825T063302",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500218171",
           "sna": "華江二華江一路口(帝國花園廣場社區)",
@@ -17,14 +28,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218221",
-          "sna": "藝文一永翠路口",
+          "sno": "NTPC-500218184",
+          "sna": "華江橋自行車牽引道",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 53,
-          "tot": 54,
-          "last_mday": "20260825T015502",
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260825T062704",
           "sample_count": 2
         },
         {
@@ -39,14 +50,36 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231032",
-          "sna": "俊英街219巷口",
+          "sno": "NTPC-500231065",
+          "sna": "福順街",
           "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "20260825T053504",
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260825T062103",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220025",
+          "sna": "泰山體育館",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260825T061503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500226013",
+          "sna": "猴硐礦工文史館",
+          "sarea": "瑞芳區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260825T060117",
           "sample_count": 2
         }
       ],
@@ -55,33 +88,21 @@
     "2h": {
       "stations": [
         {
-          "sno": "NTPC-500218221",
-          "sna": "藝文一永翠路口",
+          "sno": "NTPC-500218171",
+          "sna": "華江二華江一路口(帝國花園廣場社區)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 53,
-          "tot": 54,
-          "last_mday": "20260825T015502",
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260825T050102",
           "sample_count": 4
         }
       ],
       "sample_count": 4
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500218221",
-          "sna": "藝文一永翠路口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 53,
-          "tot": 54,
-          "last_mday": "20260825T015502",
-          "sample_count": 7
-        }
-      ],
+      "stations": [],
       "sample_count": 7
     }
   }
