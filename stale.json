@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-08-25T02:52:01+08:00",
-  "updated_at_display": "2026-08-25 02:52:01",
+  "updated_at": "2026-08-25T03:30:49+08:00",
+  "updated_at_display": "2026-08-25 03:30:49",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
+        {
+          "sno": "NTPC-500205030",
+          "sna": "學成大德路口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "20260825T023202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229096",
+          "sna": "捷運迴龍站(2號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260825T023403",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500229119",
           "sna": "福慧新知八路口",
@@ -28,17 +50,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218005",
-          "sna": "捷運亞東醫院站(2號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 51,
-          "tot": 52,
-          "last_mday": "20260825T014802",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500218171",
           "sna": "華江二華江一路口(帝國花園廣場社區)",
           "sarea": "板橋區",
@@ -58,6 +69,28 @@
           "bemp": 15,
           "tot": 16,
           "last_mday": "20260825T014303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218221",
+          "sna": "藝文一永翠路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 53,
+          "tot": 54,
+          "last_mday": "20260825T015502",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231009",
+          "sna": "俊英俊保路口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260825T020503",
           "sample_count": 2
         },
         {
@@ -94,17 +127,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500223077",
-          "sna": "聖約翰科技大學",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260824T213316",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500223058",
           "sna": "衛教公園",
           "sarea": "淡水區",
@@ -135,6 +157,17 @@
           "bemp": 13,
           "tot": 14,
           "last_mday": "20260825T015303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234044",
+          "sna": "臺鐵鳳鳴站",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260825T020516",
           "sample_count": 2
         },
         {
@@ -187,6 +220,28 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500218184",
+          "sna": "華江橋自行車牽引道",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260825T014303",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500231052",
+          "sna": "俊英街125巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260825T012602",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500231012",
           "sna": "民生親子公園",
           "sarea": "樹林區",
@@ -198,14 +253,14 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500223077",
-          "sna": "聖約翰科技大學",
-          "sarea": "淡水區",
+          "sno": "NTPC-500210038",
+          "sna": "永和勵行街口",
+          "sarea": "永和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260824T213316",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260825T014103",
           "sample_count": 3
         },
         {
@@ -228,6 +283,17 @@
           "bemp": 27,
           "tot": 28,
           "last_mday": "20260824T225805",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234049",
+          "sna": "新鳳公園",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260825T015303",
           "sample_count": 3
         },
         {
@@ -269,14 +335,14 @@
           "sample_count": 6
         },
         {
-          "sno": "NTPC-500223077",
-          "sna": "聖約翰科技大學",
+          "sno": "NTPC-500223058",
+          "sna": "衛教公園",
           "sarea": "淡水區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260824T213316",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260824T233802",
           "sample_count": 6
         },
         {
