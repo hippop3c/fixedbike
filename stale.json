@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T09:22:31+08:00",
-  "updated_at_display": "2026-08-24 09:22:31",
+  "updated_at": "2026-08-24T10:46:25+08:00",
+  "updated_at_display": "2026-08-24 10:46:25",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -10,6 +10,28 @@
     },
     "2h": {
       "stations": [
+        {
+          "sno": "NTPC-500205022",
+          "sna": "龍恩公園",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260824T084503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203141",
+          "sna": "新北大道一段57巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260824T090025",
+          "sample_count": 2
+        },
         {
           "sno": "NTPC-500229074",
           "sna": "雙鳳公園",
@@ -33,14 +55,47 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218160",
-          "sna": "縣民大道三段270巷口",
+          "sno": "NTPC-500218069",
+          "sna": "浮洲合宜住宅(合宜一路)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260824T070703",
+          "bemp": 56,
+          "tot": 57,
+          "last_mday": "20260824T090602",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231062",
+          "sna": "樹林區第三平面停車場",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260824T082004",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223035",
+          "sna": "中正淡海路口",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260824T091519",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223089",
+          "sna": "濱海路一段370號",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "20260824T085603",
           "sample_count": 2
         },
         {
@@ -69,8 +124,31 @@
       "sample_count": 2
     },
     "4h": {
-      "stations": [],
-      "sample_count": 7
+      "stations": [
+        {
+          "sno": "NTPC-500223077",
+          "sna": "聖約翰科技大學",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260824T055904",
+          "sample_count": 5
+        },
+        {
+          "sno": "NTPC-500226013",
+          "sna": "猴硐礦工文史館",
+          "sarea": "瑞芳區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260824T060118",
+          "sample_count": 5
+        }
+      ],
+      "sample_count": 5
     }
   }
 }
