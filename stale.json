@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T03:30:49+08:00",
-  "updated_at_display": "2026-08-25 03:30:49",
+  "updated_at": "2026-08-25T04:03:17+08:00",
+  "updated_at_display": "2026-08-25 04:03:17",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,6 +14,28 @@
           "bemp": 18,
           "tot": 19,
           "last_mday": "20260825T023202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203001",
+          "sna": "重新重安街口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260825T030303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229005",
+          "sna": "中華里(中華路二段)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 47,
+          "tot": 48,
+          "last_mday": "20260825T031604",
           "sample_count": 2
         },
         {
@@ -47,6 +69,28 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260824T215903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218134",
+          "sna": "捷運江子翠站(1號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260825T031016",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218135",
+          "sna": "捷運江子翠站(2號出口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260825T030903",
           "sample_count": 2
         },
         {
@@ -94,17 +138,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500231052",
-          "sna": "俊英街125巷口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260825T012602",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500231012",
           "sna": "民生親子公園",
           "sarea": "樹林區",
@@ -113,6 +146,17 @@
           "bemp": 20,
           "tot": 22,
           "last_mday": "20260825T004115",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231065",
+          "sna": "福順街",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 13,
+          "last_mday": "20260825T030202",
           "sample_count": 2
         },
         {
@@ -187,6 +231,28 @@
     "2h": {
       "stations": [
         {
+          "sno": "NTPC-500205030",
+          "sna": "學成大德路口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "20260825T023202",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500229096",
+          "sna": "捷運迴龍站(2號出口)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260825T023403",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500229119",
           "sna": "福慧新知八路口",
           "sarea": "新莊區",
@@ -231,14 +297,25 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500231052",
-          "sna": "俊英街125巷口",
+          "sno": "NTPC-500218221",
+          "sna": "藝文一永翠路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 53,
+          "tot": 54,
+          "last_mday": "20260825T015502",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500231009",
+          "sna": "俊英俊保路口",
           "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260825T012602",
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260825T020503",
           "sample_count": 3
         },
         {
@@ -297,6 +374,17 @@
           "sample_count": 3
         },
         {
+          "sno": "NTPC-500234044",
+          "sna": "臺鐵鳳鳴站",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260825T020516",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500234047",
           "sna": "臺鐵鳳鳴站(鶯歌路)",
           "sarea": "鶯歌區",
@@ -312,6 +400,17 @@
     },
     "4h": {
       "stations": [
+        {
+          "sno": "NTPC-500229119",
+          "sna": "福慧新知八路口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260825T000602",
+          "sample_count": 6
+        },
         {
           "sno": "NTPC-500229140",
           "sna": "福營國中",
