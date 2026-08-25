@@ -1,42 +1,25 @@
 {
-  "updated_at": "2026-08-25T07:58:51+08:00",
-  "updated_at_display": "2026-08-25 07:58:51",
+  "updated_at": "2026-08-25T09:45:34+08:00",
+  "updated_at_display": "2026-08-25 09:45:34",
   "target_sbi": 1,
   "windows": {
     "1h": {
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
+    },
+    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500229074",
-          "sna": "雙鳳公園",
+          "sno": "NTPC-500229010",
+          "sna": "瓊林公園",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 11,
-          "last_mday": "20260825T064902",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231014",
-          "sna": "三鶯分區區務辦公室",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260825T070203",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231065",
-          "sna": "福順街",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260825T062103",
-          "sample_count": 3
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260825T073203",
+          "sample_count": 2
         },
         {
           "sno": "NTPC-500226013",
@@ -47,18 +30,14 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260825T060117",
-          "sample_count": 3
+          "sample_count": 2
         }
       ],
-      "sample_count": 3
-    },
-    "2h": {
-      "stations": [],
-      "sample_count": 5
+      "sample_count": 2
     },
     "4h": {
       "stations": [],
-      "sample_count": 8
+      "sample_count": 6
     }
   }
 }
