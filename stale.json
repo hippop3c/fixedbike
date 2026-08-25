@@ -1,19 +1,30 @@
 {
-  "updated_at": "2026-08-26T01:05:38+08:00",
-  "updated_at_display": "2026-08-26 01:05:38",
+  "updated_at": "2026-08-26T01:45:41+08:00",
+  "updated_at_display": "2026-08-26 01:45:41",
   "target_sbi": 1,
   "windows": {
     "1h": {
       "stations": [
         {
-          "sno": "NTPC-500203048",
-          "sna": "捷運三和國中站(1號出口)",
-          "sarea": "三重區",
+          "sno": "NTPC-500207046",
+          "sna": "捷運永安市場站",
+          "sarea": "中和區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 94,
-          "tot": 95,
-          "last_mday": "20260825T235303",
+          "bemp": 98,
+          "tot": 99,
+          "last_mday": "20260826T004803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209027",
+          "sna": "五工二五工一路口(泰博科技)",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260826T004202",
           "sample_count": 2
         },
         {
@@ -39,6 +50,28 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500206011",
+          "sna": "捷運海山站(1號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 79,
+          "tot": 80,
+          "last_mday": "20260826T003003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227064",
+          "sna": "十四張歷史公園(南側)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260826T004903",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500227002",
           "sna": "國家人權博物館",
           "sarea": "新店區",
@@ -50,14 +83,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227067",
-          "sna": "寶強文化路口",
+          "sno": "NTPC-500227073",
+          "sna": "寶橋路29巷",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260825T234319",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260826T002915",
           "sample_count": 2
         },
         {
@@ -105,14 +138,47 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218046",
-          "sna": "捷運板橋站(1號出口)",
+          "sno": "NTPC-500229001",
+          "sna": "捷運幸福站",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 57,
+          "tot": 58,
+          "last_mday": "20260826T003919",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229119",
+          "sna": "福慧新知八路口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260826T002503",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229086",
+          "sna": "頭前國小(化成路)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260826T003903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218202",
+          "sna": "捷運亞東醫院站(3號出口)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 85,
-          "tot": 86,
-          "last_mday": "20260826T000902",
+          "bemp": 55,
+          "tot": 56,
+          "last_mday": "20260826T005903",
           "sample_count": 2
         },
         {
@@ -127,47 +193,14 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218199",
-          "sna": "板橋公車站",
+          "sno": "NTPC-500218219",
+          "sna": "生態南公園",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 59,
-          "tot": 60,
-          "last_mday": "20260825T234503",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218154",
-          "sna": "板橋車站(新站路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260825T234103",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218148",
-          "sna": "縣民民生路口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260825T225204",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231054",
-          "sna": "俊英大安路口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260825T223704",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260826T003605",
           "sample_count": 2
         },
         {
@@ -179,6 +212,28 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260825T200402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231016",
+          "sna": "樹林火車站(後站)",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 57,
+          "tot": 65,
+          "last_mday": "20260826T002003",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210053",
+          "sna": "保平路268巷",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260826T004703",
           "sample_count": 2
         },
         {
@@ -231,6 +286,28 @@
     "2h": {
       "stations": [
         {
+          "sno": "NTPC-500209023",
+          "sna": "五工五五權路口",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "20260826T000804",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500206065",
+          "sna": "捷運土城站(1號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260825T235203",
+          "sample_count": 3
+        },
+        {
           "sno": "NTPC-500227002",
           "sna": "國家人權博物館",
           "sarea": "新店區",
@@ -297,28 +374,6 @@
           "sample_count": 3
         },
         {
-          "sno": "NTPC-500218148",
-          "sna": "縣民民生路口",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260825T225204",
-          "sample_count": 3
-        },
-        {
-          "sno": "NTPC-500231054",
-          "sna": "俊英大安路口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260825T223704",
-          "sample_count": 3
-        },
-        {
           "sno": "NTPC-500231067",
           "sna": "東豐街85巷口",
           "sarea": "樹林區",
@@ -338,6 +393,17 @@
           "bemp": 36,
           "tot": 37,
           "last_mday": "20260825T231603",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500223023",
+          "sna": "輕軌淡水行政中心站",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 47,
+          "tot": 48,
+          "last_mday": "20260826T001404",
           "sample_count": 3
         },
         {
@@ -376,7 +442,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260825T200402",
-          "sample_count": 5
+          "sample_count": 6
         },
         {
           "sno": "NTPC-500234023",
@@ -387,10 +453,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260825T175402",
-          "sample_count": 5
+          "sample_count": 6
         }
       ],
-      "sample_count": 5
+      "sample_count": 6
     }
   }
 }
