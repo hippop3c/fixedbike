@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T21:57:32+08:00",
-  "updated_at_display": "2026-08-25 21:57:32",
+  "updated_at": "2026-08-25T22:53:18+08:00",
+  "updated_at_display": "2026-08-25 22:53:18",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -17,6 +17,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500206063",
+          "sna": "捷運永寧站(3號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "20260825T214303",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500229119",
           "sna": "福慧新知八路口",
           "sarea": "新莊區",
@@ -25,17 +36,6 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260825T200402",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218144",
-          "sna": "板樹體育館",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260825T192602",
           "sample_count": 2
         },
         {
@@ -58,17 +58,6 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260825T144903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234035",
-          "sna": "國中高職東街口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260825T181203",
           "sample_count": 2
         },
         {
@@ -96,7 +85,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260825T201203",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500229119",
@@ -107,18 +96,7 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260825T200402",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218144",
-          "sna": "板樹體育館",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260825T192602",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500231067",
@@ -129,7 +107,7 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260825T200402",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234031",
@@ -140,18 +118,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260825T144903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234035",
-          "sna": "國中高職東街口",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260825T181203",
-          "sample_count": 2
+          "sample_count": 3
         },
         {
           "sno": "NTPC-500234023",
@@ -162,10 +129,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260825T175402",
-          "sample_count": 2
+          "sample_count": 3
         }
       ],
-      "sample_count": 2
+      "sample_count": 3
     },
     "4h": {
       "stations": [
@@ -178,7 +145,7 @@
           "bemp": 14,
           "tot": 15,
           "last_mday": "20260825T144903",
-          "sample_count": 6
+          "sample_count": 5
         },
         {
           "sno": "NTPC-500234023",
@@ -189,10 +156,10 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260825T175402",
-          "sample_count": 6
+          "sample_count": 5
         }
       ],
-      "sample_count": 6
+      "sample_count": 5
     }
   }
 }
