@@ -1,87 +1,174 @@
 {
-  "updated_at": "2026-08-26T15:02:37+08:00",
-  "updated_at_display": "2026-08-26 15:02:37",
+  "updated_at": "2026-08-26T16:00:02+08:00",
+  "updated_at_display": "2026-08-26 16:00:02",
   "target_sbi": 1,
   "windows": {
     "1h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203127",
-          "sna": "仁義元信一街口",
-          "sarea": "三重區",
+          "sno": "NTPC-500201011",
+          "sna": "八里國小",
+          "sarea": "八里區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260826T112603",
-          "sample_count": 3
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260826T145523",
+          "sample_count": 2
         },
         {
-          "sno": "NTPC-500206058",
-          "sna": "和平路105號",
+          "sno": "NTPC-500206081",
+          "sna": "裕華街",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 8,
-          "tot": 10,
-          "last_mday": "20260826T122802",
-          "sample_count": 3
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T145902",
+          "sample_count": 2
         },
         {
-          "sno": "NTPC-500231075",
-          "sna": "四維八德街口",
+          "sno": "NTPC-500218131",
+          "sna": "稚匯公園(華江三路)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 19,
+          "last_mday": "20260826T145403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216089",
+          "sna": "文化一麗園路2巷口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260826T133802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231014",
+          "sna": "三鶯分區區務辦公室",
           "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260826T131003",
-          "sample_count": 3
+          "last_mday": "20260826T145603",
+          "sample_count": 2
         },
         {
-          "sno": "NTPC-500214050",
-          "sna": "福德二路19巷口",
-          "sarea": "汐止區",
+          "sno": "NTPC-500231003",
+          "sna": "全球傳動科技公司",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 10,
-          "tot": 12,
-          "last_mday": "20260826T121716",
-          "sample_count": 3
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260826T134804",
+          "sample_count": 2
         },
         {
-          "sno": "NTPC-500234052",
-          "sna": "龍鳳夜市",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500231076",
+          "sna": "鎮前街347巷口",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260826T130104",
-          "sample_count": 3
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260826T142204",
+          "sample_count": 2
         }
       ],
-      "sample_count": 3
+      "sample_count": 2
     },
-    "4h": {
+    "2h": {
       "stations": [
         {
-          "sno": "NTPC-500203127",
-          "sna": "仁義元信一街口",
-          "sarea": "三重區",
+          "sno": "NTPC-500201011",
+          "sna": "八里國小",
+          "sarea": "八里區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260826T112603",
-          "sample_count": 5
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "20260826T145523",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206081",
+          "sna": "裕華街",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T145902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218131",
+          "sna": "稚匯公園(華江三路)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 19,
+          "last_mday": "20260826T145403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216089",
+          "sna": "文化一麗園路2巷口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260826T133802",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231014",
+          "sna": "三鶯分區區務辦公室",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T145603",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231003",
+          "sna": "全球傳動科技公司",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260826T134804",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231076",
+          "sna": "鎮前街347巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260826T142204",
+          "sample_count": 2
         }
       ],
+      "sample_count": 2
+    },
+    "4h": {
+      "stations": [],
       "sample_count": 5
     }
   }
