@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T10:48:13+08:00",
-  "updated_at_display": "2026-08-26 10:48:13",
+  "updated_at": "2026-08-26T11:54:30+08:00",
+  "updated_at_display": "2026-08-26 11:54:30",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -22,47 +22,25 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500201008",
-          "sna": "八里區民活動中心",
+          "sno": "NTPC-500201031",
+          "sna": "海世界觀景臺",
           "sarea": "八里區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 13,
-          "tot": 14,
-          "last_mday": "20260826T091618",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260826T103504",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500201023",
-          "sna": "狀元公園",
-          "sarea": "八里區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260826T074902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500206046",
-          "sna": "中華日新街口",
+          "sno": "NTPC-500206026",
+          "sna": "大安中央路口",
           "sarea": "土城區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 9,
-          "tot": 10,
-          "last_mday": "20260826T090403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500227078",
-          "sna": "北城生活廣場(富貴街)",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260826T070703",
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260826T100103",
           "sample_count": 2
         },
         {
@@ -77,14 +55,58 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500224006",
-          "sna": "深坑國中",
-          "sarea": "深坑區",
+          "sno": "NTPC-500227109",
+          "sna": "胡璉故居紀念館",
+          "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 12,
-          "tot": 13,
-          "last_mday": "20260826T090803",
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260826T094303",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218144",
+          "sna": "板樹體育館",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T100202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220008",
+          "sna": "台北花園廣場社區",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260826T095002",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220017",
+          "sna": "台貿三村停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T103418",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220018",
+          "sna": "山腳停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T093418",
           "sample_count": 2
         }
       ],
@@ -93,18 +115,29 @@
     "4h": {
       "stations": [
         {
-          "sno": "NTPC-500227078",
-          "sna": "北城生活廣場(富貴街)",
+          "sno": "NTPC-500203141",
+          "sna": "新北大道一段57巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T090403",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500227001",
+          "sna": "天山公園(永安街)",
           "sarea": "新店區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260826T070703",
-          "sample_count": 4
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260826T083305",
+          "sample_count": 3
         }
       ],
-      "sample_count": 4
+      "sample_count": 3
     }
   }
 }
