@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T00:18:36+08:00",
-  "updated_at_display": "2026-08-27 00:18:36",
+  "updated_at": "2026-08-27T02:15:33+08:00",
+  "updated_at_display": "2026-08-27 02:15:33",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,6 +11,28 @@
     "2h": {
       "stations": [
         {
+          "sno": "NTPC-500202005",
+          "sna": "三芝區公所",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T225216",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203049",
+          "sna": "永盛公園",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260827T000503",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500203105",
           "sna": "興德路134號(前)",
           "sarea": "三重區",
@@ -19,6 +41,83 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260826T204403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209023",
+          "sna": "五工五五權路口",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260827T000803",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209017",
+          "sna": "新北市勞工活動中心",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 34,
+          "tot": 35,
+          "last_mday": "20260826T233202",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227131",
+          "sna": "博愛中正路口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 31,
+          "last_mday": "20260826T232404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227057",
+          "sna": "寶高智慧產業園區",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 60,
+          "tot": 61,
+          "last_mday": "20260826T233520",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227005",
+          "sna": "捷運十四張站",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 94,
+          "tot": 95,
+          "last_mday": "20260827T001403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229126",
+          "sna": "中正思源路口(西南側)",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 46,
+          "last_mday": "20260827T001121",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218228",
+          "sna": "中華電信板橋雲端資料中心",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "20260826T233403",
           "sample_count": 2
         },
         {
@@ -44,6 +143,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500234044",
+          "sna": "臺鐵鳳鳴站",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260827T001002",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500234064",
           "sna": "鶯歌山水步道停車場",
           "sarea": "鶯歌區",
@@ -52,17 +162,6 @@
           "bemp": 23,
           "tot": 24,
           "last_mday": "20260826T211104",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234026",
-          "sna": "鶯歌陶瓷博物館",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 22,
-          "last_mday": "20260826T223802",
           "sample_count": 2
         }
       ],
@@ -79,10 +178,43 @@
           "bemp": 19,
           "tot": 20,
           "last_mday": "20260826T204403",
-          "sample_count": 4
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500214066",
+          "sna": "大同路三段148號",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 19,
+          "last_mday": "20260826T222604",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500214080",
+          "sna": "福德一路392巷口",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260826T220503",
+          "sample_count": 3
+        },
+        {
+          "sno": "NTPC-500234064",
+          "sna": "鶯歌山水步道停車場",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260826T211104",
+          "sample_count": 3
         }
       ],
-      "sample_count": 4
+      "sample_count": 3
     }
   }
 }
