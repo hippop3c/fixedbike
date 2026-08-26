@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T09:23:01+08:00",
-  "updated_at_display": "2026-08-26 09:23:01",
+  "updated_at": "2026-08-26T10:48:13+08:00",
+  "updated_at_display": "2026-08-26 10:48:13",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -11,6 +11,50 @@
     "2h": {
       "stations": [
         {
+          "sno": "NTPC-500203141",
+          "sna": "新北大道一段57巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260826T090403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201008",
+          "sna": "八里區民活動中心",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260826T091618",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201023",
+          "sna": "狀元公園",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260826T074902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260826T090403",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500227078",
           "sna": "北城生活廣場(富貴街)",
           "sarea": "新店區",
@@ -19,14 +63,48 @@
           "bemp": 10,
           "tot": 11,
           "last_mday": "20260826T070703",
-          "sample_count": 3
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227001",
+          "sna": "天山公園(永安街)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260826T083305",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500224006",
+          "sna": "深坑國中",
+          "sarea": "深坑區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260826T090803",
+          "sample_count": 2
         }
       ],
-      "sample_count": 3
+      "sample_count": 2
     },
     "4h": {
-      "stations": [],
-      "sample_count": 6
+      "stations": [
+        {
+          "sno": "NTPC-500227078",
+          "sna": "北城生活廣場(富貴街)",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260826T070703",
+          "sample_count": 4
+        }
+      ],
+      "sample_count": 4
     }
   }
 }
