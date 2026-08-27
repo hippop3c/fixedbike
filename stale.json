@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T07:34:30+08:00",
-  "updated_at_display": "2026-08-27 07:34:30",
+  "updated_at": "2026-08-27T13:04:30+08:00",
+  "updated_at_display": "2026-08-27 13:04:30",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,31 +14,9 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260826T204403",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234064",
-          "sna": "鶯歌山水步道停車場",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260826T211104",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     }
   }
 }
