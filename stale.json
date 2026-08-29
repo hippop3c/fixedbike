@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T05:32:10+08:00",
-  "updated_at_display": "2026-08-30 05:32:10",
+  "updated_at": "2026-08-30T07:36:33+08:00",
+  "updated_at_display": "2026-08-30 07:36:33",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -16,6 +16,17 @@
     "4h": {
       "stations": [
         {
+          "sno": "NTPC-500202011",
+          "sna": "三芝遊客中心",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260830T050916",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500203108",
           "sna": "中正北重陽路口",
           "sarea": "三重區",
@@ -24,17 +35,6 @@
           "bemp": 11,
           "tot": 12,
           "last_mday": "20260829T221616",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260829T090317",
           "sample_count": 2
         },
         {
@@ -101,17 +101,6 @@
           "bemp": 29,
           "tot": 30,
           "last_mday": "20260829T170717",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207080",
-          "sna": "建六中正路口",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260828T224004",
           "sample_count": 2
         },
         {
@@ -291,17 +280,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229021",
-          "sna": "中港大排願景館",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 56,
-          "tot": 57,
-          "last_mday": "20260829T234418",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500229099",
           "sna": "廣停一機車停車場",
           "sarea": "新莊區",
@@ -346,17 +324,6 @@
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218136",
-          "sna": "捷運江子翠站(4號出口)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260830T010717",
-          "sample_count": 2
-        },
-        {
           "sno": "NTPC-500218211",
           "sna": "捷運江子翠站(5號出口)",
           "sarea": "板橋區",
@@ -379,6 +346,17 @@
           "sample_count": 2
         },
         {
+          "sno": "NTPC-500218154",
+          "sna": "板橋車站(新站路)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20260830T043817",
+          "sample_count": 2
+        },
+        {
           "sno": "NTPC-500218066",
           "sna": "潤泰社區",
           "sarea": "板橋區",
@@ -398,17 +376,6 @@
           "bemp": 16,
           "tot": 17,
           "last_mday": "20260830T020018",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231060",
-          "sna": "保安立體停車場",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "20260829T195616",
           "sample_count": 2
         },
         {
