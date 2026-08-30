@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>雙北 YouBike 整點監測</title>
+<title>雙北 YouBike 即時監測 v2</title>
 <style>
   :root {
     --bg: #0e1f2a;
@@ -414,8 +414,8 @@
 
   <header>
     <div>
-      <h1>雙北 YouBike 整點監測</h1>
-      <div class="sub">雙北涵蓋 ・ 多專案分組 ・ 每個整點自動更新</div>
+      <h1>雙北 YouBike 即時監測 v2</h1>
+      <div class="sub">雙北涵蓋 ・ 多專案分組 ・ 每 5 分鐘自動同步</div>
     </div>
     <div class="clock">
       <div class="now" id="clockNow">--:--:--</div>
@@ -485,8 +485,8 @@
   <div id="projects"></div>
 
   <footer>
-    所有專案設定**共用**：任何同事新增/編輯/刪除專案，會自動同步到雲端，其他人重新整理（或點「重新載入雲端設定」）就會看到。<br>
-    車輛數每整點自動更新。資料來源：<a href="https://data.ntpc.gov.tw/datasets/71cd1490-a2df-4198-bef1-318479775e8a" target="_blank" rel="noopener">新北市 YouBike2.0</a>（透過 Cloudflare Worker 代理）、<a href="https://data.taipei/dataset/detail?id=c6bc8aed-557d-41d5-bfb1-8da24f78f2fb" target="_blank" rel="noopener">臺北市 YouBike2.0</a>。
+    所有專案設定**共用**：任何同事新增/編輯/刪除專案，會自動同步到雲端，其他頁面會在 1 分鐘內自動載入。<br>
+    車輛、空位與總車格每 5 分鐘自動更新。資料來源：<a href="https://data.ntpc.gov.tw/datasets/71cd1490-a2df-4198-bef1-318479775e8a" target="_blank" rel="noopener">新北市 YouBike2.0</a>（透過 Cloudflare Worker 代理）、<a href="https://data.taipei/dataset/detail?id=c6bc8aed-557d-41d5-bfb1-8da24f78f2fb" target="_blank" rel="noopener">臺北市 YouBike2.0</a>。
   </footer>
 </div>
 
@@ -557,8 +557,10 @@ const DEFAULT_PROJECTS = [
   { id: "p1", name: "專案 1", stationIds: [] },
 ];
 
-async function loadProjectsFromCloud() {
+let lastProjectLoadWasCloud = false;
+async function loadProjectsFromCloud({ allowFallback = true } = {}) {
   if (!JSONBIN_BIN_ID || JSONBIN_BIN_ID === "YOUR_BIN_ID_HERE") {
+    lastProjectLoadWasCloud = false;
     console.warn("尚未設定 JSONBIN_BIN_ID，使用預設值");
     return JSON.parse(JSON.stringify(DEFAULT_PROJECTS));
   }
@@ -572,12 +574,18 @@ async function loadProjectsFromCloud() {
     const data = json.record || json;
     const arr = Array.isArray(data) ? data : (Array.isArray(data.projects) ? data.projects : null);
     if (arr) {
+      lastProjectLoadWasCloud = true;
       // 同步存一份到 localStorage 當離線備援
       localStorage.setItem(STORAGE_KEY, JSON.stringify(arr));
       return arr;
     }
     throw new Error("格式錯誤");
   } catch (err) {
+    lastProjectLoadWasCloud = false;
+    if (!allowFallback) {
+      console.warn("雲端設定自動同步失敗：", err);
+      return null;
+    }
     console.warn("雲端讀取失敗，改用本地快取：", err);
     // 離線備援
     try {
@@ -590,15 +598,24 @@ async function loadProjectsFromCloud() {
 
 let saveTimer = null;
 let saveInFlight = false;
+let saveQueued = false;
+let saveDirty = false;
+let saveRetryTimer = null;
 async function saveProjectsToCloud() {
   // 先存本地快取
   localStorage.setItem(STORAGE_KEY, JSON.stringify(projects));
+  saveDirty = true;
 
   // 用 debounce 避免短時間連續存
   if (saveTimer) clearTimeout(saveTimer);
   saveTimer = setTimeout(async () => {
-    if (saveInFlight) return;
+    saveTimer = null;
+    if (saveInFlight) {
+      saveQueued = true;
+      return;
+    }
     saveInFlight = true;
+    const snapshot = JSON.stringify(projects);
     setSyncStatus("syncing", "同步中…");
     try {
       const res = await fetch(JSONBIN_WRITE_URL, {
@@ -607,18 +624,45 @@ async function saveProjectsToCloud() {
           "Content-Type": "application/json",
           "X-Master-Key": JSONBIN_API_KEY,
         },
-        body: JSON.stringify({ projects }),
+        body: JSON.stringify({ projects: JSON.parse(snapshot) }),
       });
       if (!res.ok) throw new Error("HTTP " + res.status);
+      if (snapshot === JSON.stringify(projects)) saveDirty = false;
+      else saveQueued = true;
+      if (saveRetryTimer) {
+        clearTimeout(saveRetryTimer);
+        saveRetryTimer = null;
+      }
       setSyncStatus("ok", "✓ 已同步到雲端");
       setTimeout(() => setSyncStatus("", ""), 2200);
     } catch (err) {
       console.error("雲端寫入失敗：", err);
       setSyncStatus("warn", "⚠ 同步失敗（已保存本地）：" + err.message);
+      if (!saveRetryTimer) {
+        saveRetryTimer = setTimeout(() => {
+          saveRetryTimer = null;
+          if (saveDirty) saveProjectsToCloud();
+        }, 30 * 1000);
+      }
     } finally {
       saveInFlight = false;
+      if (saveQueued) {
+        saveQueued = false;
+        saveProjectsToCloud();
+      }
     }
   }, 400);
+}
+
+async function refreshProjectsFromCloudSilently() {
+  if (saveDirty || saveInFlight || saveTimer) return;
+  const latest = await loadProjectsFromCloud({ allowFallback: false });
+  if (!latest || JSON.stringify(latest) === JSON.stringify(projects)) return;
+  projects = latest;
+  migrateOldStationIds();
+  renderAll();
+  setSyncStatus("ok", "✓ 雲端設定已自動同步");
+  setTimeout(() => setSyncStatus("", ""), 2200);
 }
 
 // 保留同名函式，舊程式碼呼叫 saveProjects() 時自動同步雲端
@@ -651,10 +695,12 @@ async function fetchYouBike() {
   // 並行抓兩個來源
   await Promise.all(SOURCES.map(async src => {
     try {
-      const res = await fetch(src.url, { cache: "no-store" });
+      const separator = src.url.includes("?") ? "&" : "?";
+      const res = await fetch(src.url + separator + "_=" + Date.now(), { cache: "no-store" });
       if (!res.ok) throw new Error("HTTP " + res.status);
       const raw = await res.json();
       if (!Array.isArray(raw)) throw new Error("格式錯誤");
+      const fetchedAt = new Date().toISOString();
       raw.forEach(d => {
         const sno = d.sno;
         if (!sno) return;
@@ -669,20 +715,22 @@ async function fetchYouBike() {
             sarea: d.sarea || "",
             ar: d.ar || "",
             sbi: 0, bemp: 0, tot: 0,
-            mday: "",
+            mday: "", sourceUpdatedAt: "",
           };
         }
-        // 欄位相容：台北官方 blob 端點已把 sbi / bemp / tot 改名為
-        // available_rent_bikes / available_return_bikes / total（新北經 Worker 代理仍是舊欄名）。
+        // 欄位相容：台北官方 blob 使用 available_rent_bikes /
+        // available_return_bikes / Quantity（新北經 Worker 代理仍是舊欄名）。
         // 兩種欄名都嘗試讀取，避免台北站數值全部變 0。
         const _sbi  = Number(d.sbi  ?? d.available_rent_bikes   ?? d.availableRentBikes   ?? 0);
         const _bemp = Number(d.bemp ?? d.available_return_bikes ?? d.availableReturnBikes ?? 0);
-        const _tot  = Number(d.tot  ?? d.total ?? d.totalDocks ?? 0);
+        const _tot  = Number(d.Quantity ?? d.quantity ?? d.tot_quantity ?? d.tot ?? d.total ?? d.totalDocks ?? 0);
         merged[key].sbi  += _sbi;
         merged[key].bemp  = Math.max(merged[key].bemp, _bemp);
         merged[key].tot   = Math.max(merged[key].tot,  _tot);
-        const t = d.mday || d.srcUpdateTime || d.updateTime || d.infoTime || "";
-        if (t > merged[key].mday) merged[key].mday = t;
+        const stateTime = d.mday || d.infoTime || "";
+        const sourceTime = d.srcUpdateTime || d.updateTime || d.infoTime || fetchedAt;
+        if (stateTime > merged[key].mday) merged[key].mday = stateTime;
+        if (sourceTime > merged[key].sourceUpdatedAt) merged[key].sourceUpdatedAt = sourceTime;
       });
     } catch (err) {
       console.error(src.city + " 抓取失敗：", err);
@@ -727,7 +775,8 @@ function migrateOldStationIds() {
   });
   if (changed) {
     console.log("已自動升級舊格式站點 ID");
-    saveProjectsToCloud();
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(projects));
+    if (lastProjectLoadWasCloud) saveProjectsToCloud();
   }
 }
 
@@ -799,6 +848,9 @@ function formatMday(s) {
   if (!s) return "";
   if (/^\d{14}$/.test(s)) {
     return s.slice(4,6) + "/" + s.slice(6,8) + " " + s.slice(8,10) + ":" + s.slice(10,12);
+  }
+  if (/^\d{8}T\d{6}$/.test(s)) {
+    return s.slice(4,6) + "/" + s.slice(6,8) + " " + s.slice(9,11) + ":" + s.slice(11,13);
   }
   const d = new Date(s);
   if (!isNaN(d)) {
@@ -933,7 +985,7 @@ function renderProject(p) {
     let s = stationMap[savedId];
     if (!s) s = stationMap["NTPC-" + savedId];
     if (!s) s = stationMap["TPE-" + savedId];
-    return s || { sno: savedId, sna: "(載入中…)", sbi: "--", bemp: "--", tot: 0, mday: "" };
+    return s || { sno: savedId, sna: "(載入中…)", sbi: "--", bemp: "--", tot: 0, mday: "", sourceUpdatedAt: "" };
   });
 
   // 複製用文字
@@ -996,7 +1048,7 @@ function renderStationCard(s, projectId) {
       <div class="num empty"><span class="v">${s.bemp}</span><span class="l">空位數</span></div>
     </div>
     <div class="bar"><span style="width:${pct}%"></span></div>
-    <div class="meta"><span>總車格 ${tot || "--"}</span><span>${formatMday(s.mday)}</span></div>
+    <div class="meta"><span>總車格 ${tot || "--"}</span><span title="最後站況 ${escapeHtml(formatMday(s.mday))}">同步 ${escapeHtml(formatMday(s.sourceUpdatedAt || s.mday))}</span></div>
   `;
   card.querySelector(".remove-btn").onclick = () => removeStationFromProject(projectId, s.sno);
   return card;
@@ -1165,28 +1217,32 @@ document.addEventListener("keydown", e => {
 });
 
 // =========================================================
-//  時鐘與整點排程
+//  時鐘與每 5 分鐘同步排程
 // =========================================================
+let nextStationRefreshAt = null;
+
 function tickClock() {
   const now = new Date();
   document.getElementById("clockNow").textContent =
     now.toLocaleTimeString("zh-TW", { hour12: false });
-  const next = new Date(now);
-  next.setHours(now.getHours() + 1, 0, 0, 0);
   document.getElementById("clockNext").textContent =
-    "下次更新：" + next.getHours().toString().padStart(2,"0") + ":00";
+    nextStationRefreshAt
+      ? "下次更新：" + nextStationRefreshAt.toLocaleTimeString("zh-TW", { hour: "2-digit", minute: "2-digit", hour12: false })
+      : "下次更新：計算中";
 }
 setInterval(tickClock, 1000);
 tickClock();
 
-function scheduleHourly() {
+function scheduleStationRefresh() {
   const now = new Date();
   const next = new Date(now);
-  next.setHours(now.getHours() + 1, 0, 5, 0);
-  const wait = next - now;
+  next.setSeconds(5, 0);
+  next.setMinutes(Math.floor(now.getMinutes() / 5) * 5 + 5);
+  nextStationRefreshAt = next;
+  const wait = Math.max(1000, next - now);
   setTimeout(async () => {
     await fetchYouBike();
-    setInterval(fetchYouBike, 60 * 60 * 1000);
+    scheduleStationRefresh();
   }, wait);
 }
 
@@ -1237,7 +1293,8 @@ document.getElementById("staleCopyBtn").onclick = (e) => {
   renderAll();
   fetchYouBike();
   loadStaleData();
-  scheduleHourly();
+  scheduleStationRefresh();
+  setInterval(refreshProjectsFromCloudSilently, 60 * 1000);
   // 每 15 分鐘重新讀 stale.json（跟採樣頻率一致）
   setInterval(loadStaleData, 15 * 60 * 1000);
 })();

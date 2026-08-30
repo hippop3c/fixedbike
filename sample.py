@@ -7,6 +7,7 @@ import json
 import os
 import sys
 import glob
+import time
 from datetime import datetime, timezone, timedelta
 
 TPE = timezone(timedelta(hours=8))
@@ -29,11 +30,12 @@ SOURCES = [
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; youbike-sampler/1.0)",
     "Accept": "application/json",
+    "Cache-Control": "no-cache, no-store",
 }
 
 
 def fetch_source(src):
-    r = requests.get(src["url"], timeout=30, headers=HEADERS)
+    r = requests.get(src["url"], timeout=30, headers=HEADERS, params={"_": int(time.time())})
     r.raise_for_status()
     data = r.json()
     if not isinstance(data, list):
@@ -70,9 +72,15 @@ def main():
                         "tot": 0,
                         "mday": "",
                     }
-                merged[key]["sbi"] += int(d.get("sbi") or 0)
-                merged[key]["bemp"] = max(merged[key]["bemp"], int(d.get("bemp") or 0))
-                merged[key]["tot"] = max(merged[key]["tot"], int(d.get("tot") or 0))
+                sbi = d.get("sbi", d.get("available_rent_bikes", d.get("availableRentBikes", 0)))
+                bemp = d.get("bemp", d.get("available_return_bikes", d.get("availableReturnBikes", 0)))
+                tot = d.get(
+                    "Quantity",
+                    d.get("quantity", d.get("tot_quantity", d.get("tot", d.get("total", d.get("totalDocks", 0))))),
+                )
+                merged[key]["sbi"] += int(sbi or 0)
+                merged[key]["bemp"] = max(merged[key]["bemp"], int(bemp or 0))
+                merged[key]["tot"] = max(merged[key]["tot"], int(tot or 0))
                 t = d.get("mday") or d.get("srcUpdateTime") or ""
                 if t > merged[key]["mday"]:
                     merged[key]["mday"] = t

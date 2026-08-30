@@ -2,8 +2,8 @@ name: YouBike sample & analyze
 
 on:
   schedule:
-    # 每 15 分鐘一次（UTC 時間；台灣 = UTC+8）
-    - cron: '*/15 * * * *'
+    # 每 15 分鐘一次，避開 GitHub Actions 整點尖峰（UTC；台灣 = UTC+8）
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:   # 也可以手動觸發
 
 permissions:
