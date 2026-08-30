@@ -486,7 +486,7 @@
 
   <footer>
     所有專案設定**共用**：任何同事新增/編輯/刪除專案，會自動同步到雲端，其他頁面會在 1 分鐘內自動載入。<br>
-    車輛、空位與總車格每 5 分鐘自動更新。資料來源：<a href="https://data.ntpc.gov.tw/datasets/71cd1490-a2df-4198-bef1-318479775e8a" target="_blank" rel="noopener">新北市 YouBike2.0</a>（透過 Cloudflare Worker 代理）、<a href="https://data.taipei/dataset/detail?id=c6bc8aed-557d-41d5-bfb1-8da24f78f2fb" target="_blank" rel="noopener">臺北市 YouBike2.0</a>。
+    專案站點的車輛、空位與總車格每 5 分鐘直接同步 YouBike 官網即時資料。全站清單備援來源：<a href="https://data.ntpc.gov.tw/datasets/010e5b15-3823-4b20-b401-b1cf000550c5" target="_blank" rel="noopener">新北市 YouBike2.0</a>、<a href="https://data.taipei/dataset/detail?id=c6bc8aed-557d-41d5-bfb1-8da24f78f2fb" target="_blank" rel="noopener">臺北市 YouBike2.0</a>。
   </footer>
 </div>
 
@@ -538,6 +538,11 @@ const SOURCES = [
     url: "https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json",
   },
 ];
+
+// YouBike 官網地圖實際使用的即時站位端點。
+// station_no 查詢一次最多 20 站；專案中的站點會以此結果覆寫延遲的開放資料。
+const OFFICIAL_REALTIME_URL = "https://apis.youbike.com.tw/tw2/parkingInfo";
+const OFFICIAL_REALTIME_BATCH_SIZE = 20;
 
 // =========================================================
 //  雲端共用設定（JSONBin.io）
@@ -661,6 +666,7 @@ async function refreshProjectsFromCloudSilently() {
   projects = latest;
   migrateOldStationIds();
   renderAll();
+  fetchYouBike();
   setSyncStatus("ok", "✓ 雲端設定已自動同步");
   setTimeout(() => setSyncStatus("", ""), 2200);
 }
@@ -681,6 +687,62 @@ let projects = [];      // 由 init() 載入
 let allStations = [];   // 從 API 抓的全部站點
 let stationMap = {};    // sno -> station object
 
+function getTrackedRawStationIds() {
+  const ids = new Set();
+  projects.forEach(p => (p.stationIds || []).forEach(id => {
+    const rawId = String(id).replace(/^(?:TPE|NTPC)-/, "");
+    if (rawId) ids.add(rawId);
+  }));
+  return Array.from(ids);
+}
+
+function findStationKeyByRawId(merged, rawId) {
+  if (merged["TPE-" + rawId]) return "TPE-" + rawId;
+  if (merged["NTPC-" + rawId]) return "NTPC-" + rawId;
+  return null;
+}
+
+async function applyOfficialProjectRealtime(merged) {
+  const ids = getTrackedRawStationIds();
+  if (ids.length === 0) return 0;
+
+  const batches = [];
+  for (let i = 0; i < ids.length; i += OFFICIAL_REALTIME_BATCH_SIZE) {
+    batches.push(ids.slice(i, i + OFFICIAL_REALTIME_BATCH_SIZE));
+  }
+
+  const fetchedAt = new Date().toISOString();
+  const responses = await Promise.all(batches.map(async stationIds => {
+    const res = await fetch(OFFICIAL_REALTIME_URL + "?_=" + Date.now(), {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ station_no: stationIds }),
+      cache: "no-store",
+    });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const json = await res.json();
+    if (!json || !json.retCode) throw new Error(json?.retMsg || "格式錯誤");
+    return Array.isArray(json.retVal?.data)
+      ? json.retVal.data
+      : (Array.isArray(json.retVal) ? json.retVal : []);
+  }));
+
+  let updatedCount = 0;
+  responses.flat().forEach(d => {
+    const rawId = String(d.station_no || "");
+    const key = findStationKeyByRawId(merged, rawId);
+    if (!key) return;
+    merged[key].sbi = Number(d.available_spaces ?? 0);
+    merged[key].bemp = Number(d.empty_spaces ?? 0);
+    merged[key].tot = Number(d.parking_spaces ?? 0);
+    merged[key].act = Number(d.status ?? 0) === 1 ? "1" : "0";
+    merged[key].sourceUpdatedAt = fetchedAt;
+    merged[key].officialRealtime = true;
+    updatedCount++;
+  });
+  return updatedCount;
+}
+
 // =========================================================
 //  抓資料 & 合併（雙北 + 同站的 2.0 / 2.0E）
 // =========================================================
@@ -700,7 +762,6 @@ async function fetchYouBike() {
       if (!res.ok) throw new Error("HTTP " + res.status);
       const raw = await res.json();
       if (!Array.isArray(raw)) throw new Error("格式錯誤");
-      const fetchedAt = new Date().toISOString();
       raw.forEach(d => {
         const sno = d.sno;
         if (!sno) return;
@@ -715,7 +776,7 @@ async function fetchYouBike() {
             sarea: d.sarea || "",
             ar: d.ar || "",
             sbi: 0, bemp: 0, tot: 0,
-            mday: "", sourceUpdatedAt: "",
+            mday: "", sourceUpdatedAt: "", act: String(d.act ?? ""), officialRealtime: false,
           };
         }
         // 欄位相容：台北官方 blob 使用 available_rent_bikes /
@@ -728,7 +789,7 @@ async function fetchYouBike() {
         merged[key].bemp  = Math.max(merged[key].bemp, _bemp);
         merged[key].tot   = Math.max(merged[key].tot,  _tot);
         const stateTime = d.mday || d.infoTime || "";
-        const sourceTime = d.srcUpdateTime || d.updateTime || d.infoTime || fetchedAt;
+        const sourceTime = d.srcUpdateTime || d.updateTime || d.infoTime || d.mday || "";
         if (stateTime > merged[key].mday) merged[key].mday = stateTime;
         if (sourceTime > merged[key].sourceUpdatedAt) merged[key].sourceUpdatedAt = sourceTime;
       });
@@ -737,6 +798,14 @@ async function fetchYouBike() {
       errors.push(`${src.city}: ${err.message}`);
     }
   }));
+
+  let officialRealtimeCount = 0;
+  try {
+    officialRealtimeCount = await applyOfficialProjectRealtime(merged);
+  } catch (err) {
+    console.error("YouBike 官網即時站位抓取失敗：", err);
+    errors.push(`官網即時站位: ${err.message}`);
+  }
 
   allStations = Object.values(merged);
   stationMap = merged;
@@ -753,7 +822,7 @@ async function fetchYouBike() {
   } else {
     status.className = "status ok";
     status.textContent = "已更新 " + new Date().toLocaleTimeString("zh-TW", { hour12: false }) +
-                        " ・ 共 " + allStations.length + " 站";
+                        " ・ 官網即時 " + officialRealtimeCount + " 站 ・ 共 " + allStations.length + " 站";
   }
   renderAll();
   return allStations.length > 0;
@@ -985,7 +1054,7 @@ function renderProject(p) {
     let s = stationMap[savedId];
     if (!s) s = stationMap["NTPC-" + savedId];
     if (!s) s = stationMap["TPE-" + savedId];
-    return s || { sno: savedId, sna: "(載入中…)", sbi: "--", bemp: "--", tot: 0, mday: "", sourceUpdatedAt: "" };
+    return s || { sno: savedId, sna: "(載入中…)", sbi: "--", bemp: "--", tot: 0, mday: "", sourceUpdatedAt: "", officialRealtime: false };
   });
 
   // 複製用文字
@@ -1048,7 +1117,7 @@ function renderStationCard(s, projectId) {
       <div class="num empty"><span class="v">${s.bemp}</span><span class="l">空位數</span></div>
     </div>
     <div class="bar"><span style="width:${pct}%"></span></div>
-    <div class="meta"><span>總車格 ${tot || "--"}</span><span title="最後站況 ${escapeHtml(formatMday(s.mday))}">同步 ${escapeHtml(formatMday(s.sourceUpdatedAt || s.mday))}</span></div>
+    <div class="meta"><span>總車格 ${tot || "--"}</span><span title="最後站況 ${escapeHtml(formatMday(s.mday))}">${s.officialRealtime ? "官網同步 " : "資料時間 "}${escapeHtml(formatMday(s.sourceUpdatedAt || s.mday))}</span></div>
   `;
   card.querySelector(".remove-btn").onclick = () => removeStationFromProject(projectId, s.sno);
   return card;
@@ -1190,6 +1259,7 @@ function addStationToProject(projectId, sno) {
   p.stationIds.push(sno);
   saveProjects();
   renderAll();
+  fetchYouBike();
   // 重新搜尋（更新已加入清單）
   searchStations(document.getElementById("stationSearchInput").value);
 }

@@ -14,6 +14,22 @@ TPE = timezone(timedelta(hours=8))
 HISTORY_DIR = "history"
 KEEP_HOURS = 12
 
+OFFICIAL_REALTIME_URL = "https://apis.youbike.com.tw/tw2/parkingInfo"
+# 11 個 10 公里查詢圈可覆蓋目前雙北全部站點；每次採樣僅 11 次請求。
+OFFICIAL_AREA_CENTERS = [
+    (25.03915, 121.52163),
+    (25.00557, 121.41306),
+    (25.18696, 121.44407),
+    (25.01066, 121.67716),
+    (24.93192, 121.40753),
+    (25.0590226, 121.8518644),
+    (25.21974, 121.62916),
+    (24.95091, 121.5474),
+    (25.25232, 121.47131),
+    (25.10893, 121.46639),
+    (25.10113, 121.55159),
+]
+
 SOURCES = [
     {
         "city": "新北市",
@@ -41,6 +57,28 @@ def fetch_source(src):
     if not isinstance(data, list):
         raise RuntimeError(f"{src['city']} 回傳格式錯誤")
     return data
+
+
+def fetch_official_realtime():
+    """讀取 YouBike 官網地圖使用的即時站位資料，並依站碼去重。"""
+    live = {}
+    for lat, lng in OFFICIAL_AREA_CENTERS:
+        r = requests.post(
+            OFFICIAL_REALTIME_URL,
+            json={"lat": lat, "lng": lng, "maxDistance": 10000},
+            timeout=30,
+            headers=HEADERS,
+            params={"_": int(time.time())},
+        )
+        r.raise_for_status()
+        payload = r.json()
+        if not payload.get("retCode") or not isinstance(payload.get("retVal"), list):
+            raise RuntimeError(payload.get("retMsg") or "官網即時資料格式錯誤")
+        for station in payload["retVal"]:
+            sno = str(station.get("station_no") or "")
+            if sno.startswith(("5001", "5002")):
+                live[sno] = station
+    return live
 
 
 def main():
@@ -92,6 +130,26 @@ def main():
         print("全部來源失敗，本次不寫檔", file=sys.stderr)
         sys.exit(1)
 
+    # 開放資料只作站點清單與備援；數量以 YouBike 官網地圖的即時端點覆寫。
+    try:
+        official_live = fetch_official_realtime()
+        updated = 0
+        for key, station in merged.items():
+            raw_sno = key.split("-", 1)[-1]
+            live = official_live.get(raw_sno)
+            if not live:
+                continue
+            station["sbi"] = int(live.get("available_spaces") or 0)
+            station["bemp"] = int(live.get("empty_spaces") or 0)
+            station["tot"] = int(live.get("parking_spaces") or 0)
+            station["state_signature"] = "{}:{}:{}".format(
+                station["sbi"], station["bemp"], live.get("status")
+            )
+            updated += 1
+        print(f"  ✓ YouBike 官網即時站位: {updated} 站")
+    except Exception as e:
+        print(f"  ⚠ 官網即時站位失敗，沿用開放資料備援: {e}", file=sys.stderr)
+
     # 精簡：分析階段只需要 sbi 和 mday，其它欄位靠最新一次採樣就好
     payload = {
         "sampled_at": now.isoformat(timespec="seconds"),
@@ -105,6 +163,7 @@ def main():
                 "bemp": s["bemp"],
                 "tot": s["tot"],
                 "mday": s["mday"],
+                "state_signature": s.get("state_signature", s["mday"]),
             }
             for key, s in merged.items()
         },

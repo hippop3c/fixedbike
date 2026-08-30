@@ -49,7 +49,10 @@ def analyze_window(samples, hours, now):
     hits = []
     for sno in station_ids:
         series_sbi = [stations[sno]["sbi"] for (_, stations) in window_samples]
-        series_mday = [stations[sno]["mday"] for (_, stations) in window_samples]
+        series_mday = [
+            stations[sno].get("state_signature", stations[sno]["mday"])
+            for (_, stations) in window_samples
+        ]
 
         # 條件 1：所有樣本 sbi 都等於目標值
         if not all(v == TARGET_SBI for v in series_sbi):
