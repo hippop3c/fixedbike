@@ -48,6 +48,9 @@ def analyze_window(samples, hours, now):
 
     hits = []
     for sno in station_ids:
+        # 暫停營運站即使實體仍留有1台車，也不屬於可借車異常。
+        if any(str(stations[sno].get("act", "1")) == "0" for _, stations in window_samples):
+            continue
         series_sbi = [stations[sno]["sbi"] for (_, stations) in window_samples]
         series_mday = [
             stations[sno].get("state_signature", stations[sno]["mday"])

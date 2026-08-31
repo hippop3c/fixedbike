@@ -109,6 +109,7 @@ def main():
                         "bemp": 0,
                         "tot": 0,
                         "mday": "",
+                        "act": str(d.get("act", "")),
                     }
                 sbi = d.get("sbi", d.get("available_rent_bikes", d.get("availableRentBikes", 0)))
                 bemp = d.get("bemp", d.get("available_return_bikes", d.get("availableReturnBikes", 0)))
@@ -122,6 +123,11 @@ def main():
                 t = d.get("mday") or d.get("srcUpdateTime") or ""
                 if t > merged[key]["mday"]:
                     merged[key]["mday"] = t
+                source_act = str(d.get("act", ""))
+                if source_act == "0":
+                    merged[key]["act"] = "0"
+                elif source_act == "1" and merged[key].get("act") != "0":
+                    merged[key]["act"] = "1"
             ok_cities.append(src["city"])
         except Exception as e:
             print(f"  ✗ {src['city']} 失敗: {e}", file=sys.stderr)
@@ -139,8 +145,10 @@ def main():
             live = official_live.get(raw_sno)
             if not live:
                 continue
-            station["sbi"] = int(live.get("available_spaces") or 0)
-            station["bemp"] = int(live.get("empty_spaces") or 0)
+            operating = int(live.get("status") or 0) == 1
+            station["act"] = "1" if operating else "0"
+            station["sbi"] = int(live.get("available_spaces") or 0) if operating else 0
+            station["bemp"] = int(live.get("empty_spaces") or 0) if operating else 0
             station["tot"] = int(live.get("parking_spaces") or 0)
             station["state_signature"] = "{}:{}:{}".format(
                 station["sbi"], station["bemp"], live.get("status")
@@ -149,6 +157,12 @@ def main():
         print(f"  ✓ YouBike 官網即時站位: {updated} 站")
     except Exception as e:
         print(f"  ⚠ 官網即時站位失敗，沿用開放資料備援: {e}", file=sys.stderr)
+
+    # 暫停站可能仍留置車輛，但不可借；避免寫入歷史後誤判為「持續1台」。
+    for station in merged.values():
+        if station.get("act") == "0":
+            station["sbi"] = 0
+            station["bemp"] = 0
 
     # 精簡：分析階段只需要 sbi 和 mday，其它欄位靠最新一次採樣就好
     payload = {
@@ -162,6 +176,7 @@ def main():
                 "sbi": s["sbi"],
                 "bemp": s["bemp"],
                 "tot": s["tot"],
+                "act": s.get("act", ""),
                 "mday": s["mday"],
                 "state_signature": s.get("state_signature", s["mday"]),
             }
