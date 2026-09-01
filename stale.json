@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T01:04:07+08:00",
-  "updated_at_display": "2026-09-02 01:04:07",
+  "updated_at": "2026-09-02T03:55:27+08:00",
+  "updated_at_display": "2026-09-02 03:55:27",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,9 +14,251 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500207080",
+          "sna": "建六中正路口",
+          "sarea": "中和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20260901T201402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218027",
+          "sna": "光復高中",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20260901T201402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218144",
+          "sna": "板樹體育館",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260901T201402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218041",
+          "sna": "浮洲火車站",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 75,
+          "tot": 76,
+          "last_mday": "20260901T201402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218127",
+          "sna": "海山高中(漢生東路)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260901T201402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216083",
+          "sna": "國家檔案館",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260901T201402",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223096",
+          "sna": "輕軌淡水行政中心(南側)",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260901T201402",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107065",
+          "sna": "松江路77巷口",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106063",
+          "sna": "寶藏巖觀音亭",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106004",
+          "sna": "捷運公館站(4號出口)",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106152",
+          "sna": "量水室古蹟廣場",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 43,
+          "tot": 44,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108118",
+          "sna": "康樂街151巷",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108047",
+          "sna": "瑞光公共住宅(瑞光路)",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 16,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108084",
+          "sna": "瑞湖陽光街口",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 34,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108122",
+          "sna": "陽光舊宗路口",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 20,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500109076",
+          "sna": "石牌立農街口",
+          "sarea": "北投區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 27,
+          "tot": 29,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500111063",
+          "sna": "成德綠地",
+          "sarea": "南港區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105116",
+          "sna": "景興路177巷",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500110009",
+          "sna": "捷運南京三民站(4號出口)",
+          "sarea": "松山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119066",
+          "sna": "臺大凝態館南側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119008",
+          "sna": "臺大檔案展示館",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119085",
+          "sna": "臺大電機二館東南側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "2026-09-02 03:53:02",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
