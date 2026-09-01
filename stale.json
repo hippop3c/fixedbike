@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T07:27:20+08:00",
-  "updated_at_display": "2026-09-01 07:27:20",
+  "updated_at": "2026-09-01T10:02:04+08:00",
+  "updated_at_display": "2026-09-01 10:02:04",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,7 +14,382 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
+      "stations": [
+        {
+          "sno": "NTPC-500205016",
+          "sna": "中華愛國路口",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203072",
+          "sna": "仁美街/三和路四段145巷口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203075",
+          "sna": "國隆大仁街口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206084",
+          "sna": "金城峯廷街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 9,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206230",
+          "sna": "雲溪廣場(青雲路183巷)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227131",
+          "sna": "博愛中正路口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 31,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227065",
+          "sna": "大豐公園停車場",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227103",
+          "sna": "安興祥和路口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227008",
+          "sna": "新店高中",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 46,
+          "tot": 47,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229117",
+          "sna": "龍安福營路口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218208",
+          "sna": "南雅西路一段(画世代社區)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218193",
+          "sna": "府中汽車停車場",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218137",
+          "sna": "新北市政府板橋分局沙崙派出所",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218204",
+          "sna": "民治街81巷",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218015",
+          "sna": "浮洲合宜住宅(合安一合宜路口)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 57,
+          "tot": 58,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218131",
+          "sna": "稚匯公園(華江三路)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 19,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218042",
+          "sna": "馥華公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 66,
+          "tot": 67,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216088",
+          "sna": "樂活公園(文化一路)",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210047",
+          "sna": "頂溪國小地下停車場",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500220018",
+          "sna": "山腳停車場",
+          "sarea": "泰山區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234033",
+          "sna": "光明橋",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 14,
+          "last_mday": "20260901T095902",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106011",
+          "sna": "捷運臺電大樓站(5號出口)",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106113",
+          "sna": "濟南路二段8巷口",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 14,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500112086",
+          "sna": "五分埔公園",
+          "sarea": "信義區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 20,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500112047",
+          "sna": "興雅國小(基隆路一段37巷)",
+          "sarea": "信義區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500112101",
+          "sna": "革新公園",
+          "sarea": "信義區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 18,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108061",
+          "sna": "碧湖公園(內湖路二段103巷)",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 19,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500109114",
+          "sna": "奇岩抽水站",
+          "sarea": "北投區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500104126",
+          "sna": "克強磺溪街口",
+          "sarea": "士林區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 21,
+          "tot": 24,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500104018",
+          "sna": "忠誠路一段173巷口",
+          "sarea": "士林區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 6,
+          "tot": 11,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101233",
+          "sna": "捷運忠孝復興站(3號出口)",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 35,
+          "tot": 37,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500110047",
+          "sna": "捷運小巨蛋站(5號出口)",
+          "sarea": "松山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 22,
+          "last_mday": "2026-09-01 09:59:17",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119062",
+          "sna": "臺大公館停車場西北側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119070",
+          "sna": "臺大椰林小舖",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 61,
+          "tot": 65,
+          "last_mday": "2026-09-01 09:59:02",
+          "sample_count": 2
+        }
+      ],
       "sample_count": 2
     }
   }
