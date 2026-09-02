@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T21:52:02+08:00",
-  "updated_at_display": "2026-09-02 21:52:02",
+  "updated_at": "2026-09-03T01:36:17+08:00",
+  "updated_at_display": "2026-09-03 01:36:17",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,9 +14,207 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "TPE-500107165",
+          "sna": "吉林南京路口(西北側)",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 22,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107098",
+          "sna": "松江路132巷口",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 14,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106001",
+          "sna": "臺北自來水事業處",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500112027",
+          "sna": "松山家商",
+          "sarea": "信義區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108116",
+          "sna": "宏匯瑞光廣場(瑞光路)",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 16,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108226",
+          "sna": "成功路二段/石潭路(西南側)",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 44,
+          "tot": 45,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108213",
+          "sna": "黃石公廟",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500103082",
+          "sna": "捷運民權西路站(1號出口)",
+          "sarea": "大同區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 19,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101006",
+          "sna": "復興南路二段280號前",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101007",
+          "sna": "復興南路二段340巷口",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 11,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101221",
+          "sna": "忠孝東路四段248巷口",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 25,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101232",
+          "sna": "捷運古亭站(3號出口)",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101024",
+          "sna": "臺灣科技大學正門",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 49,
+          "tot": 50,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105005",
+          "sna": "捷運萬隆站(2號出口)",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105116",
+          "sna": "景興路177巷",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105030",
+          "sna": "臺北市立景美女中",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 25,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500110044",
+          "sna": "捷運南京復興站(5號出口)",
+          "sarea": "松山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 66,
+          "tot": 68,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500110015",
+          "sna": "松基公園",
+          "sarea": "松山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "2026-09-03 01:34:02",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
