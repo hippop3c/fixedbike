@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T12:41:30+08:00",
-  "updated_at_display": "2026-09-05 12:41:30",
+  "updated_at": "2026-09-05T16:39:58+08:00",
+  "updated_at_display": "2026-09-05 16:39:58",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,9 +14,196 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500209019",
+          "sna": "成泰路4段22巷",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 38,
+          "tot": 42,
+          "last_mday": "20260905T163403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206032",
+          "sna": "學士學府路口(大苑社區)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 45,
+          "tot": 47,
+          "last_mday": "20260905T163403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229074",
+          "sna": "雙鳳公園",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20260905T163403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218181",
+          "sna": "中山國小地下停車場",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260905T163403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216083",
+          "sna": "國家檔案館",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260905T163403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234005",
+          "sna": "尖山國中",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260905T163403",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107026",
+          "sna": "建國長春路口",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107053",
+          "sna": "新喜公園",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107083",
+          "sna": "興安合江路口",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500109094",
+          "sna": "立功街55巷口",
+          "sarea": "北投區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500111031",
+          "sna": "南港加壓站",
+          "sarea": "南港區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "2026-09-05 16:38:17",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500103077",
+          "sna": "太平國小",
+          "sarea": "大同區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500103054",
+          "sna": "重慶長安路口",
+          "sarea": "大同區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500110098",
+          "sna": "中崙高中停車場",
+          "sarea": "松山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119087",
+          "sna": "臺大總圖書館西南側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 72,
+          "tot": 73,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500113015",
+          "sna": "莒光立體停車場",
+          "sarea": "萬華區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "2026-09-05 16:38:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500113028",
+          "sna": "華江八號公園",
+          "sarea": "萬華區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "2026-09-05 16:38:17",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
