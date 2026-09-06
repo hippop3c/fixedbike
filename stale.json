@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T19:07:45+08:00",
-  "updated_at_display": "2026-09-06 19:07:45",
+  "updated_at": "2026-09-06T22:15:29+08:00",
+  "updated_at_display": "2026-09-06 22:15:29",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,9 +14,130 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500205049",
+          "sna": "臺北大學蓮池",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 34,
+          "last_mday": "20260906T220903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203078",
+          "sna": "捷運三和國中站(2號出口)",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "20260906T220903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231018",
+          "sna": "育德國小",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20260906T220903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223084",
+          "sna": "淡水中正路停車場",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 23,
+          "tot": 24,
+          "last_mday": "20260906T220903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500223047",
+          "sna": "淡江教會文教中心",
+          "sarea": "淡水區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260906T220903",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107070",
+          "sna": "捷運行政大樓",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "2026-09-06 22:14:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119062",
+          "sna": "臺大公館停車場西北側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "2026-09-06 22:14:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119082",
+          "sna": "臺大四號館東北側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 34,
+          "last_mday": "2026-09-06 22:14:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119081",
+          "sna": "臺大教研館北側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "2026-09-06 22:14:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119063",
+          "sna": "臺大第二行政大樓南側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "2026-09-06 22:14:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500113101",
+          "sna": "崇仁花園(萬大路423巷)",
+          "sarea": "萬華區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "2026-09-06 22:14:03",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
