@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T06:35:54+08:00",
-  "updated_at_display": "2026-09-11 06:35:54",
+  "updated_at": "2026-09-11T08:33:22+08:00",
+  "updated_at_display": "2026-09-11 08:33:22",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -9,23 +9,7 @@
       "note": "樣本數不足，無法判斷"
     },
     "2h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
-    },
-    "4h": {
       "stations": [
-        {
-          "sno": "NTPC-500205037",
-          "sna": "大學學成路口",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
         {
           "sno": "NTPC-500205143",
           "sna": "新北市客家文化園區(側門)",
@@ -34,51 +18,7 @@
           "sbi": 1,
           "bemp": 28,
           "tot": 29,
-          "last_mday": "20260911T062903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500205054",
-          "sna": "臺北大學公共事務大樓(法商大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 43,
-          "tot": 44,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500205061",
-          "sna": "臺北大學懷德居木師基地",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500205053",
-          "sna": "臺北大學法學院(鳶飛大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 29,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500205058",
-          "sna": "臺北大學社科院(圖資大道)",
-          "sarea": "三峽區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 36,
-          "tot": 37,
-          "last_mday": "20260911T062902",
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
@@ -89,62 +29,7 @@
           "sbi": 1,
           "bemp": 22,
           "tot": 24,
-          "last_mday": "20260911T062903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203112",
-          "sna": "光復興德路口(東南側)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203105",
-          "sna": "興德路134號(前)",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500207048",
-          "sna": "錦和高中",
-          "sarea": "中和區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209027",
-          "sna": "五工二五工一路口(泰博科技)",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209023",
-          "sna": "五工五五權路口",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 17,
-          "tot": 18,
-          "last_mday": "20260911T062902",
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
@@ -155,51 +40,51 @@
           "sbi": 1,
           "bemp": 13,
           "tot": 14,
-          "last_mday": "20260911T062902",
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500206001",
-          "sna": "華南頂埔科技大樓",
-          "sarea": "土城區",
+          "sno": "NTPC-500201019",
+          "sna": "渡船頭平面停車場",
+          "sarea": "八里區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260911T062902",
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227052",
-          "sna": "台北慈濟醫院",
-          "sarea": "新店區",
+          "sno": "NTPC-500213001",
+          "sna": "菁桐老街",
+          "sarea": "平溪區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260911T062902",
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500227067",
-          "sna": "寶強文化路口",
-          "sarea": "新店區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 11,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229013",
-          "sna": "行政院新莊聯合辦公大樓",
+          "sno": "NTPC-500229017",
+          "sna": "化成公園",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260911T062902",
+          "bemp": 28,
+          "tot": 30,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218126",
+          "sna": "新府區運路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
@@ -210,106 +95,40 @@
           "sbi": 1,
           "bemp": 15,
           "tot": 16,
-          "last_mday": "20260911T062903",
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500234047",
-          "sna": "臺鐵鳳鳴站(鶯歌路)",
-          "sarea": "鶯歌區",
+          "sno": "NTPC-500231052",
+          "sna": "俊英街125巷口",
+          "sarea": "樹林區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "20260911T062902",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500107120",
-          "sna": "復華公園",
-          "sarea": "中山區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500106101",
-          "sna": "天津北平路口",
-          "sarea": "中正區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500106110",
-          "sna": "捷運善導寺站(3號出口)(忠孝東路側)",
-          "sarea": "中正區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 30,
-          "tot": 31,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500112082",
-          "sna": "臺北南山廣場_1",
-          "sarea": "信義區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 66,
-          "tot": 68,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500108143",
-          "sna": "堤頂大道二段407巷口",
-          "sarea": "內湖區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 13,
+          "bemp": 14,
           "tot": 15,
-          "last_mday": "2026-09-11 06:34:02",
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500108176",
-          "sna": "環山路三段1巷(麗山高中)",
-          "sarea": "內湖區",
-          "city": "臺北市",
+          "sno": "NTPC-500214067",
+          "sna": "汐萬抽水站",
+          "sarea": "汐止區",
+          "city": "新北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 18,
-          "last_mday": "2026-09-11 06:34:02",
+          "bemp": 8,
+          "tot": 9,
+          "last_mday": "20260911T082902",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500109101",
-          "sna": "關渡碼頭",
-          "sarea": "北投區",
+          "sno": "TPE-500106131",
+          "sna": "仁愛紹興路口(北側)",
+          "sarea": "中正區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 97,
-          "tot": 99,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500111093",
-          "sna": "中研院人文社會科學研究中心",
-          "sarea": "南港區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "2026-09-11 06:34:02",
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "2026-09-11 08:31:02",
           "sample_count": 2
         },
         {
@@ -320,7 +139,7 @@
           "sbi": 1,
           "bemp": 24,
           "tot": 25,
-          "last_mday": "2026-09-11 06:34:02",
+          "last_mday": "2026-09-11 08:31:02",
           "sample_count": 2
         },
         {
@@ -331,106 +150,7 @@
           "sbi": 1,
           "bemp": 24,
           "tot": 27,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500101209",
-          "sna": "臺大資訊大樓",
-          "sarea": "大安區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 75,
-          "tot": 76,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119072",
-          "sna": "臺大原分所北側",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119082",
-          "sna": "臺大四號館東北側",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119049",
-          "sna": "臺大女九舍西南側",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 36,
-          "tot": 37,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119091",
-          "sna": "臺大明達館北側(員工宿舍)",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 92,
-          "tot": 93,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119103",
-          "sna": "臺大次震宇宙館西側",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 33,
-          "tot": 34,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119068",
-          "sna": "臺大社會系館南側",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 49,
-          "tot": 51,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119093",
-          "sna": "臺大禮賢樓西側",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 35,
-          "tot": 36,
-          "last_mday": "2026-09-11 06:34:02",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119087",
-          "sna": "臺大總圖書館西南側",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 70,
-          "tot": 73,
-          "last_mday": "2026-09-11 06:34:02",
+          "last_mday": "2026-09-11 08:31:02",
           "sample_count": 2
         },
         {
@@ -441,7 +161,166 @@
           "sbi": 1,
           "bemp": 33,
           "tot": 35,
-          "last_mday": "2026-09-11 06:34:02",
+          "last_mday": "2026-09-11 08:31:02",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
+    },
+    "4h": {
+      "stations": [
+        {
+          "sno": "NTPC-500205143",
+          "sna": "新北市客家文化園區(側門)",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500202011",
+          "sna": "三芝遊客中心",
+          "sarea": "三芝區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 24,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500209025",
+          "sna": "永安橋下停車場",
+          "sarea": "五股區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500201019",
+          "sna": "渡船頭平面停車場",
+          "sarea": "八里區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500213001",
+          "sna": "菁桐老街",
+          "sarea": "平溪區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229017",
+          "sna": "化成公園",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 30,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218126",
+          "sna": "新府區運路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 29,
+          "tot": 30,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216091",
+          "sna": "忠孝公園路口",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 15,
+          "tot": 16,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500231052",
+          "sna": "俊英街125巷口",
+          "sarea": "樹林區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214067",
+          "sna": "汐萬抽水站",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 8,
+          "tot": 9,
+          "last_mday": "20260911T082902",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106131",
+          "sna": "仁愛紹興路口(北側)",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 22,
+          "tot": 23,
+          "last_mday": "2026-09-11 08:31:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500111061",
+          "sna": "捷運南港展覽館站(6號出口)",
+          "sarea": "南港區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "2026-09-11 08:31:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101038",
+          "sna": "臺大社科院圖書館前",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 27,
+          "last_mday": "2026-09-11 08:31:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119088",
+          "sna": "臺大黑森林西側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 33,
+          "tot": 35,
+          "last_mday": "2026-09-11 08:31:02",
           "sample_count": 2
         }
       ],
