@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T03:01:14+08:00",
-  "updated_at_display": "2026-09-20 03:01:14",
+  "updated_at": "2026-09-20T05:27:29+08:00",
+  "updated_at_display": "2026-09-20 05:27:29",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -23,7 +23,7 @@
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -34,7 +34,7 @@
           "sbi": 1,
           "bemp": 20,
           "tot": 21,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -45,7 +45,7 @@
           "sbi": 1,
           "bemp": 32,
           "tot": 33,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -56,29 +56,7 @@
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260920T025903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500202003",
-          "sna": "櫻花水車公園",
-          "sarea": "三芝區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260920T025903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203015",
-          "sna": "三重綜合體育館",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 50,
-          "tot": 52,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -89,51 +67,18 @@
           "sbi": 1,
           "bemp": 17,
           "tot": 18,
-          "last_mday": "20260920T025904",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500203141",
-          "sna": "新北大道一段57巷口",
+          "sno": "NTPC-500203111",
+          "sna": "光復路一段99巷口",
           "sarea": "三重區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20260920T025904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500203051",
-          "sna": "藍天大樓",
-          "sarea": "三重區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 30,
-          "last_mday": "20260920T025903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209003",
-          "sna": "五股工商立體停車場",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20260920T025903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500209017",
-          "sna": "新北市勞工活動中心",
-          "sarea": "五股區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 31,
-          "tot": 35,
-          "last_mday": "20260920T025903",
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -144,7 +89,29 @@
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260920T025904",
+          "last_mday": "20260920T052404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229021",
+          "sna": "中港大排願景館",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 55,
+          "tot": 57,
+          "last_mday": "20260920T052404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500229104",
+          "sna": "五工路68巷口",
+          "sarea": "新莊區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -155,40 +122,18 @@
           "sbi": 1,
           "bemp": 12,
           "tot": 14,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500229011",
-          "sna": "宏匯廣場",
+          "sno": "NTPC-500229097",
+          "sna": "國泰國小",
           "sarea": "新莊區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 50,
-          "tot": 51,
-          "last_mday": "20260920T025903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229120",
-          "sna": "捷運幸福站(2號出口)",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 34,
-          "tot": 35,
-          "last_mday": "20260920T025904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229055",
-          "sna": "新泰國中",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "20260920T025903",
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -199,7 +144,7 @@
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260920T025904",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -210,18 +155,18 @@
           "sbi": 1,
           "bemp": 21,
           "tot": 22,
-          "last_mday": "20260920T025904",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218020",
-          "sna": "捷運新埔站(5號出口)",
+          "sno": "NTPC-500218135",
+          "sna": "捷運江子翠站(2號出口)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 77,
-          "tot": 79,
-          "last_mday": "20260920T025903",
+          "bemp": 25,
+          "tot": 26,
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -232,7 +177,18 @@
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218061",
+          "sna": "文化路二段182巷1弄",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 48,
+          "tot": 49,
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -243,40 +199,29 @@
           "sbi": 1,
           "bemp": 11,
           "tot": 12,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218126",
-          "sna": "新府區運路口",
+          "sno": "NTPC-500218002",
+          "sna": "新北市政府(新站路)",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 29,
-          "tot": 30,
-          "last_mday": "20260920T025903",
+          "bemp": 72,
+          "tot": 74,
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500218096",
-          "sna": "板橋車站",
+          "sno": "NTPC-500218129",
+          "sna": "民生路二段/文化路一段286巷口",
           "sarea": "板橋區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 94,
-          "tot": 95,
-          "last_mday": "20260920T025903",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218127",
-          "sna": "海山高中(漢生東路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260920T025903",
+          "bemp": 11,
+          "tot": 13,
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -287,18 +232,18 @@
           "sbi": 1,
           "bemp": 16,
           "tot": 17,
-          "last_mday": "20260920T025904",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
-          "sno": "NTPC-500216046",
-          "sna": "林口轉運站",
+          "sno": "NTPC-500216006",
+          "sna": "扶輪公園",
           "sarea": "林口區",
           "city": "新北市",
           "sbi": 1,
-          "bemp": 97,
-          "tot": 99,
-          "last_mday": "20260920T025903",
+          "bemp": 47,
+          "tot": 48,
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -309,7 +254,7 @@
           "sbi": 1,
           "bemp": 11,
           "tot": 12,
-          "last_mday": "20260920T025904",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -320,29 +265,7 @@
           "sbi": 1,
           "bemp": 14,
           "tot": 15,
-          "last_mday": "20260920T025904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500220021",
-          "sna": "莊泰義東街口(新潤A5社區)",
-          "sarea": "泰山區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 39,
-          "tot": 40,
-          "last_mday": "20260920T025904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223034",
-          "sna": "滬尾藝文休閒園區",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 26,
-          "tot": 28,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -353,18 +276,7 @@
           "sbi": 1,
           "bemp": 13,
           "tot": 15,
-          "last_mday": "20260920T025904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500223029",
-          "sna": "輕軌崁頂站",
-          "sarea": "淡水區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 15,
-          "tot": 16,
-          "last_mday": "20260920T025903",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -375,7 +287,7 @@
           "sbi": 1,
           "bemp": 16,
           "tot": 17,
-          "last_mday": "20260920T025904",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -386,62 +298,7 @@
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "20260920T025904",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500234010",
-          "sna": "鳳鳴國小",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 20,
-          "last_mday": "20260920T025903",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500107190",
-          "sna": "中山北路二段26巷",
-          "sarea": "中山區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 49,
-          "tot": 51,
-          "last_mday": "2026-09-20 02:59:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500107164",
-          "sna": "捷運雙連站(1號出口)",
-          "sarea": "中山區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 13,
-          "tot": 17,
-          "last_mday": "2026-09-20 02:59:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500107112",
-          "sna": "民權新生路口",
-          "sarea": "中山區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 25,
-          "tot": 26,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500107207",
-          "sna": "龍江平面停車場",
-          "sarea": "中山區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 16,
-          "tot": 17,
-          "last_mday": "2026-09-20 02:59:04",
+          "last_mday": "20260920T052404",
           "sample_count": 2
         },
         {
@@ -452,18 +309,18 @@
           "sbi": 1,
           "bemp": 41,
           "tot": 43,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500106065",
-          "sna": "中山徐州路口",
+          "sno": "TPE-500106061",
+          "sna": "中華路一段21巷口",
           "sarea": "中正區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 39,
-          "tot": 41,
-          "last_mday": "2026-09-20 02:59:03",
+          "bemp": 21,
+          "tot": 22,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -474,73 +331,40 @@
           "sbi": 1,
           "bemp": 23,
           "tot": 25,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500106003",
-          "sna": "捷運公館站(1號出口)",
-          "sarea": "中正區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 10,
-          "tot": 12,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500106001",
-          "sna": "臺北自來水事業處",
+          "sno": "TPE-500106105",
+          "sna": "臺大醫院兒童醫院",
           "sarea": "中正區",
           "city": "臺北市",
           "sbi": 1,
           "bemp": 19,
-          "tot": 20,
-          "last_mday": "2026-09-20 02:59:03",
+          "tot": 22,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500112073",
-          "sna": "仁愛逸仙路口",
-          "sarea": "信義區",
+          "sno": "TPE-500106127",
+          "sna": "青島杭州路口",
+          "sarea": "中正區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 36,
-          "tot": 38,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500112033",
-          "sna": "市民廣場",
-          "sarea": "信義區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 48,
-          "tot": 50,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500112042",
-          "sna": "松高路(信義新天地A4館)",
-          "sarea": "信義區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 16,
+          "bemp": 15,
           "tot": 17,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500112043",
-          "sna": "興雅松仁路口",
+          "sno": "TPE-500112103",
+          "sna": "臺北文化體育園區辦公大樓",
           "sarea": "信義區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 63,
-          "tot": 65,
-          "last_mday": "2026-09-20 02:59:03",
+          "bemp": 26,
+          "tot": 33,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -551,40 +375,18 @@
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500108103",
-          "sna": "民善新湖二路口(家樂福內湖店)",
-          "sarea": "內湖區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 23,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500108109",
-          "sna": "瑞光路76巷口",
-          "sarea": "內湖區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500109035",
-          "sna": "台北護理大學",
+          "sno": "TPE-500109036",
+          "sna": "捷運石牌站(1號出口)",
           "sarea": "北投區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 41,
-          "tot": 42,
-          "last_mday": "2026-09-20 02:59:03",
+          "bemp": 32,
+          "tot": 33,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -595,18 +397,7 @@
           "sbi": 1,
           "bemp": 10,
           "tot": 11,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500111129",
-          "sna": "南港車站C棟(市民大道)",
-          "sarea": "南港區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 23,
-          "tot": 24,
-          "last_mday": "2026-09-20 02:59:04",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -617,7 +408,7 @@
           "sbi": 1,
           "bemp": 36,
           "tot": 38,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -628,18 +419,7 @@
           "sbi": 1,
           "bemp": 20,
           "tot": 21,
-          "last_mday": "2026-09-20 02:59:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500104031",
-          "sna": "劍潭基河路口",
-          "sarea": "士林區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 65,
-          "tot": 66,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -650,62 +430,51 @@
           "sbi": 1,
           "bemp": 24,
           "tot": 26,
-          "last_mday": "2026-09-20 02:59:04",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500103082",
-          "sna": "捷運民權西路站(1號出口)",
+          "sno": "TPE-500103057",
+          "sna": "捷運圓山站(2號出口)",
           "sarea": "大同區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 16,
-          "tot": 19,
-          "last_mday": "2026-09-20 02:59:04",
+          "bemp": 33,
+          "tot": 36,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500101105",
-          "sna": "和平金山路口",
-          "sarea": "大安區",
+          "sno": "TPE-500103084",
+          "sna": "捷運圓山站(庫倫街61巷口)",
+          "sarea": "大同區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 56,
-          "tot": 58,
-          "last_mday": "2026-09-20 02:59:03",
+          "bemp": 32,
+          "tot": 35,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500101181",
-          "sna": "捷運公館站(3號出口)",
+          "sno": "TPE-500101214",
+          "sna": "仁愛敦南圓環(西北側)",
           "sarea": "大安區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 97,
-          "tot": 99,
-          "last_mday": "2026-09-20 02:59:03",
+          "bemp": 18,
+          "tot": 20,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500101247",
-          "sna": "捷運忠孝復興站(4號出口)",
+          "sno": "TPE-500101018",
+          "sna": "溫州公園",
           "sarea": "大安區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "2026-09-20 02:59:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500101184",
-          "sna": "新生南路三段94巷口",
-          "sarea": "大安區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "2026-09-20 02:59:03",
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "2026-09-20 05:26:04",
           "sample_count": 2
         },
         {
@@ -716,7 +485,7 @@
           "sbi": 1,
           "bemp": 7,
           "tot": 8,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:04",
           "sample_count": 2
         },
         {
@@ -727,29 +496,7 @@
           "sbi": 1,
           "bemp": 16,
           "tot": 18,
-          "last_mday": "2026-09-20 02:59:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500101182",
-          "sna": "臺北科技大學(電機工程系)",
-          "sarea": "大安區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 32,
-          "tot": 34,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500101039",
-          "sna": "臺大法人語言訓練中心前",
-          "sarea": "大安區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 27,
-          "tot": 28,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -760,18 +507,7 @@
           "sbi": 1,
           "bemp": 5,
           "tot": 7,
-          "last_mday": "2026-09-20 02:59:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500101137",
-          "sna": "龍門廣場",
-          "sarea": "大安區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 68,
-          "tot": 70,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:04",
           "sample_count": 2
         },
         {
@@ -782,7 +518,18 @@
           "sbi": 1,
           "bemp": 10,
           "tot": 11,
-          "last_mday": "2026-09-20 02:59:04",
+          "last_mday": "2026-09-20 05:26:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105101",
+          "sna": "捷運木柵站(西側)",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 26,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -793,7 +540,7 @@
           "sbi": 1,
           "bemp": 25,
           "tot": 26,
-          "last_mday": "2026-09-20 02:59:04",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -804,7 +551,29 @@
           "sbi": 1,
           "bemp": 27,
           "tot": 28,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105125",
+          "sna": "景新大樓",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 16,
+          "last_mday": "2026-09-20 05:26:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105075",
+          "sna": "木柵路三段48巷",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 15,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -815,7 +584,7 @@
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -826,7 +595,18 @@
           "sbi": 1,
           "bemp": 10,
           "tot": 12,
-          "last_mday": "2026-09-20 02:59:04",
+          "last_mday": "2026-09-20 05:26:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500110037",
+          "sna": "南京光復路口",
+          "sarea": "松山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 31,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -837,18 +617,7 @@
           "sbi": 1,
           "bemp": 20,
           "tot": 21,
-          "last_mday": "2026-09-20 02:59:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500110043",
-          "sna": "捷運南京復興站(7號出口)",
-          "sarea": "松山區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 11,
-          "tot": 15,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -859,18 +628,18 @@
           "sbi": 1,
           "bemp": 19,
           "tot": 20,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:04",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500119072",
-          "sna": "臺大原分所北側",
+          "sno": "TPE-500119048",
+          "sna": "臺大大一女舍北側",
           "sarea": "臺大公館校區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 11,
-          "tot": 12,
-          "last_mday": "2026-09-20 02:59:03",
+          "bemp": 51,
+          "tot": 53,
+          "last_mday": "2026-09-20 05:26:04",
           "sample_count": 2
         },
         {
@@ -881,7 +650,18 @@
           "sbi": 1,
           "bemp": 42,
           "tot": 43,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:04",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119090",
+          "sna": "臺大新體育館東南側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 48,
+          "tot": 51,
+          "last_mday": "2026-09-20 05:26:04",
           "sample_count": 2
         },
         {
@@ -892,7 +672,7 @@
           "sbi": 1,
           "bemp": 16,
           "tot": 17,
-          "last_mday": "2026-09-20 02:59:04",
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         },
         {
@@ -903,18 +683,18 @@
           "sbi": 1,
           "bemp": 53,
           "tot": 54,
-          "last_mday": "2026-09-20 02:59:03",
+          "last_mday": "2026-09-20 05:26:04",
           "sample_count": 2
         },
         {
-          "sno": "TPE-500119045",
-          "sna": "臺大農業陳列館北側",
-          "sarea": "臺大公館校區",
+          "sno": "TPE-500113103",
+          "sna": "中華開封街口",
+          "sarea": "萬華區",
           "city": "臺北市",
           "sbi": 1,
-          "bemp": 43,
-          "tot": 45,
-          "last_mday": "2026-09-20 02:59:03",
+          "bemp": 35,
+          "tot": 36,
+          "last_mday": "2026-09-20 05:26:05",
           "sample_count": 2
         }
       ],
