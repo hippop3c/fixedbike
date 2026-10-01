@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T04:46:45+08:00",
-  "updated_at_display": "2026-10-01 04:46:45",
+  "updated_at": "2026-10-01T08:12:58+08:00",
+  "updated_at_display": "2026-10-01 08:12:58",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,9 +14,185 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500205053",
+          "sna": "臺北大學法學院(鳶飛大道)",
+          "sarea": "三峽區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "20261001T080902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206050",
+          "sna": "中央中華路口(金城)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 16,
+          "last_mday": "20261001T080902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227075",
+          "sna": "北新新生街口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20261001T080902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227084",
+          "sna": "龜山活動中心",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 7,
+          "tot": 8,
+          "last_mday": "20261001T080902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218219",
+          "sna": "生態南公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "20261001T080902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216008",
+          "sna": "三井Outlet",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 61,
+          "tot": 63,
+          "last_mday": "20261001T080902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500210053",
+          "sna": "保平路268巷",
+          "sarea": "永和區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20261001T080902",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500234041",
+          "sna": "鶯歌火車站(文化路)",
+          "sarea": "鶯歌區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "20261001T080902",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107088",
+          "sna": "南京伊通街口",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "2026-10-01 08:11:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107063",
+          "sna": "林森長春路口",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "2026-10-01 08:11:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106004",
+          "sna": "捷運公館站(4號出口)",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "2026-10-01 08:11:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108144",
+          "sna": "海德堡科技大樓",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "2026-10-01 08:11:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500109102",
+          "sna": "珠海路(48號公園)",
+          "sarea": "北投區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "2026-10-01 08:11:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500111054",
+          "sna": "經貿公園",
+          "sarea": "南港區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "2026-10-01 08:11:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101181",
+          "sna": "捷運公館站(3號出口)",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 98,
+          "tot": 99,
+          "last_mday": "2026-10-01 08:11:19",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500101021",
+          "sna": "銘傳國小側門",
+          "sarea": "大安區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 6,
+          "tot": 7,
+          "last_mday": "2026-10-01 08:11:03",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
