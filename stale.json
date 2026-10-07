@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T05:04:37+08:00",
-  "updated_at_display": "2026-10-07 05:04:37",
+  "updated_at": "2026-10-07T08:39:48+08:00",
+  "updated_at_display": "2026-10-07 08:39:48",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,9 +14,152 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500203007",
+          "sna": "環河福德南路口",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 27,
+          "tot": 28,
+          "last_mday": "20261007T083403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206046",
+          "sna": "中華日新街口",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "20261007T083403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500206090",
+          "sna": "捷運海山站(3號出口)",
+          "sarea": "土城區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 39,
+          "tot": 40,
+          "last_mday": "20261007T083403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227132",
+          "sna": "北新路三段171巷",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20261007T083403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500227108",
+          "sna": "安和碧安街口",
+          "sarea": "新店區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "20261007T083403",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107207",
+          "sna": "龍江平面停車場",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "2026-10-07 08:38:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106079",
+          "sna": "捷運中正紀念堂站(6號出口)",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 16,
+          "tot": 17,
+          "last_mday": "2026-10-07 08:38:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106004",
+          "sna": "捷運公館站(4號出口)",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "2026-10-07 08:38:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108031",
+          "sna": "文德二號公園(北側)",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "2026-10-07 08:38:18",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105108",
+          "sna": "景美國小",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 24,
+          "tot": 25,
+          "last_mday": "2026-10-07 08:38:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500110062",
+          "sna": "捷運松山站(3號出口)",
+          "sarea": "松山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 49,
+          "tot": 52,
+          "last_mday": "2026-10-07 08:38:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500110017",
+          "sna": "民生活動中心",
+          "sarea": "松山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 40,
+          "tot": 41,
+          "last_mday": "2026-10-07 08:38:02",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119056",
+          "sna": "臺大農化新館西側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 9,
+          "tot": 10,
+          "last_mday": "2026-10-07 08:38:02",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
