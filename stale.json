@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T08:16:30+08:00",
-  "updated_at_display": "2026-10-26 08:16:30",
+  "updated_at": "2026-10-26T13:01:38+08:00",
+  "updated_at_display": "2026-10-26 13:01:38",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,86 +14,9 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500234052",
-          "sna": "龍鳳夜市",
-          "sarea": "鶯歌區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 30,
-          "last_mday": "20261026T081403",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500112079",
-          "sna": "協和祐德高級中學",
-          "sarea": "信義區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "2026-10-26 08:15:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500108192",
-          "sna": "上灣公園",
-          "sarea": "內湖區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 24,
-          "tot": 25,
-          "last_mday": "2026-10-26 08:15:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500109115",
-          "sna": "溫泉路81號",
-          "sarea": "北投區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "2026-10-26 08:15:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500104041",
-          "sna": "捷運士林站(2號出口)",
-          "sarea": "士林區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 28,
-          "tot": 30,
-          "last_mday": "2026-10-26 08:15:04",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500103074",
-          "sna": "承德路三段324巷口",
-          "sarea": "大同區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 44,
-          "tot": 45,
-          "last_mday": "2026-10-26 08:15:20",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500105066",
-          "sna": "景美污水抽水站",
-          "sarea": "文山區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "2026-10-26 08:15:04",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     }
   }
 }
