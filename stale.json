@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T03:40:20+08:00",
-  "updated_at_display": "2026-11-09 03:40:20",
+  "updated_at": "2026-11-09T07:13:09+08:00",
+  "updated_at_display": "2026-11-09 07:13:09",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,9 +14,97 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500218098",
+          "sna": "縣民民族路口",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 48,
+          "tot": 49,
+          "last_mday": "20261109T070903",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216009",
+          "sna": "新北市林口行政園區",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 55,
+          "tot": 56,
+          "last_mday": "20261109T070903",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108226",
+          "sna": "成功路二段/石潭路(西南側)",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 43,
+          "tot": 45,
+          "last_mday": "2026-11-09 07:11:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108122",
+          "sna": "陽光舊宗路口",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "2026-11-09 07:11:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119062",
+          "sna": "臺大公館停車場西北側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "2026-11-09 07:11:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119101",
+          "sna": "臺大德田館東北側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 55,
+          "tot": 56,
+          "last_mday": "2026-11-09 07:11:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119102",
+          "sna": "臺大普通教學館東側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 41,
+          "tot": 42,
+          "last_mday": "2026-11-09 07:11:05",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500119063",
+          "sna": "臺大第二行政大樓南側",
+          "sarea": "臺大公館校區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 25,
+          "tot": 27,
+          "last_mday": "2026-11-09 07:11:05",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
