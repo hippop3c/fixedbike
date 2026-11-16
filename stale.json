@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T09:58:38+08:00",
-  "updated_at_display": "2026-11-16 09:58:38",
+  "updated_at": "2026-11-16T17:31:46+08:00",
+  "updated_at_display": "2026-11-16 17:31:46",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,86 +14,9 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [
-        {
-          "sno": "NTPC-500206029",
-          "sna": "中央慶利街口(風華綠中央社區)",
-          "sarea": "土城區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 21,
-          "tot": 22,
-          "last_mday": "20261116T095404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500229028",
-          "sna": "新莊田徑場",
-          "sarea": "新莊區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 41,
-          "tot": 42,
-          "last_mday": "20261116T095404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500218131",
-          "sna": "稚匯公園(華江三路)",
-          "sarea": "板橋區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 18,
-          "tot": 19,
-          "last_mday": "20261116T095404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500231044",
-          "sna": "大安文化街口",
-          "sarea": "樹林區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 20,
-          "tot": 21,
-          "last_mday": "20261116T095404",
-          "sample_count": 2
-        },
-        {
-          "sno": "NTPC-500214058",
-          "sna": "建成段平面停車場",
-          "sarea": "汐止區",
-          "city": "新北市",
-          "sbi": 1,
-          "bemp": 14,
-          "tot": 15,
-          "last_mday": "20261116T095404",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500112086",
-          "sna": "五分埔公園",
-          "sarea": "信義區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 19,
-          "tot": 20,
-          "last_mday": "2026-11-16 09:57:03",
-          "sample_count": 2
-        },
-        {
-          "sno": "TPE-500119070",
-          "sna": "臺大椰林小舖",
-          "sarea": "臺大公館校區",
-          "city": "臺北市",
-          "sbi": 1,
-          "bemp": 63,
-          "tot": 65,
-          "last_mday": "2026-11-16 09:57:03",
-          "sample_count": 2
-        }
-      ],
-      "sample_count": 2
+      "stations": [],
+      "sample_count": 1,
+      "note": "樣本數不足，無法判斷"
     }
   }
 }
