@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T07:35:51+08:00",
-  "updated_at_display": "2026-11-22 07:35:51",
+  "updated_at": "2026-11-22T11:29:59+08:00",
+  "updated_at_display": "2026-11-22 11:29:59",
   "target_sbi": 1,
   "windows": {
     "1h": {
@@ -14,9 +14,196 @@
       "note": "樣本數不足，無法判斷"
     },
     "4h": {
-      "stations": [],
-      "sample_count": 1,
-      "note": "樣本數不足，無法判斷"
+      "stations": [
+        {
+          "sno": "NTPC-500203077",
+          "sna": "三重社會福利服務中心",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 11,
+          "last_mday": "20261122T112403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203092",
+          "sna": "仁信段平面停車場",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 10,
+          "tot": 12,
+          "last_mday": "20261122T112418",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203054",
+          "sna": "東海高中",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 30,
+          "tot": 31,
+          "last_mday": "20261122T112403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500203091",
+          "sna": "群光公園",
+          "sarea": "三重區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 14,
+          "tot": 15,
+          "last_mday": "20261122T112403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218161",
+          "sna": "八德公園",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "20261122T112403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500218166",
+          "sna": "文聖國小(松柏街50巷)",
+          "sarea": "板橋區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 11,
+          "tot": 12,
+          "last_mday": "20261122T112403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500216068",
+          "sna": "師大林口校區正樓後",
+          "sarea": "林口區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "20261122T112403",
+          "sample_count": 2
+        },
+        {
+          "sno": "NTPC-500214068",
+          "sna": "汐萬康寧街口",
+          "sarea": "汐止區",
+          "city": "新北市",
+          "sbi": 1,
+          "bemp": 12,
+          "tot": 13,
+          "last_mday": "20261122T112403",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107113",
+          "sna": "建國長春路口(北側)",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 30,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107135",
+          "sna": "長寧大廈社區(南側)",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 31,
+          "tot": 32,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500107099",
+          "sna": "長春吉林路口",
+          "sarea": "中山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 20,
+          "tot": 21,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500106143",
+          "sna": "螢橋國中",
+          "sarea": "中正區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 17,
+          "tot": 18,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500108177",
+          "sna": "潭美公園(南京東路六段482號)",
+          "sarea": "內湖區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 28,
+          "tot": 29,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500111080",
+          "sna": "忠孝東路六段278巷口",
+          "sarea": "南港區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 13,
+          "tot": 14,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500111128",
+          "sna": "生物技術開發中心",
+          "sarea": "南港區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 21,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105037",
+          "sna": "興隆公共住宅D2區",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 26,
+          "tot": 27,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        },
+        {
+          "sno": "TPE-500105112",
+          "sna": "萬芳路107巷口",
+          "sarea": "文山區",
+          "city": "臺北市",
+          "sbi": 1,
+          "bemp": 19,
+          "tot": 20,
+          "last_mday": "2026-11-22 11:28:03",
+          "sample_count": 2
+        }
+      ],
+      "sample_count": 2
     }
   }
 }
